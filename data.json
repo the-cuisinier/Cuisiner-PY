@@ -45,7 +45,7 @@
             },
             "red pepper flakes": {
                 "quantity": "1/4",
-                "unit": "teaspoon"
+                "unit": "tsp"
             },
             "lemon": {
                 "quantity": "1/2",
@@ -56,8 +56,8 @@
                 "unit": "extra-large"
             },
             "rosemary": {
-                "quantity": "5",
-                "unit": "ml"
+                "quantity": "1",
+                "unit": "tsp"
             },
             "parsley": {
                 "quantity": "3",
@@ -177,6 +177,29 @@
             "Salt",
             "1/4 tsp black pepper"
         ],
+        "materials" : {
+            "tomatoes": {
+                "quantity": "4",
+                "unit": "c"
+            },
+            "basil": {
+                "quantity": "12",
+                "unit": "leaves"
+            },
+            "heavy cream": {
+                "unit": "1",
+                "quantity": "c"
+            },
+            "butter": {
+                "unit": "114",
+                "quantity": "grams"
+            },
+            "salt": {},
+            "black pepper": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            }
+        },
         "tags": [
             "soup",
             "tomatoes",
@@ -211,6 +234,37 @@
             "2 cup pecans, chopped ",
             "9-inch unbaked pie shell"
         ],
+        "materials" : {
+            "salt": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "eggs": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "butter": {
+                "quantity": "4",
+                "unit": "tbsp"
+            },
+            "rum": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "golden syrup": {
+                "quantity": "2/3",
+                "unit": "cup"
+            },
+            "brown sugar": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "pecans": {
+                "quantity": "2",
+                "unit": "cup"
+            },
+            "pie shell": {}
+        },
         "tags": [
             "dessert",
             "pie",
@@ -249,6 +303,60 @@
             "3 1/2 tbsp whipped-style cream cheese, at room temperature",
             "2 servings [cocktail sauce](http://www.xanthir.com/recipes/showrecipe.php?id=id50)"
         ],
+        "materials": {
+            "flour": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "sugar": {
+                "quantity": "3/2",
+                "unit": "tsp"
+            },
+            "baking powder": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "salt": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "pepper": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "eggs": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "milk": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "butter": {
+                "quantity": "3",
+                "unit": "tbsp"
+            },
+            "lemon juice": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "dill": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "salmon": {
+                "quantity": "7/2",
+                "unit": "tbsp"
+            },
+            "cream cheese": {
+                "quantity": "7/2",
+                "unit": "tbsp"
+            },
+            "cocktail sauce": {
+                "quantity": "2",
+                "unit": "servings"
+            }
+        },
         "tags": [
             "salmon",
             "ebelskivers",
@@ -284,6 +392,48 @@
             "1 tsp vanilla",
             "1 cup heavy cream, whipped"
         ],
+        "materials": {
+            "chocolate": {
+                "quantity": "1",
+                "unit": "ounce"
+            },
+            "vanilla": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "pecan": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "sugar": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "cream of tartar": {
+                "quantity": "1/8",
+                "unit": "tsp"
+            },
+            "salt": {
+                "quantity": "1/8",
+                "unit": "tsp"
+            },
+            "egg": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "water": {
+                "quantity": "3",
+                "unit": "tbsp"
+            },
+            "vanilla": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "heavy cream": {
+                "quantity": "1",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "chocolate",
             "dessert",
@@ -321,6 +471,49 @@
             "2 tablespoon finely grated Parmesan, plus extra for garnish",
             "Salt and freshly ground black pepper"
         ],
+        "materials": {
+            "parsley": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "garlic": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "butter": {
+                "quantity": "3",
+                "unit": "tbsp"
+            },
+            "nutmeg": {
+                "quantity": "1",
+                "unit": "pinch"
+            },
+            "baking powder": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "salt": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "milk": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "flour": {
+                "quantity": "3/2",
+                "unit": "cup"
+            },
+            "eggs": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "parmesan": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "black pepper": {}
+        },
         "tags": [
             "german",
             "noodles",
@@ -357,6 +550,50 @@
             "1 tablespoon dried thyme",
             "1 cup beef stock"
         ],
+        "materials": {
+            "bacon": {
+                "quantity": "227",
+                "unit": "grams"
+            },
+            "onions": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "kosher salt": {},
+            "black pepper": {},
+            "vegetable oil": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "beef chuck": {
+                "quantity": "681",
+                "unit": "grams"
+            },
+            "carrots": {
+                "quantity": "5",
+                "unit": "number"  
+            },
+            "flour": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "beer": {
+                "quantity": "354",
+                "unit": "ml"
+            },
+            "prune": {
+                "quantity": "6",
+                "unit": "number"  
+            },
+            "thyme": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "beef": {
+                "quantity": "1",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "beef",
             "main"
@@ -398,6 +635,76 @@
             "1 16oz can green beans",
             "1 16oz can green peas"
         ],
+        "materials": {
+            "beef": {
+                "quantity": "454",
+                "unit": "grams"
+            },
+            "onion": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "potato": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "carrots": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "celery": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "tomato sauce": {
+                "quantity": "2",
+                "unit": "small cans"
+            },
+            "water": {
+                "quantity": "4",
+                "unit": "cup"
+            },
+            "basil": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "thyme": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "bay leaf": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "salt": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "pepper": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "garlic powder": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "beef bouillon": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "can corn": {
+                "quantity": "474",
+                "unit": "grams"
+            },
+            "can green beans": {
+                "quantity": "474",
+                "unit": "grams"
+            },
+            "can green peas": {
+                "quantity": "474",
+                "unit": "grams"
+            }
+        },
         "tags": [
             "soup",
             "beef",
@@ -494,7 +801,6 @@
             "2 clove garlic, minced",
             "2 teaspoon kosher salt, plus more to taste",
             "1 cup extra-virgin olive oil, preferably Greek",
-            "<hr>",
             "1 head romaine lettuce, trimmed of tough stems and torn into bite-sized pieces",
             "1 cup kalamata olives, about 6oz/cup",
             "1/2 pound Feta cheese, crumbled",
@@ -635,12 +941,10 @@
             "1/4 bunch fresh basil, torn",
             "2 tbsp parmesan, grated",
             "Kosher salt and freshly ground pepper",
-            "<hr>",
             "2 tablespoon extra-virgin olive oil",
             "1 cup breadcrumbs",
             "2 tablespoon chopped fresh parsley",
             "1/4 cup parmesan, grated",
-            "<hr>",
             "8 cup Italian-blend salad greens",
             "3/4 bunch fresh basil, chiffonade",
             "8 ounce bocconcini (mozzarella), quartered"
@@ -675,7 +979,6 @@
             "1/2 teaspoon cumin",
             "2 tablespoon extra-virgin olive oil",
             "Kosher salt and freshly ground black pepper",
-            "<hr>",
             "1/2 cucumber, cubed",
             "1 avocado, cubed",
             "1 red bell pepper, cubed",
@@ -782,7 +1085,6 @@
             "1/4 cup chickpeas, drained and rinsed",
             "1 tbsp pistachios",
             "2 tbsp dried cranberries",
-            "<hr>",
             "salt and pepper, to taste",
             "2 tbsp olive oil",
             "1 tbsp red wine vinegar",
@@ -951,7 +1253,6 @@
             "1 hard boiled eggs, peeled and carefully sliced",
             "2 tbsp pecans, chopped",
             "2 tbsp dried cranberries",
-            "<hr>",
             "1 1/2 tbsp olive oil",
             "2 tsp vinegar",
             "1 tsp dijon mustard",
@@ -1312,7 +1613,6 @@
             "1 cup vegetable stock, or water",
             "1 lime, juiced",
             "1/4 cup cilantro, chopped",
-            "<hr>",
             "Cooked brown rice, accompaniment",
             "Sour cream or strained plain yogurt, garnish",
             "Diced avocado or guacamole, garnish",
@@ -1550,7 +1850,6 @@
             "3 cup spinach leaves, stemmed and well rinsed",
             "1 cup toasted pine nuts",
             "1/2 cup crumbled feta cheese",
-            "<hr>",
             "1 orange, zested and juiced",
             "1 tablespoon fresh lemon juice",
             "1 tablespoon shallot, minced",
@@ -1714,7 +2013,6 @@
             "1/2 cup unsweetened cocoa powder",
             "1 tsp vanilla extract",
             "1/4 tsp salt",
-            "<hr>",
             "4 cup milk",
             "4 oz chocolate, chopped fine"
         ],
@@ -1808,7 +2106,6 @@
             "2 tbsp Parmesan, grated",
             "1/2 lemon, zested",
             "salt and pepper",
-            "<hr>",
             "1/4 cup sliced almonds",
             "1/4 cup Parmesan, grated",
             "3 anchovies",
@@ -1944,7 +2241,6 @@
             "1 can black beans, rinsed and drained",
             "1/2 cup water",
             "coarse salt and ground pepper",
-            "<hr>",
             "4 flour tortillas, warmed or lightly toasted",
             "1 cup Monterey Jack cheese, shredded (1 cup \u2248 3 oz)",
             "1 avocado, pitted, peeled and thinly sliced",
@@ -2118,7 +2414,6 @@
             "Bowl of water, plus additional water for steamer",
             "40 small wonton wrappers",
             "Non-stick vegetable spray, for the steamer",
-            "<hr>",
             "1 1/2 tablespoon soy sauce",
             "1 tablespoon seasoned rice vinegar",
             "1 teaspoon sesame oil",
@@ -2301,7 +2596,6 @@
             "2 tbsp parsley, chopped",
             "1/2 tsp salt",
             "black pepper",
-            "<hr>",
             "1 tbsp extra-virgin olive oil",
             "2 tbsp parsley, chopped",
             "2 tbsp chives, chopped",
@@ -2537,7 +2831,6 @@
             "3 tbsp peanut butter, creamy",
             "3 tbsp dark brown sugar",
             "3 tbsp vegetable oil",
-            "<hr>",
             "1 red bell pepper, small and thinly sliced",
             "1/2 cup green onions",
             "1/2 cup basil",
@@ -2670,12 +2963,10 @@
             "all-purpose flour, for dusting and rolling",
             "1 pound pizza dough, thawed if frozen",
             "1 teaspoon extra-virgin olive oil, for brushing",
-            "<hr>",
             "1/2 cup whole-milk ricotta cheese",
             "1 tablespoon extra-virgin olive oil",
             "1 garlic clove, minced",
             "salt and freshly ground pepper",
-            "<hr>",
             "6 oz mozzarella, shredded",
             "1 oz Parmesan, grated (or Pecorino Romano)",
             "2 oz baby arugula",
@@ -2902,7 +3193,6 @@
             "1/2 tsp coarse salt",
             "2 egg yolks",
             "1/2 tsp vanilla extract",
-            "<hr>",
             "2 eggs, lightly beaten",
             "3 tbsp all-purpose flour",
             "2/3 cup sugar",
@@ -3338,14 +3628,12 @@
             "1 1/2 cup warm water",
             "5/8 cup safflower oil, 1/2 cup plus 2 tbsp",
             "2 tsp pure vanilla extract",
-            "<hr>",
             "4 cup granulated sugar",
             "1/4 cup light corn syrup",
             "1/4 cup water",
             "2 cup heavy cream",
             "Salt",
             "2 stick unsalted butter, cold, cut into tablespoons",
-            "<hr>",
             "3/8 cup Dutch-process cocoa powder, 1/4 cup plus 2 tbsp",
             "3/8 cup warm water",
             "2 stick unsalted butter, room temperature",
@@ -3590,7 +3878,6 @@
             "Kosher salt and freshly ground pepper",
             "2 can navy beans, 1 undrained; 1 drained and rinsed",
             "8 large eggs",
-            "<hr>",
             "8 thick slices crusty bread",
             "2 cup grape tomatoes, halved",
             "1/4 cup fresh parsley, chopped",
@@ -3624,14 +3911,12 @@
             "1 tbsp extra-virgin olive oil",
             "1/2 tsp salt",
             "Freshly ground pepper",
-            "<hr>",
             "1 lb medium shrimp, peeled, deveined and halved crosswise",
             "2 clove garlic, chopped",
             "1 tsp dried oregano",
             "1/2 tsp paprika",
             "1 tbsp extra-virgin olive oil",
             "1/4 tsp salt",
-            "<hr>",
             "4 cup romaine lettuce, torn into bite-sized pieces",
             "1 1/2 tbsp fresh lemon juice",
             "3 tbsp extra-virgin olive oil",
@@ -3710,7 +3995,6 @@
             "2 28oz cans whole San Marzano tomatoes, crushed by hand",
             "3 bay leaves",
             "1/4 cup fresh parsley, chopped",
-            "<hr>",
             "3 oz parmesan cheese, grated",
             "1 1/2 lb part-skim mozzarella cheese, shredded",
             "8 oz asiago cheese, shredded",
@@ -3854,7 +4138,6 @@
             "7 1/2 cup all-purpose flour",
             "3/4 cup walnuts, ground coarsely",
             "Ground cinnamon for sprinkling",
-            "<hr>",
             "1 cup honey",
             "1 cup sugar",
             "1 1/2 cup water",
@@ -3895,7 +4178,6 @@
             "1 teaspoon baking powder",
             "2 3/4 cup all-purpose flour",
             "1/4 cup brandy",
-            "<hr>",
             "1 2/3 pound fresh soft myzithra cheese, (or mascarpone or ricotta)",
             "1/2 teaspoon ground cinnamon",
             "2 tablespoon sugar",
@@ -3903,7 +4185,6 @@
             "1 teaspoon grated orange peel",
             "2 tablespoon all-purpose flour",
             "1 egg, beaten (for glaze)",
-            "<hr>",
             "ground cinnamon (for baked pastries)",
             "confectioner's sugar or honey (for fried pastries)"
         ],
@@ -4239,10 +4520,8 @@
             "2 1/4 stick unsalted butter, room temperature",
             "2 1/4 cup granulated sugar",
             "7 egg whites, room temperature",
-            "<hr>",
             "1 1/2 cup granulated sugar",
             "3/4 cup water",
-            "<hr>",
             "1 pound cream cheese, room temperature",
             "2 stick unsalted butter, room temperature",
             "6 cup confectioners' sugar",
@@ -4783,7 +5062,6 @@
             "1 1/2 tsp pure vanilla extract",
             "1 cup low-fat buttermilk",
             "5 ounce semisweet chocolate, melted and cooled",
-            "<hr>",
             "2 cup heavy cream",
             "8 oz semisweet chocolate, chopped",
             "8 oz bittersweet chocolate, chopped",
@@ -4847,7 +5125,6 @@
         "ingredients": [
             "4 (5-ounce) salmon fillets",
             "1/2 teaspoon salt",
-            "<hr>",
             "1/4 cup soy sauce",
             "1/4 cup sake or dry white wine, sake is preferred",
             "1/4 cup mirin",
@@ -4888,7 +5165,6 @@
             "2 tbsp rice wine vinegar",
             "3 tbsp soy sauce",
             "5 tbsp extra-virgin olive oil",
-            "<hr>",
             "1 carrot, thinly sliced or julienned",
             "2 stalk celery, thinly sliced or julienned",
             "5 green onions, bottom 4 inches, thinly sliced",
@@ -4933,7 +5209,6 @@
             "4 (6-ounce) fresh skinless salmon fillets (wild preferred)",
             "8 pita breads",
             "2 cup iceberg lettuce (optional), shredded",
-            "<hr>",
             "3 cup tomatoes, seeded and diced",
             "3/4 cup red onion, quartered and thinly sliced",
             "1 teaspoon garlic paste",
@@ -4944,7 +5219,6 @@
             "1/2 teaspoon freshly cracked black pepper",
             "1/2 teaspoon kosher salt",
             "1 1/2 tablespoon grapeseed oil",
-            "<hr>",
             "1 cup Greek yogurt",
             "1 1/2 cup English cucumber, peeled, seeded, finely diced",
             "1 1/2 tablespoon dill, chopped",
@@ -5046,11 +5320,9 @@
             "4 servings [Homemade Ponzu Sauce](http://www.xanthir.com/recipes/showrecipe.php?id=id157)",
             "1/4 cup sake",
             "2 tablespoon grated ginger",
-            "<hr>",
             "1 pound center-cut salmon fillet, cut into 4 equal pieces",
             "12 ounce asparagus, ends trimmed",
             "2 tablespoon vegetable oil",
-            "<hr>",
             "4 teaspoon sesame seeds",
             "4 servings [Sushi Rice](http://www.xanthir.com/recipes/showrecipe.php?id=id158)",
             "2 teaspoon sesame oil",
@@ -5121,13 +5393,11 @@
             "1 tbsp potato starch",
             "1 tsp soy sauce",
             "1 1/4 lb medium shrimp, peeled and deveined",
-            "<hr>",
             "2 tsp potato starch",
             "1 tbsp soy sauce",
             "2 tsp hoisin sauce",
             "1 1/2 tsp rice wine vinegar",
             "1/2 cup chicken broth, or water",
-            "<hr>",
             "2 tbsp vegetable oil",
             "4 green onions, cut into 1/2-inch pieces, white and green parts separated",
             "1 tbsp ginger, finely grated",
@@ -5199,7 +5469,6 @@
             "Coarse salt and ground pepper",
             "4 salmon fillets, skinless (6 ounces each)",
             "2 tablespoon Dijon mustard",
-            "<hr>",
             "1 tablespoon olive oil",
             "3 tablespoon fresh lemon juice",
             "5 ounce baby spinach",
@@ -5234,7 +5503,6 @@
             "2 cup heavy whipping cream",
             "18 whole chocolate graham crackers, (about 5 x 2-in./13 x 5-cm rectangles), divided",
             "2 tbsp unsweetened cocoa powder, for dusting",
-            "<hr>",
             "1/2 cup heavy whipping cream",
             "2 tbsp hazelnut-flavored liqueur",
             "2 tbsp powdered sugar",
@@ -5307,21 +5575,17 @@
         "instructions": "Cook pasta according to package directions, omitting salt and oil.  Carefully remove 1/2 cup (for 4 servings) of the cooking water for later use.  Drain pasta and set aside.\n\nMeanwhile, combine bread crumbs, oil and pressed garlic cloves in microwave-safe bowl.  Microwave, uncovered, on high 1-2 minutes or until light golden brown, stirring every 30 seconds.  Stir in parsley; set aside.\n\nCut cauliflower into small florets and onion into 1/2-in wedges.  Spritz medium skillet with olive oil.  Heat over medium-high heat until hot, then add cauliflower and onion, and season with salt. Cook 3-4 minutes or until cauliflower is golden brown on all sides, stirring occasionally.\n\nStir in remaining 1 tbsp oil, remaining pressed garlic cloves, wine, and pepper flakes; bring to a boil.  Cook 2-3 minutes or until wine is reduced by half.  \n\nAdd pasta, reserved cooking water, cheeses, black pepper, and remaining 1tsp salt; mix well. Remove skillet from heat, add spinach and tomatoes, stir until spinach wilts.  Cover and let stand 10 minutes or until spinach is wilted and sauce is thickened, stirring once halfway through.  Top each serving with bread crumb mixture and additional parmesan cheese.",
         "ingredients": [
             "8 oz dried orecchiette pasta",
-            "<hr>",
             "1/2 cup panko",
             "1 tbsp olive oil",
             "1 garlic cloves, pressed",
             "1/4 cup fresh parsley, chopped",
-            "<hr>",
             "3 cup cauliflower, cut into small florets",
             "1 medium red onion",
             "1/4 tsp salt",
-            "<hr>",
             "1 tbsp olive oil",
             "5 garlic cloves",
             "1 1/2 cup dry white wine",
             "1/4 tsp red pepper flakes",
-            "<hr>",
             "1 tsp salt",
             "1/3 cup mascarpone cheese",
             "2 oz Parmesan cheese, grated",
@@ -5388,7 +5652,6 @@
         "instructions": "Mix all ingredients, toss with dressing.",
         "ingredients": [
             "4 servings [chipotle honey vinaigrette](https://www.xanthir.com/recipes/showrecipe.php?id=id258)",
-            "<hr>",
             "2 avocados, diced",
             "2 can black beans, rinsed and drained",
             "1 cup grape tomatoes, halved",
@@ -5917,7 +6180,6 @@
             "2 tsp sugar",
             "4 garlic cloves, pressed",
             "1 tsp crushed red pepper flakes",
-            "<hr>",
             "4 oz feta cheese, cut into 1/2 inch cubes",
             "8 slices french bread, cut 1/4 in thick, brushed with oil and toasted",
             "6 cup baby spinach",
@@ -6098,7 +6360,6 @@
             "1 stick unsalted butter, cut into pieces and softened",
             "1 tablespoon fresh lemon juice",
             "1/4 teaspoon nutmeg, freshly grated",
-            "<hr>",
             "1 pound grape tomatoes, halved",
             "1/4 teaspoon sugar",
             "1/2 teaspoon Kosher salt",
@@ -6240,7 +6501,6 @@
             "1 can great northern beans, drained and rinsed",
             "1/4 tsp salt",
             "1/4 tsp ground black pepper",
-            "<hr>",
             "1/2 tbsp olive oil",
             "8 slices Italian bread, cut 1/2-in. thick",
             "6 oz smoked mozzarella cheese, shredded",
@@ -6380,7 +6640,6 @@
             "1/3 cup white onion, chopped",
             "1 tablespoon olive oil",
             "Salt and freshly ground black pepper",
-            "<hr>",
             "1 1/2 cup Monterrey Jack cheese",
             "1 tablespoon dried oregano",
             "6 poblano chili peppers, charred, seeded, and deveined *see Cook's Note",
@@ -6584,7 +6843,6 @@
             "1/4 teaspoon fine salt",
             "1/2 cup cold unsalted butter, cut into small pieces",
             "3 to 5 tablespoons ice water",
-            "<hr>",
             "3 tablespoon all-purpose flour",
             "3 eggs, lightly beaten ",
             "2 egg yolks, lightly beaten",
@@ -6791,11 +7049,9 @@
             "1/2 small onion, finely chopped",
             "1/2 teaspoon ground cumin",
             "salt",
-            "<hr>",
             "1/2 cup low-fat plain greek yogurt",
             "2 teaspoon fresh lime juice",
             "1/3 cup fresh cilantro, chopped",
-            "<hr>",
             "1 tablespoon vegetable oil",
             "2 cup chickpeas",
             "2 medium carrots, shredded",
@@ -6874,7 +7130,6 @@
             "Pinch of salt",
             "1/2 cup stout beer (such as Guinness)",
             "1 teaspoon vanilla extract",
-            "<hr>",
             "2 ounce semisweet chocolate, chopped",
             "2 tablespoon unsalted butter",
             "1 tablespoon light corn syrup",
@@ -6960,7 +7215,6 @@
             "1/2 teaspoon salt",
             "1/2 teaspoon vanilla extract",
             "4 tablespoon unsalted butter, at room temperature, plus more for brushing",
-            "<hr>",
             "1/2 cup blanched almonds",
             "1/3 cup granulated sugar",
             "4 tablespoon unsalted butter, at room temperature",
@@ -6971,7 +7225,6 @@
             "1/2 teaspoon finely grated orange zest, (optional)",
             "1/4 teaspoon almond extract",
             "6 ounce semisweet chocolate, finely chopped",
-            "<hr>",
             "6 tablespoon confectioners' sugar",
             "1/3 cup all-purpose flour",
             "3 tablespoon unsalted butter, at room temperature",
@@ -7073,7 +7326,6 @@
             "1/4 teaspoon Dijon mustard",
             "Kosher salt and freshly cracked black pepper",
             "1 Squeeze of lemon juice",
-            "<hr>",
             "1 pound kale, about 1 large bunch",
             "1/2 cup dried cranberries, roughly chopped",
             "1/2 cup Marcona almonds, roughly chopped"
@@ -7182,12 +7434,10 @@
             "4 cup King Arthur Unbleached All-Purpose Flour",
             "1 1/2 teaspoon salt",
             "1 tablespoon instant yeast",
-            "<hr>",
             "3/4 cup cinnamon sugar, or Baker's Cinnamon Filling",
             "3 tablespoon water, or a little butter",
             "2 medium bananas",
             "2/3 cup diced dried pineapple",
-            "<hr>",
             "1 large egg white, reserved from dough, mixed with 1 tablespoon cold water",
             "2 tablespoon coarse white sparkling sugar, or Demerara sugar"
         ],
@@ -7220,7 +7470,6 @@
             "1/4 teaspoon salt",
             "1/2 teaspoon coconut flavor, optional",
             "1/3 cup coconut milk powder, optional",
-            "<hr>",
             "1 1/2 cup semisweet chocolate chips",
             "2 1/2 tablespoon butter or margarine",
             "2 tablespoon light corn syrup or honey"
@@ -7283,7 +7532,6 @@
             "1 teaspoon salt",
             "3/4 cup almond flour",
             "2 1/4 cup King Arthur Unbleached All-Purpose Flour",
-            "<hr>",
             "1 1/2 cup confectioners' sugar"
         ],
         "tags": [
@@ -7381,7 +7629,6 @@
             "1 tbsp vanilla",
             "2 1/4 cup all-purpose flour",
             "1 tsp nutmeg",
-            "<hr>",
             "1/4 cup butter",
             "1 cup powdered sugar",
             "1 tbsp hot water, more if needed",
@@ -7556,7 +7803,6 @@
             "1/4 cup rice vinegar",
             "1 tablespoon sugar",
             "1 teaspoon sesame oil",
-            "<hr>",
             "7 ounce dried soba noodles",
             "1/2 cup daikon or breakfast radishes, finely julienned",
             "1 cup daikon radish sprouts, loosely packed",
@@ -7591,13 +7837,11 @@
         "ingredients": [
             "4 eggs",
             "2 medium russet potatoes, peeled and cut into 1-inch chunks",
-            "<hr>",
             "2 tablespoon red wine vinegar",
             "1 tablespoon whole-grain mustard",
             "Kosher salt",
             "Freshly ground pepper",
             "1/4 cup extra-virgin olive oil",
-            "<hr>",
             "2 cup giardiniera (Italian pickled vegetables), drained, rinsed and coarsely chopped",
             "2 ounce salami, deli-sliced, cut into strips",
             "1/4 cup green olives, pitted and chopped",
@@ -7739,7 +7983,6 @@
             "1/4 cup red onion, thinly sliced",
             "1/2 cup chickpeas",
             "1/4 cup fresh basil, thinly sliced",
-            "<hr>",
             "1 tbsp lemon juice",
             "1 tbsp red wine vinegar",
             "1 garlic clove, pressed or minced",
@@ -8193,7 +8436,6 @@
             "1/2 cucumber, chopped",
             "5 cup French bread (preferably day old), cubed",
             "2 tsp olive oil, divided",
-            "<hr>",
             "3 tbsp olive oil",
             "1 tbsp balsamic vinegar",
             "1/2 tsp garlic, minced",
@@ -8226,14 +8468,12 @@
             "2 tablespoon olive oil",
             "1/2 small onion, chopped",
             "1 tablespoon rosemary, chopped",
-            "<hr>",
             "1/2 small onion, chopped",
             "1 teaspoon garlic, minced",
             "1 pint grape tomatoes, halved",
             "8 oz seasoned kalamata olives",
             "2 tablespoon fresh basil, chopped",
             "2 tablespoon fresh parsley, chopped",
-            "<hr>",
             "4 salmon fillets",
             "2 tablespoon olive oil",
             "1/4 teaspoon salt",
@@ -8304,7 +8544,6 @@
             "1 15oz can crushed tomatoes, undrained",
             "1 1/2 cup vegetable broth, or chicken broth",
             "1/4 cup fresh basil, snipped",
-            "<hr>",
             "1/4 cup part-skim ricotta cheese",
             "2 tbsp grated fresh Parmesan cheese",
             "1 egg white, lightly beaten",
@@ -8342,7 +8581,6 @@
             "1/4 tsp Italian Seasoning",
             "1/4 tsp salt",
             "1 tbsp olive oil",
-            "<hr>",
             "2 large tomatoes",
             "4 large portobello mushroom caps",
             "4 oz log goat cheese",
@@ -8554,12 +8792,10 @@
             "1 lb refrigerated pizza dough",
             "Olive oil",
             "1 garlic clove, pressed",
-            "<hr>",
             "1 14oz can artichoke hearts in water, drained, divided",
             "4 ounce cream cheese, softened",
             "4 ounce feta cheese, crumbled, divided",
             "1/2 teaspoon dried oregano",
-            "<hr>",
             "2 plum tomatoes, seeded and chopped",
             "1/3 cup black olives, pitted and sliced",
             "1/3 cup cucumber, sliced and quartered",
@@ -8603,11 +8839,9 @@
             "1 24oz can tomato sauce",
             "1/2 cup parmesan, finely grated",
             "1/2 cup mozzarella, shredded",
-            "<hr>",
             "1/2 loaf Italian bread (5 ounces)",
             "2 tablespoon butter, melted",
             "2 garlic cloves, minced",
-            "<hr>",
             "1 tablespoon sherry vinegar or red-wine vinegar",
             "1 tablespoon olive oil",
             "1 head Belgian endive, stem end trimmed, thinly sliced",
@@ -8643,11 +8877,9 @@
             "2 teaspoon baking powder",
             "1/2 teaspoon salt",
             "3 tablespoon sugar",
-            "<hr>",
             "3 tablespoon oil, not olive oil",
             "2 eggs",
             "1 cup buttermilk",
-            "<hr>",
             "2 tbsp butter, for pan"
         ],
         "tags": [
@@ -8675,7 +8907,6 @@
             "4 1/2 oz graham crackers or chocolate wafer cookies",
             "2 tablespoon sugar",
             "4 tablespoon unsalted butter, melted",
-            "<hr>",
             "2 packages bar cream cheese (8 ounces each)",
             "1 cup sugar",
             "1 cup canned solid-pack pumpkin puree",
@@ -8711,7 +8942,6 @@
             "1/2 cup granulated sugar",
             "2 teaspoon vanilla extract, or vanilla bean paste",
             "2 cup all-purpose flour",
-            "<hr>",
             "1/2 cup butter",
             "1/2 cup Dark Brown Sugar",
             "2 tablespoon Cane Sugar",
@@ -8751,7 +8981,6 @@
             "1 cup sugar",
             "1 large egg",
             "2 teaspoon vanilla extract",
-            "<hr>",
             "2/3 cup heavy cream",
             "8 ounce milk chocolate, finely chopped",
             "Sprinkles, for decorating (optional)"
@@ -8826,7 +9055,6 @@
             "1/2 teaspoon salt",
             "1/2 teaspoon freshly ground black pepper",
             "1 tablespoon dried Italian herb mix, or herbs de Provence",
-            "<hr>",
             "1 pound penne pasta",
             "3 cup marinara sauce, (store bought or homemade)",
             "1 cup fontina cheese, grated",
@@ -8835,7 +9063,6 @@
             "1/2 teaspoon freshly ground black pepper",
             "1 1/2 cup frozen peas, thawed",
             "1/4 cup Parmesan, grated",
-            "<hr>",
             "1/3 cup Parmesan, for topping",
             "2 tablespoon butter, cut into small pieces"
         ],
@@ -9450,11 +9677,9 @@
             "1 medium red onion, thinly sliced",
             "1 tablespoon extra-virgin olive oil",
             "Kosher salt and freshly ground pepper",
-            "<hr>",
             "4 6-ounce center-cut skinless halibut fillets (1 3/4 inches thick)",
             "2 tablespoon extra-virgin olive oil",
             "1/2 teaspoon smoked paprika",
-            "<hr>",
             "10 ounce frozen peas",
             "1/4 cup water",
             "1/3 cup ricotta cheese",
@@ -9724,7 +9949,6 @@
             "1 cup baby arugula",
             "2 tbsp cheddar, grated",
             "Salt and pepper",
-            "<hr>",
             "4 eggs",
             "2 tbsp cheddar, grated"
         ],
@@ -9851,7 +10075,6 @@
             "Coarse salt and ground pepper",
             "3/4 pound orzo",
             "3 1/4 cup low-sodium chicken broth",
-            "<hr>",
             "1 teaspoon extra-virgin olive oil",
             "1 pound large shrimp, peeled and deveined",
             "1/4 tsp salt",
@@ -9890,7 +10113,6 @@
             "Coarse salt and ground pepper",
             "1 large head Boston lettuce, torn into small pieces",
             "4 radishes, trimmed, halved, and thinly sliced (about 1/2 cup)",
-            "<hr>",
             "1/4 cup raw green pumpkin seeds",
             "1/4 teaspoon chili powder",
             "4 dashes cayenne pepper",
@@ -10093,7 +10315,6 @@
             "Kosher salt and freshly ground black pepper",
             "4 medium red bell peppers or poblano peppers, see alternate cooking instructions",
             "Hot water, as needed",
-            "<hr>",
             "1 packed cup fresh basil leaves",
             "1/2 cup creme fraiche",
             "3 tablespoon extra-virgin olive oil",
@@ -10133,7 +10354,6 @@
             "1/2 cup grape tomatoes, halved or quartered",
             "2 ounce sliced provolone cheese, cut into thin strips",
             "1 ounce salami, cut into thin strips",
-            "<hr>",
             "2 teaspoon olive oil",
             "2 teaspoon red-wine vinegar",
             "1/2 teaspoon Dijon mustard",
@@ -10169,7 +10389,6 @@
             "1 small endive",
             "1/4 cup grape tomatoes",
             "2 tablespoon pecans",
-            "<hr>",
             "Coarse salt and ground pepper",
             "2 tablespoon fresh lemon juice",
             "1 tablespoon olive oil",
@@ -10339,7 +10558,6 @@
             "1 cup quick-cooking oats",
             "2/3 cup flour",
             "extra-fine salt (optional), for dusting on top",
-            "<hr>",
             "1 1/2 cup confectioners' sugar",
             "1/2 cup peanut butter, heaping",
             "5 tablespoon milk (or half & half)"
@@ -10374,7 +10592,6 @@
             "2 green onions, sliced",
             "3 oz smoked salmon, chopped",
             "salt and pepper",
-            "<hr>",
             "bagel chips",
             "smoked salmon, for topping"
         ],
@@ -10437,7 +10654,6 @@
             "1/2 tsp salt",
             "3 cup milk",
             "1 cup uncooked millet grits",
-            "<hr>",
             "1 tbsp olive oil",
             "8 oz white button mushrooms, sliced",
             "1 large shallot, finely chopped",
@@ -10447,7 +10663,6 @@
             "1 tbsp capers, drained",
             "1 tbsp balsamic vinegar",
             "1/2 tsp crushed red pepper flakes",
-            "<hr>",
             "2 oz mozzarella, grated or shredded",
             "3 tbsp fresh basil leaves, thinly sliced"
         ],
@@ -10479,7 +10694,6 @@
             "4 tsp Sriracha",
             "2 tbsp soy sauce",
             "1 1/2 tsp arrowroot starch",
-            "<hr>",
             "1 tbsp ginger, grated",
             "3 garlic cloves, pressed",
             "14 oz extra-firm tofu, drained and patted dry, cut into 3/4 inch cubes",
@@ -10589,7 +10803,6 @@
             "1 14oz package pita bread",
             "Olive oil cooking spray",
             "2 teaspoon Greek seasoning",
-            "<hr>",
             "1 pound ground lamb",
             "1 teaspoon garlic salt",
             "2 teaspoon Greek seasoning",
@@ -10751,7 +10964,6 @@
             "1/3 cup water",
             "8 eggs",
             "2 tablespoon cilantro, chopped",
-            "<hr>",
             "2 pieces pita bread",
             "1/2 cup plain nonfat Greek yogurt",
             "1/4 cup hummus"
@@ -10821,7 +11033,6 @@
             "3/4 teaspoon Kosher salt",
             "1/2 cup millet",
             "1/2 cup cooked chickpeas, (rinsed, if canned), smashed with a fork",
-            "<hr>",
             "1/2 cup breadcrumbs",
             "1 4oz can roasted green chili peppers, chopped",
             "1 small shallot, very finely chopped",
@@ -10829,7 +11040,6 @@
             "1 teaspoon sweet paprika",
             "3/4 teaspoon onion powder",
             "3/4 tsp salt",
-            "<hr>",
             "1 large egg",
             "1/4 cup breadcrumbs",
             "1/4 cup millet",
@@ -11083,7 +11293,6 @@
             "2 tbsp green onion, minced, white and pale green portions only",
             "2 tbsp fresh chives, minced",
             "2 tbsp fresh flat-leaf parsley, minced",
-            "<hr>",
             "8 oz cold-smoked salmon, thinly sliced",
             "3/4 cup creme fraiche",
             "2 tsp lemon zest, finely grated"
@@ -11145,13 +11354,11 @@
         "instructions": "1. Cook rice according to directions.  \n\n2. In a small bowl, whisk together coconut sauce ingredients; set aside.  \n\n3. Combine vegetables in large mixing bowl. Add edamame to bowl; toss vegetables thoroughly.  \n\n4. Heat oil in Stir-Fry Skillet or 12\u201d Skillet over medium heat 3\u20135 minutes. Press garlic into Skillet with Garlic Press; cook and stir 30\u201345 seconds or until fragrant. Whisk coconut sauce and add to Skillet, stir until thickened (less than 1 minute).  \n\n5. Add vegetables to Skillet; toss well to coat. Cook, uncovered, 3\u20136 minutes or until vegetables begin to soften and mixture is heated through, stirring frequently.  \n\n6. Remove Skillet from heat. Top with basil and peanuts. Serve immediately over rice.\n\nhttps://www.pamperedchef.com/pws/pamallan/recipe/Main+Dishes/Budget+Friendly/Thai+Vegetable+Stir-Fry/888041",
         "ingredients": [
             "3 cup uncooked brown rice",
-            "<hr>",
             "1 cup lite coconut milk, (shake before opening)",
             "1 1/2 tbsp Asian Seasoning Mix",
             "2 tbsp creamy peanut butter",
             "2 tbsp reduced-sodium soy sauce",
             "2 tbsp potato starch",
-            "<hr>",
             "3 medium carrots, peeled and cut into long julienne strips",
             "2 medium yellow squash, cut into long julienne strips",
             "2 medium zucchini, cut into long julienne strips",
@@ -11229,7 +11436,6 @@
             "2 egg yolks",
             "3\u20444 cup white wine",
             "canola oil or shortening, for frying",
-            "<hr>",
             "4 cup whole milk ricotta cheese",
             "1 1\u20442 cups powdered sugar",
             "1 tablespoon vanilla extract",
@@ -11296,7 +11502,6 @@
             "1 1/4 cup Sticky Bun Sugar",
             "1 cup unblanched sliced almonds",
             "1/2 serving [candied orange peel](http://www.xanthir.com/recipes/showrecipe.php?id=id383)",
-            "<hr>",
             "1 cup semisweet or bittersweet chocolate, chopped"
         ],
         "tags": [
@@ -11326,7 +11531,6 @@
             "2 large oranges, 1/4 inch of top and bottom cut off",
             "3 cup sugar",
             "3 cup water",
-            "<hr>",
             "1 cup sugar"
         ],
         "tags": [
@@ -11359,7 +11563,6 @@
             "1/2 teaspoon maple flavor",
             "1 cup flour",
             "2 tbsp flour",
-            "<hr>",
             "2 tablespoon unsalted butter, softened",
             "1 1/2 cup confectioners' sugar",
             "1/4 teaspoon salt",
@@ -11398,7 +11601,6 @@
             "4 1/2 cup all-purpose flour",
             "1/2 teaspoon baking powder",
             "1/4 teaspoon salt",
-            "<hr>",
             "1 pound unsalted butter",
             "1 cup good honey",
             "3 cup light brown sugar, packed",
@@ -11543,21 +11745,18 @@
             "5 tablespoon olive oil",
             "1 tsp salt",
             "1/2 tsp pepper",
-            "<hr>",
             "1 tbsp olive oil",
             "2 clove garlic, minced",
             "1/4 teaspoon dried oregano",
             "Pinch red pepper flakes",
             "1/4 tsp salt",
             "2 14oz can crushed tomatoes",
-            "<hr>",
             "2 tbsp bread crumbs (or 1 slice of bread, toasted til crunchy)",
             "8 ounce whole-milk ricotta cheese",
             "1/2 cup Pecorino Romano cheese, grated",
             "1/4 cup basil, chopped",
             "1 tablespoon lemon juice",
             "1/4 tsp salt",
-            "<hr>",
             "1/4 cup Pecorino Romano cheese, grated",
             "1 tbsp basil, chopped"
         ],
@@ -11708,7 +11907,6 @@
             "3 tablespoon soy sauce",
             "1 tablespoon chili sauce, such as Sriracha",
             "1 tablespoon packed dark-brown sugar",
-            "<hr>",
             "2 tablespoon vegetable oil",
             "2 eggs, lightly beaten",
             "14 oz firm tofu, drained, thinly sliced, and patted dry",
@@ -11784,7 +11982,6 @@
             "2 tbsp feta, crumbled ",
             "1/4 cup pine nuts, toasted ",
             "2 sprig dill, chopped",
-            "<hr>",
             "2 tablespoon tahini ",
             "1 tablespoon water ",
             "2 tablespoon lemon juice ",
@@ -11892,7 +12089,6 @@
             "2 tbsp canola oil",
             "4 leaves green leaf lettuce",
             "4 hamburger buns",
-            "<hr>",
             "4 tbsp low-fat Greek yogurt",
             "2 tsp adobo sauce",
             "1 small zucchini, julienned",
@@ -11928,7 +12124,6 @@
             "1 medium seedless cucumber, julienned, avoiding core",
             "1 cup fresh bean sprouts",
             "1/3 cup dry-roasted salted peanuts, coarsely chopped",
-            "<hr>",
             "2 cup all-purpose flour",
             "4 green onions, with tops, thinly sliced",
             "2 clove garlic, pressed",
@@ -11977,10 +12172,8 @@
             "3 clove garlic, pressed",
             "1/4 tsp salt",
             "1/4 tsp black pepper",
-            "<hr>",
             "1/2 cup panko",
             "2 1/2 tbsp canola oil",
-            "<hr>",
             "2/3 cup sweet and sour sauce, or teriyaki sauce with honey",
             "1 large bell pepper, thinly sliced",
             "1 cup frozen shelled edamame beans, thawed",
@@ -12042,14 +12235,12 @@
             "1/2 cup olive oil",
             "2 tbsp red wine vinegar",
             "1 tsp salt",
-            "<hr>",
             "black beans",
             "6 servings [guacamole](http://www.xanthir.com/recipes/showrecipe.php?id=id404)",
             "pico de gallo (recipe below)",
             "shredded romaine lettuce",
             "chopped yellow bell pepper",
             "Monterey jack cheese, shredded",
-            "<hr>",
             "1 1/2 lb tomatoes, cut into 1/4 to 1/2 inch dice",
             "kosher salt",
             "1/2 large white onion, finely diced (about 3/4 cup for full recipe)",
@@ -12125,12 +12316,10 @@
             "1/4 tsp black pepper",
             "3 oz feta cheese, crumbled",
             "1 tbsp olive oil, divided",
-            "<hr>",
             "1/2 tbsp olive oil",
             "8 cup baby spinach",
             "1/4 tsp salt",
             "1/4 tsp black pepper",
-            "<hr>",
             "2 cup grape tomatoes, quartered",
             "1/4 cup fresh basil, loosely packed, thinly sliced",
             "1/4 tsp salt",
@@ -12169,7 +12358,6 @@
             "1 avocado, diced",
             "1 tbsp Chipotle Rub",
             "1/4 tsp salt",
-            "<hr>",
             "14 oz extra-firm tofu, drained and patted dry",
             "1/4 tsp salt",
             "1 1/2 cup panko",
@@ -12255,7 +12443,6 @@
             "3 oz manchego cheese, shredded",
             "1/2 tsp black pepper, coarsely ground",
             "2 tbsp fresh parsley, chopped",
-            "<hr>",
             "2 tbsp sherry vinegar",
             "2 tbsp honey",
             "1 tbsp olive oil",
@@ -12297,7 +12484,6 @@
             "2 tsp sugar",
             "3/4 tsp salt",
             "1/2 tsp black pepper, coarsely ground",
-            "<hr>",
             "4 1/2 cup milk",
             "1 sprig fresh rosemary",
             "1 cup millet grits",
@@ -12345,7 +12531,6 @@
             "2 tbsp all-purpose flour",
             "1 cup milk",
             "4 oz garlic and herb-flavored cheese spread (such as Boursin)",
-            "<hr>",
             "8 sheets frozen phyllo dough, thawed",
             "Nonstick cooking spray",
             "1/2 cup fresh parsley (loosely packed)"
@@ -12379,10 +12564,8 @@
             "2 tsp sugar",
             "1 tsp fresh rosemary, finely chopped",
             "1/2 tsp black pepper, coarsely ground",
-            "<hr>",
             "1 lb refrigerated pizza dough",
             "1 tbsp olive oil",
-            "<hr>",
             "1 lb Japanese eggplant, ends trimmer and sliced into 1/2-in disks",
             "2 tbsp olive oil",
             "8 oz mozzarella cheese, shredded",
@@ -12453,7 +12636,6 @@
             "4 clove garlic, pressed",
             "1 cup medium pearled barley (not quick-cooking)",
             "1 cup dry white wine",
-            "<hr>",
             "1 clove garlic",
             "2 cup fresh basil (loosely packed)",
             "1 1/2 cup baby spinach",
@@ -12599,7 +12781,6 @@
             "3 clove garlic, roughly chopped",
             "1 1/2 tablespoon extra-virgin olive oil",
             "1 orange, juiced",
-            "<hr>",
             "4 small whole-wheat hoagie rolls, split",
             "1/4 cup yellow mustard",
             "tabasco, to taste",
@@ -12640,7 +12821,6 @@
             "3 tablespoon fresh flat-leaf parsley, chopped",
             "Salt and freshly ground black pepper",
             "Honey",
-            "<hr>",
             "1 medium head cauliflower",
             "2 tablespoon olive oil",
             "Salt and freshly ground black pepper",
@@ -12649,7 +12829,6 @@
             "5 cup whole milk, heated, divided",
             "1/8 teaspoon freshly grated nutmeg",
             "1/2 cup romano cheese, grated",
-            "<hr>",
             "1 pound part-skim ricotta cheese",
             "1 large egg",
             "3/4 cup fresh flat-leaf parsley, finely chopped, divided, plus more for garnish",
@@ -12823,14 +13002,12 @@
         "instructions": "Toast the bread.\n\nThen, do the following two things simultaneously:\n\n* Fry the eggs. As each pair of eggs is fried, put them on top of the bread.\n\n* Heat the oil in a large nonstick skillet over medium-high heat. Add the tomatoes, mushroom, and thyme, season with salt and pepper, and cook until tender, 5-7 minutes. Distribute this on top of the eggs (and around the plate, as there will be too much to stack).\n\nFinally, sprinkle with parmesan and chives.",
         "ingredients": [
             "4 slices country bread, toasted",
-            "<hr>",
             "1 teaspoon olive oil",
             "1 cup grape tomatoes, halved",
             "1/2 tsp kosher salt ",
             "1/2 tsp black pepper",
             "1 pound mushrooms, sliced",
             "1 tablespoon fresh thyme",
-            "<hr>",
             "8 large eggs",
             "1 ounce Parmesan, shaved",
             "2 tablespoon chopped fresh chives"
@@ -13017,7 +13194,6 @@
             "1/8 cup sun-dried tomatoes in oil, minced",
             "1/8 tbsp salt",
             "1/8 tbsp red pepper flakes",
-            "<hr>",
             "6oz curly pasta",
             "1 medium eggplant",
             "salt",
@@ -13258,7 +13434,6 @@
             "1/4 teaspoon kosher salt",
             "1 1/2 teaspoon vanilla extract",
             "2 1/4 cup pecans, toasted",
-            "<hr>",
             "1 1/2 cup cake flour",
             "1 teaspoon baking soda",
             "1/4 teaspoon freshly grated nutmeg",
@@ -13303,7 +13478,6 @@
             "Black pepper",
             "Salt",
             "2 tbsp extra-virgin olive oil",
-            "<hr>",
             "1 garlic cloves, finely chopped",
             "1 lemon, juiced",
             "4 anchovies, finely chopped (optional)",
@@ -13372,7 +13546,6 @@
         "ingredients": [
             "1 1/2 cup water",
             "3/4 wheat berries",
-            "<hr>",
             "2 medium leeks, cleaned and cut into 3/4-inch segments",
             "1/2 cup low-sodium chicken broth (or vegetable broth)",
             "1 strip orange zest (2 by 1 inch), optional",
@@ -13383,7 +13556,6 @@
             "2 tbsp nonpareil capers",
             "3/4 tsp fennel seeds",
             "1/4 tsp black pepper, freshly ground",
-            "<hr>",
             "1/4 lb haloumi cheese",
             "1 1/2 tsp dried oregano (or thyme)",
             "1/4 tsp black pepper, freshly ground",
@@ -13420,7 +13592,6 @@
             "Coarse salt and freshly ground black pepper",
             "1 scallion, thinly sliced",
             "Nonstick cooking spray",
-            "<hr>",
             "1 cup couscous",
             "1/2 lime, zested",
             "2 cup water",
@@ -13456,18 +13627,14 @@
             "12 oz red new potatoes",
             "1/4 teaspoon dried rosemary",
             "1 tsp olive oil",
-            "<hr>",
             "8 oz green beans, trimmed",
-            "<hr>",
             "2 skinless salmon fillets (about 8 ounces each)",
             "coarse salt and ground pepper",
-            "<hr>",
             "2 head Boston lettuce",
             "4 plum tomatoes",
             "3 Hard-Cooked Eggs",
             "1 medium red onion",
             "1/4 cup Kalamata olives, sliced",
-            "<hr>",
             "2 tablespoon fresh lemon juice",
             "1 tablespoon Dijon mustard",
             "Coarse salt and fresh ground pepper",
@@ -13611,15 +13778,12 @@
             "black pepper, to taste",
             "1/2 tbsp soy sauce",
             "lettuce leaves (to use as bento dividers), washed and dried",
-            "<hr>",
             "1 large green cabbage leaf",
             "1 2-inch length English cucumber, sliced into thin rounds",
             "1/2 tsp sea salt",
             "1 tbsp lemon juice",
-            "<hr>",
             "4 florets frozen broccoli",
             "4 cherry tomatoes",
-            "<hr>",
             "1 cup cooked rice"
         ],
         "tags": [
@@ -13653,15 +13817,12 @@
             "1/4 tsp soy sauce",
             "vegetable oil, for frying",
             "fresh parsley (for garnish)",
-            "<hr>",
             "1/4 small carrot, cut into green bean-equivalent sticks",
             "5 green beans, topped and tailed",
             "salt",
             "6 slices salami (6 slices \u2248 1oz)",
             "2 tbsp cream cheese, softened",
-            "<hr>",
             "1 cup cooked sushi rice",
-            "<hr>",
             "olive oil",
             "1 clove garlic, diced small",
             "2 oz baby spinach",
@@ -13854,7 +14015,6 @@
             "1 Tbsp fresh parsley, finely chopped",
             "1/2 tsp salt",
             "freshly ground black pepper",
-            "<hr>",
             "1 cup uncooked small pasta (such as tiny bowties/farfalline/small elbow macaroni/orzo)",
             "1/2 cup cherry tomatoes",
             "1/2 cup snowpeas",
@@ -14024,12 +14184,10 @@
             "15 ounce all-purpose flour divided into 10 ounces, 4 ounces and 1 ounce batches",
             "1 package rapid rise yeast, approximately 1/4 ounce",
             "1 1/4 teaspoon kosher salt",
-            "<hr>",
             "8 ounce light brown sugar",
             "1 tablespoon cinnamon, ground",
             "Pinch kosher salt",
             "1 1/2 tablespoon unsalted butter, melted",
-            "<hr>",
             "2 1/2 ounce cream cheese, softened",
             "3 tablespoon milk",
             "5 1/2 ounce confectioners' sugar"
@@ -14092,7 +14250,6 @@
             "1 tablespoon soy sauce",
             "1 tablespoon rice vinegar",
             "1 tablespoon water",
-            "<hr>",
             "1 medium carrot",
             "1/4 cup frozen green beans",
             "1 egg, hard-cooked",
@@ -14199,7 +14356,6 @@
             "4 endive, halved lengthwise",
             "2 medium red onion, each cut into 6 wedges",
             "1/2 lb shrimp, deveined and peeled",
-            "<hr>",
             "2 tbsp extra-virgin olive oil",
             "2 tbsp fresh sage, chopped",
             "1 tbsp lemon juice",
@@ -14315,7 +14471,6 @@
             "3 clove Garlic, peeled",
             "1/2 tsp Salt",
             "1/3 Cup non-fat Greek yogurt",
-            "<hr>",
             "1 1/2 lb Chicken (boneless chicken thigh), cut into 2-\u00ad3 inch cubes",
             "1/2 tsp garam masala",
             "2 tbsp Cilantro, chopped, for garnish",
@@ -14461,10 +14616,8 @@
             "1/2 lime, juiced",
             "3 Ounces White Cheddar Cheese",
             "2 large flour tortillas",
-            "<hr>",
             "1/2 lime, juiced",
             "2 Tablespoons Creme Fraiche",
-            "<hr>",
             "2 tsp olive oil, plus more for drizzling on radishes",
             "1/4 tsp taco seasoning",
             "3 Radishes, halved lengthwise then thinly sliced crosswise",
@@ -14557,18 +14710,15 @@
             "4 tbsp rice wine vinegar",
             "1 tbsp sugar",
             "1 scallion, finely chopped",
-            "<hr>",
             "1/2 cup mayo or vegan mayo",
             "1/4 cup reserved tofu marinade (plus more if needed)",
             "1 tbsp sriracha (or more/less to taste)",
-            "<hr>",
             "2 carrots, peeled and thinly sliced on an angle",
             "2/3 English cucumber, halved, seeds scraped out and thinly sliced at an angle",
             "1 bunch radishes, quartered",
             "6 tbsp rice vinegar",
             "2 tsp sea salt",
             "1/2 tsp sugar",
-            "<hr>",
             "8 oz French bread, cut into 1\u2033 cubes (needs to be stale, if bread is too fresh, leave cubes on the counter overnight to stale)",
             "1/4 cup fresh cilantro, stems removed",
             "2 tbsp black sesame seeds, for sprinkling"
@@ -14717,21 +14867,17 @@
         "instructions": "Remove the honey from the refrigerator to bring to room temperature. \n\nCook the **rice**: In a small saucepan, combine the rice, a big pinch of salt, and 1 cup of water. Heat to boiling on high. Once boiling, cover and reduce the heat to low. Cook 12 to 14 minutes, or until the water has been absorbed and the rice is tender. Turn off the heat and fluff the cooked rice with a fork.\n\nMix **shallot**, **rice flour**, salt, and pepper in a bowl. Toss to thoroughly coat. In a large pan, heat a thin layer of oil on medium-high until hot. Once the oil is hot enough that a piece of shallot sizzles immediately when added to the pan, add the coated shallot in a single layer (tapping off any excess flour before adding). Cook, stirring frequently, 2 to 3 minutes, or until browned and crispy. Transfer to a paper towel-lined plate; immediately season with salt and pepper. Rinse and wipe out the pan.\n\nIn the same pan, heat 2 teaspoons of olive oil on medium-high until hot. Add the **zucchini** and **sweet peppers**. Cook, stirring occasionally, 3 to 4 minutes, or until lightly browned. Turn off the heat; stir in the green tops of the **scallions**. Season with salt and pepper to taste. Transfer to a bowl; set aside in a warm place. Wipe out the pan.\n\nIn the same pan, heat 2 teaspoons of olive oil on medium-high until hot. Add the **tofu**; season with salt and pepper. Cook, frequently breaking the tofu apart with a spoon, 3 to 4 minutes, or until browned. Add the **garlic**, white bottoms of the **scallions**, **honey**, **soy sauce**, the juice of half the **lime**, 2 tablespoons of water, and as much of the **chili pepper** as you\u2019d like, depending on how spicy you\u2019d like the dish to be. Cook, stirring frequently, 1 to 2 minutes, or until thoroughly combined and the tofu is warmed through.\n\nDish up the rice, top with tofu and vegetables. Garnish with the fried shallot, cilantro and mint. Top with juice of remaining lime wedges.",
         "ingredients": [
             "1/2 cup white Jasmine rice",
-            "<hr>",
             "1 shallot, peeled and thinly sliced",
             "2 tbsp rice flour",
-            "<hr>",
             "4 oz sweet peppers, halved lengthwise, seeds/ribs removed, thinly sliced crosswise",
             "1 zucchini, large diced",
             "2 green onions, thinly sliced, whites and greens separated",
-            "<hr>",
             "7 oz tofu",
             "2 clove garlic, roughly chopped",
             "1 lime, halved",
             "2 tsp golden mountain sauce",
             "1 Thai chili (or jalapeno), thinly sliced into rounds",
             "1 tbsp honey, warmed to room temperature",
-            "<hr>",
             "1/2 tbsp fresh cilantro, chopped",
             "1/2 tbsp fresh mint, chopped"
         ],
@@ -14763,7 +14909,6 @@
             "4 oz White Cheddar Cheese, shredded",
             "2 oz Castelvetrano Olives, pitted and finely chopped",
             "2 oz Pickled peppadew peppers, finely chopped",
-            "<hr>",
             "6 oz Cherry Tomatoes, halved",
             "1 head Butter Lettuce, washed and dried, torn into bite sized pieces",
             "1 clove Garlic, minced",
@@ -14835,7 +14980,6 @@
             "1 cup panko breadcrumbs",
             "all purpose flour",
             "canola oil",
-            "<hr>",
             "4 nori sheets",
             "4 cup cooked sushi rice",
             "1 avocado, sliced",
@@ -15042,7 +15186,6 @@
             "1 Poblano Pepper, seeded and thinly sliced crosswise",
             "1 Vidalia Onion, thinly sliced and divided",
             "2 oz Pickled Goathorn Peppers, roughly chopped",
-            "<hr>",
             "1 large carrot, shredded",
             "3 Radishes, halved and thinly sliced"
         ],
@@ -15075,12 +15218,10 @@
             "1 Avocado, medium diced",
             "1/2 lb Broccoli, cut into bite-size florets",
             "1/2 tbsp rice vinegar",
-            "<hr>",
             "2 Rainbow Carrots, thinly sliced at an angle",
             "1 1/2 Tbsp Rice Vinegar",
             "1 1/2 Tbsp Sugar",
             "1 Tbsp Gochujang",
-            "<hr>",
             "1 Tbsp Mirin",
             "1 Tbsp Soy Sauce",
             "1 tsp Furikake",
@@ -15148,15 +15289,12 @@
         "ingredients": [
             "3/4 lb Brussels sprouts, trimmed and halved lengthwise",
             "2 medium carrots, halved lengthwise and cut crosswise in 1-in pieces",
-            "<hr>",
             "1 2/3 cup water",
             "1 clove garlic, pressed",
             "2/3 cup cracked freekeh",
-            "<hr>",
             "1 lemon, zested, juice divided",
             "1 clove garlic, pressed",
             "1/2 cup plain greek yogurt",
-            "<hr>",
             "2 tbsp almonds, roasted and roughly chopped",
             "2 dried medjool dates, roughly chopped",
             "1 tbsp fresh mint",
@@ -15252,7 +15390,6 @@
             "1/4 cup Greek yogurt",
             "2 tbsp milk",
             "1/2 tbsp honey, plus extra to serve (optional)",
-            "<hr>",
             "1/2 cup cherries, halved and pitted",
             "2 tbsp Greek yogurt",
             "1 oz semisweet chocolate chips"
@@ -15450,7 +15587,6 @@
             "1/2 tsp ground cumin",
             "1 tsp flour",
             "1/2 tsp ground allspice",
-            "<hr>",
             "1 tbsp vegetable oil",
             "salsa, for dipping"
         ],
@@ -15480,16 +15616,13 @@
             "1 serving mini burger recipe",
             "1 2-inch length of carrot, sliced into 1/4 inch rounds",
             "1/2 oz cheese",
-            "<hr>",
             "1/2 medium red onion, very thinly sliced",
             "salt",
             "1/4 cup parsley, loosely packed, finely chopped",
             "black pepper",
             "1 tsp rice vinegar",
             "1 pinch sugar",
-            "<hr>",
             "1/4 cup snow peas",
-            "<hr>",
             "1 cup cooked short-grain white rice",
             "sesame salt, for sprinkling"
         ],
@@ -15523,7 +15656,6 @@
             "1 egg",
             "2 tbsp fresh dill, chopped",
             "2 tbsp cream cheese",
-            "<hr>",
             "1 tbsp butter",
             "1 tbsp vegetable oil"
         ],
@@ -15652,7 +15784,6 @@
             "2 oz white cheddar cheese, thinly sliced",
             "1 tbsp butter",
             "1 clove garlic",
-            "<hr>",
             "3 cup salad greens, washed and torn",
             "3 oz radishes, halved and thinly sliced",
             "1/2 tbsp dijon mustard",
@@ -15689,7 +15820,6 @@
             "1/2 cup White Jasmine Rice",
             "1/2 serving [Mexican spice blend](https://www.xanthir.com/recipes/showrecipe.php?id=id519)",
             "1 cup water",
-            "<hr>",
             "2 tsp olive oil",
             "1 Zucchini, medium diced",
             "1 15-Ounce Can Black Beans, drained and rinsed",
@@ -15699,7 +15829,6 @@
             "2 Tbsp Ancho Chile Paste",
             "1/2 cup water",
             "1/4 cup Sour Cream Or Mexican Crema",
-            "<hr>",
             "4 small flour tortillas",
             "2 oz White Cheddar Cheese, grated"
         ],
@@ -15757,15 +15886,12 @@
             "1/2 lb Broccoli, cut into small florets",
             "1/2 lb Cremini Mushrooms, quartered",
             "1 1-Inch Piece Ginger, peeled and finely chopped",
-            "<hr>",
             "1/4 cup Mayonnaise",
             "1 Tbsp Sambal Oelek",
-            "<hr>",
             "3 oz Radishes, thinly sliced into half-moons",
             "6 oz Carrots, grated",
             "1 Tbsp Sugar",
             "2 Tbsp Rice Vinegar",
-            "<hr>",
             "2 Small Baguettes, halved",
             "1/2 tsp Black sesame seeds",
             "1/2 tsp White Sesame Seeds",
@@ -15799,13 +15925,11 @@
         "ingredients": [
             "1 sweet potato, sliced into \u00bc\" rounds",
             "1/2 tbsp mexican spice",
-            "<hr>",
             "3 cup salad greens",
             "1 avocado, sliced",
             "1 shallot, thinly sliced",
             "1 tbsp sugar",
             "1 lime, divided and juiced",
-            "<hr>",
             "4 oz white cheddar cheese, grated",
             "1 jalape\u00f1o (preferably pickled), roughly chopped",
             "1/4 cotija cheese, grated",
@@ -15981,7 +16105,6 @@
             "9 ounce sharp cheddar cheese, grated",
             "1 teaspoon kosher salt",
             "1/2 teaspoon black pepper, freshly ground",
-            "<hr>",
             "3 ounce sharp cheddar cheese, grated",
             "3 tablespoon unsalted butter, melted",
             "1 cup panko breadcrumbs"
@@ -16012,7 +16135,6 @@
         "ingredients": [
             "1 bunch Rosemary, stems removed",
             "1/4 cup Walnuts, roughly chopped",
-            "<hr>",
             "6 oz dried cavatelli pasta",
             "2 tsp olive oil",
             "1 Shallot, peeled and thinly sliced",
@@ -16021,7 +16143,6 @@
             "1/4 tsp Crushed Red Pepper Flakes",
             "2 Tbsp White wine vinegar",
             "1/4 cup Heavy Cream",
-            "<hr>",
             "2 Tbsp Butter",
             "1/2 cup reserved pasta cooking water",
             "2 Tbsp Parmesan, grated"
@@ -16059,7 +16180,6 @@
             "1 1/2 tsp ground cumin",
             "3/4 tsp ground coriander",
             "1/4 tsp cayenne pepper",
-            "<hr>",
             "8 oz feta cheese (block form)",
             "1 clove garlic, chopped",
             "1/2 teaspoon dried oregano",
@@ -16067,7 +16187,6 @@
             "1/4 cup olive oil",
             "2 tablespoon water",
             "1 teaspoon lemon juice",
-            "<hr>",
             "1/2 cup red onion, thinly sliced",
             "1 cup cherry tomatoes, halved",
             "1 cup English cucumber, thinly sliced into half-moons",
@@ -16103,11 +16222,9 @@
             "1 tbsp rice vinegar",
             "2 tsp sugar",
             "1/2 tsp salt",
-            "<hr>",
             "1 tbsp mayonnaise",
             "1 tsp chili sauce, such as Sriracha, sambal olek, etc",
             "1 tsp toasted sesame oil",
-            "<hr>",
             "1 can salmon, drained",
             "lettuce",
             "2 radishes, thinly sliced",
@@ -16346,7 +16463,6 @@
             "2 large eggs",
             "1/2 cup milk",
             "2 teaspoon vanilla extract",
-            "<hr>",
             "6 tbsp unsalted butter, softened",
             "1/3 cup vegetable shortening",
             "1/8 tsp salt",
@@ -16388,7 +16504,6 @@
             "1 cup milk",
             "1/2 cup coffee or water",
             "4 large eggs",
-            "<hr>",
             "1 3/4 cup unsweetened baking cocoa",
             "1 1/2 cup confectioners' sugar",
             "1 teaspoon espresso powder, optional, for enhanced chocolate flavor",
@@ -16421,18 +16536,15 @@
         "instructions": "Preheat the oven to 475\u00b0F. Heat a small pot of water to boiling on high. Once boiling, add the **eggs** and cook for exactly 10 minutes. Drain thoroughly and rinse under cold water for 30 seconds to 1 minute to stop the cooking process. When cool enough to handle, carefully peel the cooked eggs. Transfer to a cutting board and thinly slice; season with salt and pepper. Wipe out the pot.\n\nWhile the eggs cook, prep remaining ingredients. For the **beet**: On a paper towel-lined cutting board, peel and thinly slice. In a bowl, combine the **mayonnaise**, **capers**, **paprika**, and as much of the **garlic**  as you'd like. Season with salt and pepper to taste.\n\nPlace the **carrots** on a sheet pan. Drizzle with olive oil and season with salt and pepper; toss to thoroughly coat. Arrange in a single, even layer. Roast, stirring halfway through, 14 to 16 minutes, or until tender when pierced with a fork. Remove from the oven.\n\nWhile the carrots roast, in the same pot, combine the **beet**, **vinegar**, **shallot**, and **water**. Season with salt and pepper. Heat to boiling on high. Once boiling, cover and cook, stirring occasionally, 8 to 10 minutes, or until tender when pierced with a fork. Turn off the heat. Season with salt and pepper to taste.\n\nWhile the carrots continue to roast, place the **rolls** on a clean, dry work surface. Spread a layer of the **smoky mayonnaise** onto the cut sides of the rolls. Reserving the **pickling liquid**, drain the pickled beet. Divide the **beet**, sliced **eggs**, **cheese**, and as much of the **dill** as you'd like between the roll bottoms. Season with salt and pepper. Complete the sandwiches with the roll tops. In a medium pan (nonstick, if you have one), heat 2 teaspoons of olive oil on medium until hot. Add the sandwiches. Place a heavy-bottomed pot (or pan) on top of the sandwiches; press down. Cook, occasionally pressing down on the pot, 2 to 3 minutes per side, or until lightly browned and slightly flattened. Transfer to a cutting board and cut in half on an angle.\n\nWhile the sandwiches cook, to make the dressing, place the **reserved pickling liquid** in a bowl; slowly whisk in 1 tablespoon of olive oil until well combined. Season with salt and pepper to taste. In a large bowl, combine the **baby greens** and **roasted carrots**; season with salt and pepper. Add enough of the dressing to coat the salad (you may have extra dressing); toss to combine. Season with salt and pepper to taste. Divide the cooked sandwiches and salad between 2 dishes. Enjoy!",
         "ingredients": [
             "2 Eggs",
-            "<hr>",
             "2 Tbsp  Mayonnaise",
             "1 1/2 Tbsp  Capers, roughly chopped",
             "1 clove Garlic, pressed",
             "1/8 tsp Smoked Paprika",
-            "<hr>",
             "2 Carrots, quartered lengthwise and cut crosswise into 2-inch pieces",
             "1 Red Beet, see instructions for prep",
             "1/4 cup Red Wine Vinegar",
             "1 Shallot, peeled and thinly sliced",
             "3/4 cup water",
-            "<hr>",
             "2 Ciabatta Rolls, halved",
             "1 bunch Dill, roughly chopped",
             "1/4 cup Crumbled Feta Cheese",
@@ -16535,15 +16647,12 @@
             "2 Persian cucumbers, thinly sliced on an angle",
             "1 Tbsp sugar",
             "1/2 Tbsp apple cider vinegar",
-            "<hr>",
             "2 eggs",
             "2 small baguettes or rolls, cut in half and some inner bread removed",
-            "<hr>",
             "2 oz smoked Gouda cheese, grated",
             "2 Tbsp mayonnaise",
             "1/2 Tbsp Southern Spice Blend",
             "1 oz pickled jalapenos, chopped",
-            "<hr>",
             "1 Tbsp Dijon mustard",
             "1/2 Tbsp apple cider vinegar",
             "1 Tbsp olive oil",
@@ -16576,18 +16685,14 @@
             "3/4 lb sweet potatoes, peeled and cut into 1/4-inch thick rounds",
             "1 tbsp sweet white miso paste",
             "1 tbsp olive oil",
-            "<hr>",
             "1/2 cup sushi rice, uncooked",
             "3/4 cup water",
             "1 tbsp mirin",
             "1/2 tbsp rice vinegar",
-            "<hr>",
             "2 eggs",
-            "<hr>",
             "2 green onions, thinly sliced, white and green parts separated",
             "1/2 lb cabbage, core removed and thinly sliced",
             "1/4 cup sweet chili sauce",
-            "<hr>",
             "2 tbsp mayonnaise",
             "1/2 tbsp rice vinegar",
             "2 clove black garlic, peeled and finely chopped",
@@ -16742,14 +16847,11 @@
             "1 zucchini, grated and strained dry",
             "1 oz dates, medium diced",
             "1/3 cup matzo meal",
-            "<hr>",
             "2 oz spinach (or other baby greens)",
             "1/2 tbsp sherry vinegar",
-            "<hr>",
             "2 cod fillets",
             "1 1/2 tbsp flour",
             "1/2 tbsp ras al hanout",
-            "<hr>",
             "1/2 tbsp sherry vinegar",
             "1/4 cup mayo"
         ],
@@ -16782,7 +16884,6 @@
             "1 oz sweet piquante peppers, thinly sliced",
             "2 tbsp tomato paste",
             "1/2 cup long grain white rice",
-            "<hr>",
             "1 bunch collard greens",
             "1 tbsp apple cider vinegar, divided",
             "4 oz cremini mushrooms, thinly sliced",
@@ -16814,9 +16915,7 @@
         "ingredients": [
             "1/2 cup long-grain white rice, uncooked",
             "1 cup water",
-            "<hr>",
             "4 oz paneer cheese, medium diced",
-            "<hr>",
             "2 clove garlic, roughly chopped",
             "1 1-inch piece ginger, finely chopped",
             "1 zucchini, halved lengthwise, then thinly slice crosswise",
@@ -16946,7 +17045,6 @@
             "2 tablespoon extra-virgin olive oil",
             "1 teaspoon kosher salt",
             "1 tablespoon white miso (heaping tbsp)",
-            "<hr>",
             "4 thick slices crusty sourdough bread",
             "Extra-virgin olive oil",
             "1 garlic clove, peeled",
@@ -17079,16 +17177,13 @@
             "1/2 Tbsp toasted sesame seeds",
             "1 Tbsp nori seaweed, finely shredded",
             "shichimi pepper, to taste",
-            "<hr>",
             "1/4 cup dashi stock",
             "1/4 cup kaeshi",
-            "<hr>",
             "1 cup cabbage, finely shredded",
             "1/4 tsp salt",
             "1 Tbsp rice vinegar",
             "1 tsp sugar",
             "1/4 cup crabmeat or imitation crab",
-            "<hr>",
             "1 egg, hard-boiled",
             "4 cherry tomatoes"
         ],
@@ -17160,7 +17255,6 @@
             "1/4 oz fresh parsley, chopped",
             "8 oz scallops, tough muscle removed if needed",
             "2 tbsp butter",
-            "<hr>",
             "1/4 cup parmesan cheese, grated",
             "1 tbsp butter",
             "5 tsp truffle oil",
@@ -17198,7 +17292,6 @@
             "3 tbsp milk",
             "1 tbsp unsalted butter, melted",
             "1/4 tsp vanilla",
-            "<hr>",
             "1/8 tsp ground cinnamon",
             "1/2 tbsp granulated sugar"
         ],
@@ -17294,17 +17387,14 @@
         "ingredients": [
             "1 avocado, pitted, peeled and large diced",
             "1/4 lime, juiced",
-            "<hr>",
             "4 oz cremini mushrooms, thinly sliced",
             "1 poblano pepper, thinly sliced lengthwise",
             "1/4 cup water",
             "1 tbsp chipotle chile paste, or to taste",
             "1/2 tbsp cilantro, roughly chopped",
             "1/4 lime, juiced",
-            "<hr>",
             "4 small flour tortillas",
             "4 oz cheddar cheese, grated",
-            "<hr>",
             "1 romaine lettuce heart, cut into bite sized pieces",
             "3 radishes, sliced into rounds",
             "1/2 lime, juiced",
