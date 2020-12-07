@@ -65,7 +65,7 @@
             },
             "garlic": {
                 "quantity" : "4",
-                "unit": ""
+                "unit": "number"
             },
             "shallots": {
                 "quantity" : "1/4",
@@ -566,7 +566,7 @@
                 "unit": "tbsp"
             },
             "beef chuck": {
-                "quantity": "681",
+                "quantity": "227",
                 "unit": "grams"
             },
             "carrots": {
@@ -583,7 +583,7 @@
             },
             "prune": {
                 "quantity": "6",
-                "unit": "number"  
+                "unit": "number"
             },
             "thyme": {
                 "quantity": "1",
@@ -738,6 +738,33 @@
             "1/2 cup butter, divided use",
             "3 large onions"
         ],
+        "materials": {
+            "parmesan cheese": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "keebler": {},
+            "eggs": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "milk": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "red pepper flakes": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "butter": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "onions": {
+                "quantity": "3",
+                "unit": "number"
+            }
+        },
         "tags": [
             "onion",
             "casserole",
@@ -769,8 +796,34 @@
             "5 tablespoon Godiva 85% Dark Chocolate Callets",
             "2 eggs",
             "2 egg yolks",
-            "1 3/4 tablespoon cr\u00e8me faiche"
+            "1 3/4 tablespoon créme faiche"
         ],
+        "materials": {
+            "cream cheese": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "sugar": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "cocoa powder": {
+                "quantity": "3/4",
+                "unit": "tbsp"
+            },
+            "godiva": {
+                "quantity": "5",
+                "unit": "tbsp"
+            },
+            "eggs": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "créme faiche": {
+                "quantity": "3/4",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "cheesecake",
             "dessert",
@@ -810,6 +863,53 @@
             "2 teaspoon dried oregano",
             "Freshly ground black pepper"
         ],
+        "materials": {
+            "lemon juice": {
+                "quantity": "6",
+                "unit": "tbsp"
+            },
+            "garlic": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "kosher salt": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "olive oil": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "romaine lettuce": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "kalamata olives": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "feta cheese": {
+                "quantity": "227",
+                "unit": "grams"
+            },
+            "cucumber": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "grape tomatoes": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "red onion": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "oregano": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "black pepper": {}
+        },
         "tags": [
             "main",
             "greek",
@@ -844,6 +944,40 @@
             "2 tablespoon butter, melted",
             "1 1/4 cup buttermilk, cold"
         ],
+        "materials": {
+            "unsalted butter": {
+                "quantity": "6",
+                "unit": "tbsp"
+            },
+            "vegetable shortening": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "salt": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "baking powder": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "baking soda": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "flour": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "butter": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "buttermilk": {
+                "quantity": "1/4",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "biscuits",
             "bread",
