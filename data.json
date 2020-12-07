@@ -1379,6 +1379,32 @@
             "2 tsp cinnamon",
             "2 cup almond milk, or skim milk"
         ],
+        "materials": {
+            "banana": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "almond butter": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "dates": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "maple syrup": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "cinnamon": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "almond milk": {
+                "quantity": "2",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "smoothie",
             "FUF",
@@ -1415,6 +1441,50 @@
             "1 tbsp red wine vinegar",
             "1 tsp Dijon mustard"
         ],
+        "materials": {
+            "salad greens": {
+                "quantity": "2",
+                "unit": "cup"
+            },
+            "cucumber": {
+                "quantity": "1/4",
+                "unit": "number"
+            },
+            "grape tomatoes": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "black beans": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "chickpeas": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "pistachios": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "cranberries": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "salt": {},
+            "pepper": {},
+            "red wine vinegar": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "dijon mustard": {
+                "quantity": "1",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "salad",
             "beans",
@@ -1449,6 +1519,36 @@
             "1 cup blueberries",
             "1 1/2 cup milk"
         ],
+        "materials": {
+            "flax seeds": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "hemp seeds": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "peanut butter": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "banana": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "raspberries": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "blueberries": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "milk": {
+                "quantity": "1/2",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "smoothie",
             "FUF",
@@ -1482,6 +1582,38 @@
             "salt and pepper, to taste",
             "2 eggs"
         ],
+        "materials": {
+            "walnuts": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "apple": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "carrots": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "apple cider vinegar": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "lemon": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "eggs": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "raw",
             "salad",
@@ -1519,6 +1651,45 @@
             "2 teaspoon sesame oil",
             "black pepper, to taste"
         ],
+        "materials": {
+            "baby spinach leaves": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "edamame": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "avocado": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "cucumber": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "sesame seeds": {
+                "quantity": "3",
+                "unit": "tbsp"
+            },
+            "lime": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "wasabi paste": {
+                "quantity": "1/2",
+                "unit": "tbsp"
+            },
+            "soy sauce": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "sesame oil": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "black pepper": {}
+        },
         "tags": [
             "salad",
             "asian",
@@ -1547,6 +1718,16 @@
             "1/2 cup mixed berries",
             "2 tbsp maple syrup"
         ],
+        "materials": {
+            "mixed berries": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "maple syrup": {
+                "quantity": "2",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "sauce",
             "components",
@@ -1583,6 +1764,50 @@
             "1 tsp dijon mustard",
             "salt and pepper"
         ],
+        "materials": {
+            "baby spinach": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "salad greens": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "carrots": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "avocado": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "eggs": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "pecans": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "cranberries": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "olive oil": {
+                "quantity": "1/2",
+                "unit": "tbsp"
+            },
+            "vinegar": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "dijon mustard": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "salad",
             "FUF",
@@ -1614,6 +1839,28 @@
             "1/2 tsp greek seasoning",
             "1/4 cup feta cheese"
         ],
+        "materials": {
+            "olive oil": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "veggies": {
+                "quantity": "2",
+                "unit": "cup"
+            },
+            "eggs": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "greek seasoning": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "feta cheese": {
+                "quantity": "1/4",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "breakfast"
         ]
@@ -1643,6 +1890,32 @@
             "1 tbsp nut butter",
             "1 tbsp ground flax seed"
         ],
+        "materials": {
+            "oats": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "apple": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "cinnamon": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "maple syrup": {
+                "quantity": "1/2",
+                "unit": "tbsp"
+            },
+            "nut butter": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "flax seed": {
+                "quantity": "1",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "breakfast"
         ]
