@@ -1077,6 +1077,32 @@
             "1/4 teaspoon freshly ground black pepper",
             "1/2 cup olive oil"
         ],
+        "materials": {
+            "shallot": {
+                "quantity": "1",
+                "unit": ""
+            },
+            "sherry vinegar": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "dijon mustard": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "kosher salt": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "black pepper": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "olive oil": {
+                "quantity": "1/2",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "dressing",
             "components"
@@ -1117,6 +1143,58 @@
             "3/4 bunch fresh basil, chiffonade",
             "8 ounce bocconcini (mozzarella), quartered"
         ],
+        "materials": {
+            "tomato": {
+                "quantity": "5",
+                "unit": "number"
+            },
+            "oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "red wine vinegar": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "garlic": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "dried oregano": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "basil": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "parmesan": {
+                "quantity": "256",
+                "unit": "grams"
+            },
+            "kosher salt": {},
+            "pepper": {},
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "breadcrumbs": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "parsley": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "salad greens": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "bocconcini": {
+                "quantity": "227",
+                "unit": "grams"
+            }
+        },
         "tags": [
             "salad",
             "dressing",
@@ -1154,6 +1232,54 @@
             "1 tomato, cubed",
             "1/2 cup brown rice, cooked"
         ],
+        "materials": {
+            "lime": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "balsamic vinegar": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "basil leaves": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "cumin": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "kosher salt": {},
+            "black pepper": {},
+            "cucumber": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "avocado": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "red bell pepper": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "black beans": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "tomato": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "brown rice": {
+                "quantity": "1/2",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "salad",
             "mexican",
@@ -1189,6 +1315,37 @@
             "Pinch of sea salt",
             "1 jalapeno, seeded and minced fine (optional)"
         ],
+        "materials": {
+            "avocado": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "tomates": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "red onion": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "cilantro": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "garlic": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "lime": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "sea salt": {},
+            "jalapeno": {
+                "quantity": "1",
+                "unit": "number"
+            }
+        },
         "tags": [
             "dip",
             "appetizer",
