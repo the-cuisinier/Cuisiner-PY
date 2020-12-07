@@ -2213,9 +2213,9 @@
         "protein": 64,
         "instructions": "Heat oven to 250. Place butter in large roasting pan and melt in the oven. Mix together cereals, nuts, pretzels and bagel chips in a large bowl. Remove pan from oven and mix seasonings into the melted butter. Add cereal mix and stir well to coat with seasoned butter. Place in the oven and bake for 1 hour, stirring every 15 minutes. Spread mix out to cool before storing.",
         "ingredients": [
-            "3 cup Corn Chex\u00ae cereal",
-            "3 cup Rice Chex\u00ae cereal",
-            "3 cup Wheat Chex\u00ae cereal",
+            "3 cup Corn Chex cereal",
+            "3 cup Rice Chex cereal",
+            "3 cup Wheat Chex cereal",
             "1 cup mixed nuts",
             "1 cup bite-size pretzels",
             "1 cup garlic-flavor bite-size bagel chips or regular-size bagel chips, broken into 1-inch pieces",
@@ -2225,6 +2225,52 @@
             "3/4 teaspoon garlic powder",
             "1/2 teaspoon onion powder"
         ],
+        "materials": {
+            "corn chex cereal": {
+                "quantity": "3",
+                "unit": "cup"
+            },
+            "rice chex cereal": {
+                "quantity": "3",
+                "unit": "cup"
+            },
+            "wheat chex cereal": {
+                "quantity": "3",
+                "unit": "cup"
+            },
+            "mixed nuts": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "pretzels": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "bagel chips": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "butter": {
+                "quantity": "6",
+                "unit": "tbsp"
+            },
+            "worcestershire sauce": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "seasoned salt": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "garlic powder": {
+                "quantity": "3/4",
+                "unit": "tsp"
+            },
+            "onion powder": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            }
+        },
         "tags": [
             "snack",
             "party"
@@ -6212,7 +6258,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "1. For filling, combine chocolate hazelnut spread and liqueur in Stainless (4-qt./4-L) \nMixing Bowl; beat on medium speed of electric mixer until well blended. Gradually add \ncream; increase speed to medium-high and continue beating just until very soft peaks \nform (do not overbeat).  \n2. For cake, arrange four and a half of the crackers in a single layer in Square Baking Pan; \ntop with 1 cup (250 mL) of the hazelnut filling. Spread filling to edges with Small \nSpreader; repeat layers three more times, ending with all of the remaining filling. (There \nwill be more filling on top than in the inner layers.) Cover and refrigerate at least 8 hours \nor overnight.  \n3. When ready to serve, prepare hazelnut cream. Beat cream on medium-high speed of \nmixer in Stainless (2-qt./2-L) Mixing Bowl until soft peaks form. Add liqueur and \npowdered sugar; continue beating until stiff peaks form.  \n4. Sprinkle cake with cocoa powder using Flour/Sugar Shaker; cut into servings. Top each \nserving with hazelnut cream and garnish with hazelnuts and Chocolate Flowers, if desired.\n\nCook\u2019s Tips: For Chocolate Flowers, place 1/2 cup (125 mL) semi-sweet chocolate morsels into \nSmall Micro-Cooker\u00ae; microwave, uncovered, on HIGH 1 minute or until mostly melted, stirring\nevery 20 seconds. Pour melted chocolate into resealable plastic bag; twist to secure. Cut a small \ntip off corner of bag to allow chocolate to flow through. For three-dimensional design, cut 12 \npieces of Parchment Paper into 21/2 x 3-in. (6 x 7.5-cm) squares; fold in half. Fit parchment in \nwells of Muffin Pan. Pipe chocolate flower on Parchment Paper; refrigerate 15 minutes or until \nset. ",
+        "instructions": "1. For filling, combine chocolate hazelnut spread and liqueur in Stainless (4-qt./4-L) \nMixing Bowl; beat on medium speed of electric mixer until well blended. Gradually add \ncream; increase speed to medium-high and continue beating just until very soft peaks \nform (do not overbeat).  \n2. For cake, arrange four and a half of the crackers in a single layer in Square Baking Pan; \ntop with 1 cup (250 mL) of the hazelnut filling. Spread filling to edges with Small \nSpreader; repeat layers three more times, ending with all of the remaining filling. (There \nwill be more filling on top than in the inner layers.) Cover and refrigerate at least 8 hours \nor overnight.  \n3. When ready to serve, prepare hazelnut cream. Beat cream on medium-high speed of \nmixer in Stainless (2-qt./2-L) Mixing Bowl until soft peaks form. Add liqueur and \npowdered sugar; continue beating until stiff peaks form.  \n4. Sprinkle cake with cocoa powder using Flour/Sugar Shaker; cut into servings. Top each \nserving with hazelnut cream and garnish with hazelnuts and Chocolate Flowers, if desired.\n\nCook\u2019s Tips: For Chocolate Flowers, place 1/2 cup (125 mL) semi-sweet chocolate morsels into \nSmall Micro-Cooker; microwave, uncovered, on HIGH 1 minute or until mostly melted, stirring\nevery 20 seconds. Pour melted chocolate into resealable plastic bag; twist to secure. Cut a small \ntip off corner of bag to allow chocolate to flow through. For three-dimensional design, cut 12 \npieces of Parchment Paper into 21/2 x 3-in. (6 x 7.5-cm) squares; fold in half. Fit parchment in \nwells of Muffin Pan. Pipe chocolate flower on Parchment Paper; refrigerate 15 minutes or until \nset. ",
         "ingredients": [
             "1 1/2 cup chocolate hazelnut spread",
             "1/3 cup hazelnut-flavored liqueur",
