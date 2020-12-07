@@ -49,11 +49,11 @@
             },
             "lemon": {
                 "quantity": "1/2",
-                "unit": "zested and juiced"
+                "unit": "number"
             },
-            "egg yolk": {
+            "egg": {
                 "quantity": "1",
-                "unit": "extra-large"
+                "unit": "number"
             },
             "rosemary": {
                 "quantity": "1",
@@ -309,7 +309,7 @@
                 "unit": "cup"
             },
             "sugar": {
-                "quantity": "3/2",
+                "quantity": "1/2",
                 "unit": "tsp"
             },
             "baking powder": {
@@ -345,11 +345,11 @@
                 "unit": "cup"
             },
             "salmon": {
-                "quantity": "7/2",
+                "quantity": "3/2",
                 "unit": "tbsp"
             },
             "cream cheese": {
-                "quantity": "7/2",
+                "quantity": "3/2",
                 "unit": "tbsp"
             },
             "cocktail sauce": {
@@ -501,7 +501,7 @@
                 "unit": "cup"
             },
             "flour": {
-                "quantity": "3/2",
+                "quantity": "1/2",
                 "unit": "cup"
             },
             "eggs": {
@@ -578,7 +578,7 @@
                 "unit": "tbsp"
             },
             "beer": {
-                "quantity": "354",
+                "quantity": "355",
                 "unit": "ml"
             },
             "prune": {
@@ -1009,8 +1009,42 @@
             "2 tablespoon olive oil",
             "12 portobello mushroom caps, wiped clean",
             "2 tablespoon fresh chives, finely chopped, for garnish, optional",
-            "1 serving [Sherry Vinaigrette](http://www.xanthir.com/recipes/showrecipe.php?id=18)"
+            "1 serving Sherry Vinaigrette"
         ],
+        "materials": {
+            "manchego cheese": {
+                "quantity": "114",
+                "unit": "grams"
+            },
+            "baby spinach": {
+                "quantity": "3",
+                "unit": "cup"
+            },
+            "black pepper": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "kosher salt": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "portobello mushroom": {
+                "quantity": "12",
+                "unit": "number"
+            },
+            "chives": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "sherry vinaigrette": {
+                "quantity": "1",
+                "unit": "serving"
+            }
+        },
         "tags": [
             "vegetarian",
             "main",
