@@ -1946,6 +1946,36 @@
             "1 tsp fresh or dried rosemary",
             "1 tbsp olive oil"
         ],
+        "materials": {
+            "green lentils": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "garlic": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "vegetable broth": {
+                "quantity": "500",
+                "unit": "ml"
+            },
+            "water": {
+                "quantity": "250",
+                "unit": "ml"
+            },
+            "coconut oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "rosemary": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "olive oil": {
+                "quantity": "1",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "lentils",
             "FUF",
@@ -1976,6 +2006,23 @@
             "salt and pepper, to taste",
             "1 tsp cinnamon (optional)"
         ],
+        "materials": {
+            "sweet potatoes": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "butter": {},
+            "milk": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "salt": {},
+            "pepper": {},
+            "cinnamon": {
+                "quantity": "1",
+                "unit": "tsp"
+            }
+        },
         "tags": [
             "potatoes",
             "FUF",
@@ -2005,8 +2052,31 @@
             "2 tablespoon vegetable oil",
             "2 (10-ounce) filet mignon",
             "2 tablespoon unsalted butter, at room temperature, optional",
-            "2 servings [Roquefort Cheese Sauce](http://www.xanthir.com/recipes/showrecipe.php?id=62)"
+            "2 servings Roquefort Cheese Sauce"
         ],
+        "materials": {
+            "black peppercorns": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "fleur de sel": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "vegetable oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "filet mignon": {
+                "quantity": "567",
+                "unit": "grams"
+            },
+            "unsalted butter": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "roquefort cheese sauce": {}
+        },
         "tags": [
             "beef",
             "main"
@@ -2036,6 +2106,22 @@
             "1/4 teaspoon freshly ground black pepper",
             "1 tablespoon chives, chopped"
         ],
+        "materials": {
+            "heavy cream": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "french roquefort cheese": {
+                "quantity": "57",
+                "unit": "grams"
+            },
+            "kosher salt": {},
+            "black pepper": {},
+            "chives": {
+                "quantity": "1",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "sauce",
             "cheese",
@@ -2070,6 +2156,38 @@
             "1/4 teaspoon dry mustard",
             "10 ounce sharp cheddar, shredded"
         ],
+        "materials": {
+            "kosher salt": {},
+            "black pepper": {},
+            "hot sauce": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "milk": {
+                "quantity": "125",
+                "unit": "ml"
+            },
+            "eggs": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "butter": {
+                "quantity": "4",
+                "unit": "tbsp"
+            },
+            "macaroni": {
+                "quantity": "227",
+                "unit": "grams"
+            },
+            "dry mustard": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "cheddar": {
+                "quantity": "284",
+                "unit": "grams"
+            }
+        },
         "tags": [
             "cheese",
             "noodles",
