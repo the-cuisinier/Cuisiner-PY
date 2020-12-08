@@ -99,7 +99,7 @@
     "4": {
         "id": "4",
         "name": "Strawberries Romanov (La Madeleine copycat)",
-        "source": "http://cookeatshare.com/recipes/la-madeleine-s-strawberries-romanov-318025",
+        "source": "https://firebasestorage.googleapis.com/v0/b/the-cuisinier.appspot.com/o/recipes%2Fla-madeleine.jpeg?alt=media&token=11933d99-5d9d-4941-a7d5-24e267066952",
         "preptime": 0,
         "waittime": 0,
         "cooktime": 0,
@@ -2300,6 +2300,28 @@
             "2 eggs, at room temperature",
             "2 tsp extra-virgin olive oil"
         ],
+        "materials": {
+            "flour": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "semolina": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "salt": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "eggs": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tsp"
+            }
+        },
         "tags": [
             "noodles",
             "pasta",
@@ -2334,6 +2356,40 @@
             "1 tablespoon dried oregano",
             "1 tablespoon dried thyme"
         ],
+        "materials": {
+            "paprika": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "salt": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "garlic powder": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "black pepper": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "onion powder": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "cayenne pepper": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "oregano": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "thyme": {
+                "quantity": "1",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "seasoning",
             "components",
@@ -2381,6 +2437,76 @@
             "Essence, garnish",
             "Chopped green onions, garnish"
         ],
+        "materials": {
+            "canola oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "yellow onions": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "red bell peppers": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "garlic": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "serrano peppers": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "zucchini": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "portobello mushrooms": {
+                "quantity": "5",
+                "unit": "number"
+            },
+            "chili powder": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "ground cumin": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "salt": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "cayenne": {
+                "quantity": "1/4",
+                "unit": "tsp"
+            },
+            "black beans can": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "tomato sauce can": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "vegetable stock": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "lime": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "cilantro": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "brown rice": {},
+            "sour cream": {},
+            "guacamole": {},
+            "green onions": {}
+        },
         "tags": [
             "chili",
             "soup",
@@ -2413,6 +2539,30 @@
             "1/4 cup extra-virgin olive oil",
             "Kosher salt and freshly ground black pepper"
         ],
+        "materials": {
+            "lime": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "balsamic vinegar": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "basil": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "cumin": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "olive oil": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "kosher salt": {},
+            "black pepper": {},
+        },
         "tags": [
             "dressing",
             "components"
@@ -2448,6 +2598,52 @@
             "1/2 teaspoon cumin, freshly ground and toasted",
             "1/2 teaspoon black pepper, freshly ground"
         ],
+        "materials": {
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "onion": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "carrot": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "kosher salt": {
+                "quantity": "2",
+                "unit": "tsp"
+            },
+            "celery": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "lentils": {
+                "quantity": "454",
+                "unit": "grams"
+            },
+            "tomatoes": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "vegetable broth": {
+                "quantity": "946",
+                "unit": "grams"
+            },
+            "coriander": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "cumin": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "black pepper": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            }
+        },
         "tags": [
             "soup",
             "lentils",
@@ -2478,6 +2674,25 @@
             "4 tbsp maple syrup",
             "pinch of sea salt"
         ],
+        "materials": {
+            "water": {
+                "quantity": "500",
+                "unit": "ml"
+            },
+            "lemon": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "lime": {
+                "quantity": "1/2",
+                "unit": "number"
+            },
+            "maple syrup": {
+                "quantity": "4",
+                "unit": "tbsp"
+            },
+            "sea salt": {}
+        },
         "tags": [
             "FUF",
             "drink"
@@ -2511,6 +2726,45 @@
             "1 dried bay leaf",
             "2 teaspoon whole black peppercorns, crushed"
         ],
+        "materials": {
+            "leeks": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "carrots": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "onion": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "garlic": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "water": {
+                "quantity": "8",
+                "unit": "cup"
+            },
+            "flat-leaf parsley": {
+                "quantity": "5",
+                "unit": "sprig"
+            },
+            "thyme": {
+                "quantity": "2",
+                "unit": "sprig"
+            },
+            "black peppercorns": {
+                "quantity": "2",
+                "unit": "tsp"
+            }
+        },
+        "tags": [
+            "FUF",
+            "drink"
+        ]
+    },
         "tags": [
             "soup",
             "stock",
@@ -2545,6 +2799,30 @@
             "4 large flour tortillas, warmed or lightly toasted",
             "1 serving [Salsa fresca](http://www.xanthir.com/recipes/showrecipe.php?id=id172)"
         ],
+        "materials": {
+            "vegetable oil": {},
+            "olive oil": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "garlic": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "lime juice": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "white-fleshed fish fillets": {
+                "quantity": "114",
+                "unit": "grams"
+            },
+            "tortillas": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "salsa fresca": {}
+        },
         "tags": [
             "tacos",
             "fish",
@@ -2584,6 +2862,33 @@
             "1/4 cup parmesan cheese",
             "4 serving [marinara sauce](http://www.xanthir.com/recipes/showrecipe.php?id=id34)"
         ],
+        "materials": {
+            "cooked rice": {
+                "quantity": "2",
+                "unit": "cup"
+            },
+            "olive oil": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "garlic": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "lime juice": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "white-fleshed fish fillets": {
+                "quantity": "114",
+                "unit": "grams"
+            },
+            "tortillas": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "salsa fresca": {}
+        },
         "tags": [
             "vegetarian",
             "rice",
