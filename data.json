@@ -1911,7 +1911,6 @@
                 "quantity": "250",
                 "unit": "grams"
             },
-            "tomatoes": {},
             "salt": {},
             "pepper": {}
         },
@@ -2047,6 +2046,22 @@
             "Pinch cayenne pepper",
             "Salt and freshly ground pepper"
         ],
+        "materials": {
+            "cabbage": {
+                "quantity": "250",
+                "unit": "grams"
+            },
+            "onions": {
+                "quantity": "300",
+                "unit": "grams"
+            },
+            "tomatoes": {
+                "quantity": "250",
+                "unit": "grams"
+            },
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "dressing",
             "components",
@@ -2144,37 +2159,6 @@
             "untried"
         ]
     },
-    "id123": {
-        "id": "id123",
-        "name": "Pretzel shortbread bar",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 1200,
-        "waittime": 3600,
-        "cooktime": 1500,
-        "servings": 24,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 325F. Coat a 4 1/4-by-13 1/2-inch fluted tart pan with a removable bottom with cooking spray. Line bottom with parchment.\n2. Pulse 1 3/4 cups pretzels in a food processor until powdery. Transfer 1/2 cup to a bowl; discard any remaining pretzel powder. Stir in flour and baking powder. Transfer remaining 1 1/2 cups pretzels to food processor and pulse a few times until coarsely chopped.\n3. Beat butter and sugar with a mixer on medium speed until pale and fluffy, about 5 minutes. Reduce speed to low, and beat in egg yolk, then pretzel-flour mixture, until combined. Mix in 1/2 cup chopped pretzels.\n4. Press dough evenly into pan. Top dough with 1/4 cup chopped pretzels, pressing slightly; discard any remaining pretzels.\n5. Bake shortbread until pale brown and firm in the center, 25 to 30 minutes. Transfer pan to a wire rack, and let shortbread cool for 1 hour. Remove shortbread from pan, and cut into 1/2-inch wide rectangles using a serrated knife.",
-        "ingredients": [
-            "Cooking spray",
-            "3 1/4 cup salted miniature twist pretzels",
-            "1/2 cup all-purpose flour",
-            "1/2 tsp baking powder",
-            "1 stick unsalted butter, room temperature",
-            "1/2 cup sugar",
-            "1 large egg yolk"
-        ],
-        "tags": [
-            "dessert",
-            "untried"
-        ]
-    },
     "id125": {
         "id": "id125",
         "name": "Simple syrup",
@@ -2198,153 +2182,6 @@
         ],
         "tags": [
             "drink"
-        ]
-    },
-    "id126": {
-        "id": "id126",
-        "name": "Hot and nutty whiskey sours",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 1200,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Bring Nocello, whiskey, simple syrup, and lemon juice to a simmer in a medium saucepan. Divide among 4 mugs, and garnish each with a cinnamon stick.",
-        "ingredients": [
-            "3/4 cup Nocello, or other walnut-flavored liquer",
-            "1 1/2 cup whiskey or bourbon, such as Maker's Mark",
-            "3/4 serving [simple syrup](http://www.xanthir.com/recipes/showrecipe.php?id=id125)",
-            "1/4 cup fresh lemon juice, from 2 lemons",
-            "4 cinnamon sticks"
-        ],
-        "tags": [
-            "drink",
-            "alcohol",
-            "untried"
-        ]
-    },
-    "id127": {
-        "id": "id127",
-        "name": "Three cheese macaroni",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 2400,
-        "waittime": 0,
-        "cooktime": 1800,
-        "servings": 10,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 375F. Butter 10 mini (1 cup) pie plates or a 9x13-inch baking dish. Melt 2 tbsp butter in a small saucepan over medium heat. Add breadcrumbs, and toast, stirring occasionally, until golden brown, about 5 minutes.\n2. Warm milk in a medium saucepan over medium heat. Meanwhile melt remaining 6 tablespoons butter in a large high-sided skillet over medium heat. Cook until butter is bubbling. Add flour. Cook, stirring, for 1 minute.\n3. Gradually pour warm milk into butter mixture, whisking constantly, until mixture bubbles and thickens, about 5 minutes. Remove from heat, and stir in 3 cups cheddar, 1 cup Gruyere, 1 cup fontina, 1/2 teaspoon salt, 1/4 teaspoon black pepper, the nutmeg, paprika, and cayenne pepper.\n4. Bring a large pot of water to a boil. Cook pasta until al dente. Drain, and transfer past to cheese sauce. Stir to coat. Divide mixture among mini  pie plates or to baking dish. Scatter remaining cup of cheddar, 1/2 cup Gruyere, and 1/2 cup fontina over top, and sprinkle with toasted breadcrumbs. Bake until cheese is melted and pasta is warmed through, about 15 minutes. Transfer to a wire rack and let cool for 5 minutes before serving.",
-        "ingredients": [
-            "1 stick unsalted butter, plus more for pie plates",
-            "1 cup panko breadcrumbs",
-            "5 cup whole milk",
-            "1/2 cup all-purpose flour",
-            "10 oz sharp cheddar cheese, about 4 cups grated",
-            "4 oz Gruyere cheese, about 1 1/2 cups grated",
-            "4 oz fontina cheese, about 1 1/2 cups grated",
-            "Salt and freshly ground black pepper",
-            "1/4 tsp nutmeg, freshly grated",
-            "1/4 tsp paprika",
-            "1/4 tsp cayenne pepper",
-            "1 lb elbow macaroni"
-        ],
-        "tags": [
-            "cheese",
-            "pasta",
-            "main",
-            "untried"
-        ]
-    },
-    "id128": {
-        "id": "id128",
-        "name": "Broken glass cupcakes",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 2700,
-        "waittime": 0,
-        "cooktime": 2700,
-        "servings": 42,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 350F. Make the cupcakes: line cupcake tins with baking cups. Sift flour, baking powder, cinnamon, nutmeg, and 3/4 teaspoon salt into a medium bowl. Combine milk and vanilla in a measuring cup.\n2. Beat butter with a mixer on medium-high speed until pale and fluffy. Reduce speed to medium, and gradually add granulated sugar in a slow, steady stream. Beat until pale and fluffy, about 3 minutes. Reduce speed to low, and add flour mixture in 3 additions, alternating with milk mixture, beginning and ending with flour.\n3. In a clean bowl, whisk egg whites with a mixer on medium-high speed until stiff peaks form. Fold one-third of the whites into the cupcake batter. Fold in remaining egg whites in 2 batches.\n4. Divide batter among baking cups, filling each halfway full. Bake until a toothpick inserted into the center of each comes out clean and the tops spring back when lightly touched, 18 to 20 minutes. Let cool completely in tins set on wire racks.\n5. Meanwhile, make the caramel: bring granulated sugar and water to a boil in a small high-sided saucepan, stirring, until sugar dissolves. Reduce heat to medium-high, and cook until mixture just starts to turn pale gold around edges. Remove from heat, and immediately pour caramel onto a rimmed baking sheet. Working quickly, tilt pan to spread caramel to edges to make a very thin layer. Let cool to harden.\n6. Make the frosting: beat cream cheese and butter with a mixer on medium-high speed until pale and fluffy. Gradually add confectioners' sugar and vanilla. Beat until creamy and spreadable.\n7. Frost each cupcake using an offset spatula. Twist pan to release and break caramel in order for it to resemble broken glass. Place a shard or 2 of caramel \"glass\" in the center of each cupcake. Drizzle or pipe cherry preserves where caramel has entered the cupcake.\n\nMake ahead: unfrosted cupcakes can be stored at room temperature for up to 2 days. Frosting can be refrigerated for up to 4 days. Caramel can be stored at room temperature for up to 1 day, break just before using.\n\nStorage: frosted cupcakes can be refrigerated for up to 1 day. Top with caramel shards and cherry preserves just before serving.",
-        "ingredients": [
-            "4 1/2 cup cake flour",
-            "2 tbsp baking powder",
-            "1/2 tsp ground cinnamon",
-            "1/4 tsp nutmeg, freshly grated",
-            "salt",
-            "1 1/2 cup whole milk",
-            "1 tbsp pure vanilla extract",
-            "2 1/4 stick unsalted butter, room temperature",
-            "2 1/4 cup granulated sugar",
-            "7 egg whites, room temperature",
-            "1 1/2 cup granulated sugar",
-            "3/4 cup water",
-            "1 pound cream cheese, room temperature",
-            "2 stick unsalted butter, room temperature",
-            "6 cup confectioners' sugar",
-            "1/2 tsp pure vanilla extract",
-            "1 cup cherry preserves, strained, for garnish"
-        ],
-        "tags": [
-            "cupcakes",
-            "dessert",
-            "halloween",
-            "untried"
-        ]
-    },
-    "id131": {
-        "id": "id131",
-        "name": "Homemade beef stock",
-        "source": "http://www.marthastewart.com/261559/homemade-beef-stock",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Heat the oven to 450 degrees. Make a bouquet garni by wrapping parsley, thyme, rosemary, bay leaves, and peppercorns in a piece of cheesecloth. Tie with kitchen twine, and set aside. Arrange meat, veal bones, onion, carrots, and celery in an even layer in a heavy roasting pan. Roast, turning every 20 minutes, until the vegetables and the bones are deep brown, about 1 1/2 hours. Transfer the meat, bones, and vegetables to a large stockpot, and set aside. Pour off the fat from the roasting pan, and discard. Place the pan over high heat on the stove. Add wine, and use a wooden spoon to scrape up the brown bits; boil until the wine has reduced by half, about 5 minutes. Pour all of the liquid into the stockpot.\n\nAdd 6 quarts of cold water to the stockpot, or more if needed to cover bones. Do not add less water. Bring to a boil, then reduce to a very gentle simmer. Add the reserved bouquet garni. Liquid should just bubble up to surface. Skim the foam from the surface, and discard. Simmer over the lowest possible heat for 3 hours; a skin will form on the surface of the liquid; skim off with a slotted spoon, and discard. Repeat as needed. Add water if at any time the level drops below the bones.\n\nStrain the stock through a fine sieve into a large bowl. Discard the solids. Transfer the bowl to an ice bath, and let cool to room temperature. Transfer to airtight containers. Refrigerate for at least 8 hours, or overnight. Stock may be refrigerated for 3 days or frozen for 4 months. If storing, leave fat layer intact to seal the stock. Before using, remove the fat that has collected on the surface.",
-        "ingredients": [
-            "8 sprig fresh flat-leaf parsley",
-            "6 sprig fresh thyme (or 3/4 tsp dried thyme)",
-            "4 sprig fresh rosemary (or 2 tsp dried rosemary)",
-            "2 dried bay leaves",
-            "1 tablespoon whole black peppercorns",
-            "1 pound beef-stew meat, cubed",
-            "5 pound veal bones, sawed into smaller pieces",
-            "1 large onion, peel on, quartered",
-            "2 large carrots, cut into thirds",
-            "2 stalk celery, cut into thirds",
-            "2 cup dry red wine"
-        ],
-        "tags": [
-            "stock",
-            "components",
-            "untried"
         ]
     },
     "id132": {
@@ -2376,6 +2213,20 @@
             "1 small French baguette, sliced crosswise into 1/2-inch pieces",
             "8 ounce Gruyere cheese, grated on the large holes of a box grater (about 3 cups)"
         ],
+        "materials": {
+            "flour": {
+                "quantity": "22",
+                "unit": "grams"
+            },
+            "onions": {
+                "quantity": "908",
+                "unit": "grams"
+            },
+            "cheese": {},
+            "sugar": {},
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "soup",
             "main"
@@ -2414,183 +2265,6 @@
             "main"
         ]
     },
-    "id134": {
-        "id": "id134",
-        "name": "Green pea soup with cheddar scallion panini",
-        "source": "http://www.marthastewart.com/315072/green-pea-soup-with-cheddar-scallion-pan?center=0&gallery=274637&slide=282036",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 1200,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a large saucepan, heat 1 tablespoon butter over medium. Add scallion whites, and cook, stirring, until softened, 1 to 2 minutes. Add peas, broth, and water. Bring to a boil; reduce heat to a simmer. Cook until peas are tender, about 5 minutes; set aside.\n\nIn a medium bowl, toss cheddar with scallion greens. Make 4 sandwiches with cheddar mixture and bread.\n\nIn a large skillet, heat 1 tablespoon butter over medium-low. Place sandwiches in skillet, and cook until golden, 3 to 4 minutes per side, adding remaining tablespoon butter to skillet to cook second side.\n\nWorking in batches, puree soup in a blender until smooth (filling blender only halfway to prevent spattering). If necessary, adjust consistency with a little bit of water. Season with salt, pepper, and lemon juice. Slice each panini into four \"fingers, and serve with soup.",
-        "ingredients": [
-            "3 tablespoon butter",
-            "4 green onions, white and green parts separated and thinly sliced",
-            "30 oz frozen peas",
-            "2 cup chicken broth",
-            "3 cup water",
-            "6 oz shredded sharp white cheddar",
-            "8 slices sandwich bread",
-            "Coarse salt and ground pepper",
-            "1 tablespoon fresh lemon juice"
-        ],
-        "tags": [
-            "soup",
-            "main",
-            "panini"
-        ]
-    },
-    "id136": {
-        "id": "id136",
-        "name": "Broccoli soup with cheddar toasts",
-        "source": "http://www.marthastewart.com/336427/broccoli-soup-with-cheddar-toasts?center=0&gallery=274637&slide=262654",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 1168,
-        "fat": 48,
-        "satfat": 16,
-        "carbs": 128,
-        "fiber": 40,
-        "sugar": 40,
-        "protein": 96,
-        "instructions": "Heat oil in a large pot over medium heat until hot but not smoking. Add onion, garlic, and broccoli stems; cover, and cook, stirring occasionally, until vegetables are soft, about 15 minutes. Add stock and salt; cover, raise heat to medium-high, and bring to a boil. Add broccoli florets; reduce heat, and simmer, uncovered, until florets are just tender, about 10 minutes.\n\nRemove soup from heat, and let cool, about 10 minutes. Fill a blender no more than halfway to puree soup in batches until smooth. Return soup to pot; stir in milk and cayenne. Cook over medium heat until heated through (do not boil).\n\nHeat broiler. Divide cheese among bread slices; toast under broiler until melted and golden brown, 45 to 60 seconds. Divide soup among bowls. Top each bowl with a cheese toast, and serve.",
-        "ingredients": [
-            "1 1/2 tablespoon extra-virgin olive oil",
-            "1 medium onion, coarsely chopped",
-            "2 garlic cloves, coarsely chopped",
-            "2 bunches broccoli (about 3 1/4 pounds), stems and florets chopped separately into 1/2-inch pieces",
-            "7 cup low-sodium chicken stock",
-            "1 teaspoon coarse salt",
-            "1 cup skim milk",
-            "1/8 teaspoon cayenne pepper",
-            "2 ounce extra-sharp cheddar cheese, grated or crumbled (about 1/2 cup)",
-            "8 thin slices crusty baguette"
-        ],
-        "tags": [
-            "soup",
-            "main"
-        ]
-    },
-    "id137": {
-        "id": "id137",
-        "name": "Coconut shrimp soup",
-        "source": "http://www.marthastewart.com/338581/coconut-shrimp-soup?center=0&gallery=274637&slide=263811",
-        "preptime": 1800,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Heat oil in a large (3-quart) saucepan over medium-low heat. Add ginger, garlic, and pepper flakes; cook, stirring, until fragrant, about 1 minute. Add carrots, coconut milk, and 3 cups water. In a small bowl, mix cornstarch and water until smooth; add to pot. Bring to a boil.\n\nBreak pasta in half; add to pot. Return to a boil, reduce heat to medium, and simmer until pasta is al dente and carrots are just tender, 3 to 4 minutes.\n\nAdd shrimp; stir until opaque, about 1 minute. Remove pot from heat, and stir in lime juice; season with salt. Ladle into serving bowls, and garnish with scallions.",
-        "ingredients": [
-            "1 tablespoon vegetable oil",
-            "1 tablespoon grated fresh ginger",
-            "2 clove garlic, minced",
-            "1/2 teaspoon red-pepper flakes",
-            "1 pound carrots, peeled, halved lengthwise, and thinly sliced",
-            "1 13.5oz can coconut milk",
-            "1 tablespoon cornstarch",
-            "2 tablespoon water",
-            "4 ounce angel-hair pasta",
-            "1 1/2 pound large shrimp, peeled, deveined, and tails removed",
-            "1/4 cup freshly squeezed lime juice",
-            "Coarse salt",
-            "4 green onions, thinly sliced"
-        ],
-        "tags": [
-            "soup",
-            "shrimp",
-            "main",
-            "untried"
-        ]
-    },
-    "id138": {
-        "id": "id138",
-        "name": "Creamy caramelized onion soup",
-        "source": "http://www.marthastewart.com/313343/creamy-caramelized-onion-soup?center=0&gallery=274637&slide=261862",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 3600,
-        "servings": 8,
-        "comments": "Cream is optional!",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Melt 4 tablespoons butter in a large saucepan over medium heat. Add leeks, garlic, shallots, and half of the onions. Cook, stirring occasionally, until vegetables are very soft and translucent, about 10 minutes. Reduce the heat to medium-low, and cook, stirring occasionally, until vegetables are deep golden brown, about 25 minutes.\n\nAdd vermouth, stock, and 1 teaspoon salt. Bring to a boil. Reduce heat to medium-low. Simmer, stirring occasionally, 15 minutes. Let cool. Puree onion mixture in batches in a blender until smooth, about 3 minutes per batch. Set aside.\n\nMeanwhile, melt remaining 2 tablespoons butter in a medium skillet over medium-low heat. Add remaining onion. Cook, stirring occasionally, until onion is very soft and golden brown, about 45 minutes. Cover, and set aside.\n\nReturn onion puree to saucepan. Stir in cream. Reheat over medium heat, stirring, until heated through but not boiling. Season with salt, if desired. Serve, topped with caramelized onions.",
-        "ingredients": [
-            "6 tablespoon unsalted butter",
-            "3 leeks, white and pale-green parts only, rinsed well and coarsely chopped",
-            "5 garlic, thinly sliced",
-            "7 large shallots, about 14 ounces, thinly sliced",
-            "2 large Vidalia onions, about 20 ounces, cut into 1/4-inch-thick slices",
-            "3/4 cup dry white vermouth",
-            "4 cup homemade or low-sodium store-bought chicken stock",
-            "Coarse salt",
-            "1 cup heavy cream"
-        ],
-        "tags": [
-            "onion",
-            "soup",
-            "main"
-        ]
-    },
-    "id139": {
-        "id": "id139",
-        "name": "Hearty spinach and chickpea soup",
-        "source": "http://www.marthastewart.com/359776/hearty-spinach-and-chickpea-soup?center=0&gallery=274637&slide=283080",
-        "preptime": 2700,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Cook rice if not already done.\n\nMeanwhile, in a large saucepan or Dutch oven, heat oil over medium heat. Add onion and cook, stirring frequently, until tender, about 5 minutes. Add garlic and mushrooms and cook, stirring occasionally, until mushrooms are tender, about 5 minutes. Add broth and rosemary; bring to a boil.\n\nStir cooked rice and chickpeas into the broth; return to a boil. Reduce to a simmer, cover, and continue cooking for 5 more minutes to allow flavors to blend.\n\nStir in spinach and cook, uncovered, until just wilted, about 1 minute. Season with salt and pepper. Garnish with cheese; serve immediately.",
-        "ingredients": [
-            "2 cup cooked brown rice",
-            "1 tablespoon olive oil",
-            "1 medium onion, finely chopped",
-            "2 clove garlic, minced",
-            "8 ounce fresh shiitake mushrooms, stems removed, caps thinly sliced",
-            "6 cup reduced-sodium chicken or vegetable broth",
-            "1/2 teaspoon dried rosemary, crumbled",
-            "1 can chickpeas, drained and rinsed",
-            "10 oz baby spinach leaves",
-            "Coarse salt and ground pepper, to taste",
-            "1/2 cup grated Parmesan cheese"
-        ],
-        "tags": [
-            "soup",
-            "main",
-            "untried"
-        ]
-    },
     "id140": {
         "id": "id140",
         "name": "Chervil cream",
@@ -2613,243 +2287,20 @@
             "4 cup loosely packed fresh chervil, with stems (about 4 bunches)",
             "1/3 cup cold heavy cream"
         ],
+        "materials": {
+            "chervil": {
+                "quantity": "4",
+                "unit": "cup"
+            },
+            "salt": {},
+            "heavy cream": {
+                "quantity": "1/3",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "condiment",
             "components",
-            "untried"
-        ]
-    },
-    "id141": {
-        "id": "id141",
-        "name": "Mushroom soup",
-        "source": "http://www.marthastewart.com/351301/mushroom-soup?center=0&gallery=274637&slide=285828",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Cover dried mushrooms with 2 cups boiling water in a heatproof bowl; let stand until soft, about 30 minutes. Using a slotted spoon, transfer mushrooms to a cutting board, and finely chop; set aside. Strain soaking liquid; set aside.\n\nMelt butter in a large saucepan over medium heat. Add leeks; cook, stirring occasionally, until soft but not browned, 10 to 15 minutes. Stir in flour; cook 2 minutes. Add sherry; whisk until smooth. Whisk in stock, thyme, and reserved soaking liquid; bring to a boil. Reduce heat; simmer 5 minutes. Stir in dried and fresh mushrooms. Remove from heat.\n\nPour into a large bowl. Working in 3 batches, puree soup in a food processor, making sure there are no remaining mushroom pieces; return to pan. Bring to a simmer; cook, stirring occasionally, 15 minutes. Season with salt and pepper.\n\nStir in cream; bring just to a simmer. Season with salt. Stir in milk; cook until just heated through. Serve immediately, or refrigerate, covered, up to 3 days; reheat before serving. To serve, divide among bowls; spoon about 2 teaspoons chervil cream into each center, and sprinkle with croutons.",
-        "ingredients": [
-            "3/4 cup dried Polish or porcini mushrooms (about 3/4 ounce)",
-            "6 tablespoon unsalted butter",
-            "3 medium leeks (about 1 pound), white and pale-green parts only, finely chopped and rinsed well",
-            "6 tablespoon all-purpose flour",
-            "3/4 cup medium sherry, such as amontillado",
-            "5 cup homemade or low-sodium store-bought chicken stock",
-            "1/2 teaspoon finely chopped fresh thyme",
-            "2 pound cremini mushrooms",
-            "Coarse salt and freshly ground pepper",
-            "1 cup heavy cream",
-            "1 cup whole milk",
-            "2 servings [Chervil Cream](http://www.xanthir.com/recipes/showrecipe.php?id=id140)",
-            "homemade croutons, for serving"
-        ],
-        "tags": [
-            "mushroom",
-            "main",
-            "soup",
-            "untried"
-        ]
-    },
-    "id142": {
-        "id": "id142",
-        "name": "Harvest pumpkin soup",
-        "source": "http://www.marthastewart.com/336654/harvest-pumpkin-soup?center=0&gallery=274637&slide=283054",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400 degrees. Place pumpkin halves, cut sides down, on a rimmed baking sheet. Bake until soft, about 50 minutes. Scoop out flesh, and puree in a food processor (you should have 2 cups).\nMelt 1 tablespoon butter in a small saucepan over medium-high heat. Add reserved seeds and fibers from pumpkin, and cook for 4 minutes. Add stock, water, and thyme, and bring to a gentle simmer. Cook for 9 to 10 minutes.\n\nMeanwhile, melt remaining 5 tablespoons butter in a large saucepan over medium-high heat. Add pumpkin puree, parsnip, potato, and turnip, and cook for 5 minutes. Add shallots, and cook until soft, about 4 minutes. Add wine, and cook until liquid has reduced by half.\n\nStrain pumpkin-seed mixture, reserving broth and discarding solids. Add broth to pumpkin-wine mixture. Bring to a simmer; cook 20 minutes. Let cool.\n\nPass soup through a food mill into a clean saucepan, or puree in a food processor in small batches until smooth. (If soup does not reach desired consistency using a food processor, press it through a fine sieve to remove any remaining lumps.) Heat soup in a saucepan over medium-high heat. Stir in cream, sugar, salt, and pepper, and serve",
-        "ingredients": [
-            "1 small sugar pumpkin, halved, seeds and stringy fibers removed and reserved",
-            "6 tablespoon unsalted butter",
-            "3 cup homemade or low-sodium store-bought chicken stock",
-            "3 cup water",
-            "1 sprig fresh thyme",
-            "1 small parsnip (about 4 ounces), peeled and coarsely chopped",
-            "1 small Yukon gold potato (about 6 ounces), peeled and coarsely chopped",
-            "1 small turnip (about 4 ounces), peeled and coarsely chopped",
-            "2 small shallots, minced (about 1/4 cup)",
-            "1/2 cup dry white wine",
-            "3 tablespoon heavy cream",
-            "1 teaspoon packed light-brown sugar",
-            "2 teaspoon coarse salt",
-            "Freshly ground pepper, to taste"
-        ],
-        "tags": [
-            "pumpkin",
-            "soup",
-            "main",
-            "untried"
-        ]
-    },
-    "id144": {
-        "id": "id144",
-        "name": "Lighter macaroni and cheese",
-        "source": "http://www.marthastewart.com/350258/lighter-macaroni-and-cheese?czone=food/comfort-foods-center/comfort-foods-dishes&lnc=c479cf380e1dd010VgnVCM1000005b09a00aRCRD&rsc=foodpromo_Homepage_Homepage_p1&center=854190&gallery=274953&slide=174814",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400 degrees. Spread tomatoes in a single layer on 2 rimmed baking sheets. Drizzle each sheet with 1 tablespoon oil; sprinkle each with 1/2 teaspoon thyme, and season with salt and pepper. Bake until tomatoes have softened, about 20 minutes. (Leave oven on.)\n\nProcess bread in a food processor until coarse crumbs form. Melt 1 tablespoon butter with remaining tablespoon oil in amedium skillet over medium heat. Add breadcrumbs, and toss to coat. Season with salt and pepper; set aside.\n\nBring a large pot of water to a boil over high heat. Add 1 tablespoon salt and the pasta. Cook pasta until almost al dente, about 5 minutes. Drain, and run under cold water to stop cooking. Transfer to a large bowl; set aside.\n\nWhisk 1/2 cup stock into the flour in a medium bowl; set aside. Melt remaining tablespoon butter in a medium saucepan over medium heat. Stir in nutmeg, cayenne, remaining 1/2 teaspoon thyme, and 1 teaspoon salt. Add milk and remaining 1 1/2 cups stock. Whisk in flour mixture. Bring to a boil, whisking frequently. Reduce to a simmer. Cook 8 minutes, whisking frequently. Add cheeses; cook, stirring, until melted. Pour over macaroni, stirring to combine.\n\nPut eight 4 1/2-by-1 1/4-inch ramekins on a baking sheet. Put 2 tomato slices in bottom of each ramekin. Divide macaroni mixture evenly among ramekins. Top each with a tomato slice. Sprinkle with breadcrumbs and thyme sprigs. Bake until bubbling and golden brown, about 30 minutes. Serve immediately.",
-        "ingredients": [
-            "6 small vine-ripened tomatoes, cut into 24 1/4-inch-thick slices",
-            "3 tablespoon extra-virgin olive oil",
-            "1 1/2 teaspoon fresh thyme leaves, plus sprigs for sprinkling",
-            "Coarse salt and freshly ground pepper",
-            "5 slices white sandwich bread, with crust",
-            "2 tablespoon unsalted butter",
-            "1 pound elbow macaroni",
-            "2 cup low-sodium chicken stock",
-            "5 tablespoon all-purpose flour",
-            "1 pinch freshly grated nutmeg",
-            "1 pinch cayenne pepper",
-            "2 cup low-fat (1 percent) milk",
-            "2 1/4 cup extra-sharp cheddar cheese, grated",
-            "1/2 cup Parmesan cheese, freshly grated"
-        ],
-        "tags": [
-            "cheese",
-            "pasta",
-            "main",
-            "untried"
-        ]
-    },
-    "id145": {
-        "id": "id145",
-        "name": "Chocolate cheesecake squares",
-        "source": "http://www.marthastewart.com/316201/chocolate-cheesecake-squares?center=854190&gallery=274953&slide=259557",
-        "preptime": 900,
-        "waittime": 3600,
-        "cooktime": 2100,
-        "servings": 9,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 325 degrees. Coat an 8-inch square baking pan with cooking spray. Line with two crisscrossed pieces of parchment or wax paper, spraying between sheets. Spray lined pan; set aside.\n\nProcess cookies in a food processor until finely ground. Gently press crumbs into bottom of prepared pan (do not rinse processor bowl).\n\nBlend cream cheese and sour cream in food processor until smooth, scraping down sides of bowl as needed. Add cocoa, cornstarch, sugar, egg, and egg white; process until smooth. Pour into pan; sprinkle with chocolate chips.\n\nBake until just set, 35 to 40 minutes; cool completely in pan. Refrigerate at least 1 hour. Invert onto a tray; peel off paper, and reinvert crust side down. Cut into 9 squares.",
-        "ingredients": [
-            "Nonstick cooking spray",
-            "8 chocolate wafer cookies",
-            "1 bar (8 ounces) reduced-fat cream cheese",
-            "1 cup reduced-fat sour cream",
-            "1/3 cup unsweetened cocoa powder",
-            "2 tablespoon cornstarch",
-            "3/4 cup sugar",
-            "1 large whole egg, plus 1 large egg white",
-            "1/3 cup semisweet chocolate chips"
-        ],
-        "tags": [
-            "cheesecake",
-            "dessert",
-            "chocolate",
-            "untried"
-        ]
-    },
-    "id146": {
-        "id": "id146",
-        "name": "Chocolate cinnamon pudding",
-        "source": "http://www.marthastewart.com/354105/lighter-chocolate-cinnamon-pudding?czone=food/comfort-foods-center/comfort-foods-dishes&center=854190&gallery=274953&slide=257366",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Whisk cornstarch, sugar, cocoa powder, cinnamon, and salt in a medium saucepan. Add milks, whisking. Bring to a boil over medium-high heat, whisking constantly. Cook until thickened, about 1 minute. Whisk in chocolate; cook until chocolate has melted, about 1 minute.\n\nDivide evenly among six 4-ounce cups. To prevent a skin from forming, press plastic wrap onto surface of pudding. Refrigerate until set, at least 1 hour and up to overnight. Serve garnished with chocolate shavings and cinnamon sticks.",
-        "ingredients": [
-            "3 tablespoon cornstarch",
-            "6 tablespoon light-brown sugar",
-            "3 tablespoon unsweetened Dutch-process cocoa powder",
-            "1/2 teaspoon ground cinnamon",
-            "1/4 teaspoon salt",
-            "2 1/2 cup skim milk",
-            "1/2 cup evaporated skim milk",
-            "4 ounce bittersweet chocolate",
-            "White- and milk-chocolate, shavings, for garnish",
-            "Cinnamon sticks, for garnish"
-        ],
-        "tags": [
-            "chocolate",
-            "pudding",
-            "dessert",
-            "untried"
-        ]
-    },
-    "id147": {
-        "id": "id147",
-        "name": "Creepy crawly cake",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 2400,
-        "waittime": 3300,
-        "cooktime": 1500,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 350F. Make the cake: Coat two 9-inch cake pans with cooking spray. Line bottoms with parchment, and coat with spray. Dust with all-purpose flour, tapping out excess. Whisk together flours, baking soda, and 3/4 teaspoon salt.\n2. Beat butter and sugar with a mixer on medium0high speed until pale and fluffy. Add eggs, 1 at a time, beating well after each addition. Beat in vanilla. Reduce speed to low. Beat in flour mixture in 3 additions, alternating with buttermilk, beginning and ending with flour. Beat in melted chocolate. Divide batter between pans, and smooth tops using an offset spatula.\n3. Bake cakes until a toothpick inserted into the centers comes out clean, 25 to 30 minutes. Turn out cakes onto racks, remove parchment, and let cool completely.\n4. Make the ganache: Bring cream to a gentle simmer in a small saucepan over medium-high heat. Pour over chopped chocolates and butter in a bowl. Let stand for 5 minutes. Whisk until smooth and shiny. Let stand until thickened, about 40 minutes. Transfer 1 3/4 cups ganache to a bowl, and fold in malt balls; reserve remaining ganache.\n5. Transfer 1 cake to a serving platter (top side up). Spread ganache-malt ball filling on top, and top with remaining cake (top side up). Refrigerated until set, about 15 minutes. Cut a large wedge from cake to serve on another plate. Pour remaining ganache (reheat if necessary) over cake and wedge, and let drip down sides and into cut center of cake. Garnish cake and platter with rubber cockroaches.\n\nStorage: Decorated cake can be refrigerated for up to 3 days, but the ganache with not be as shiny,. Bring to room temperature before serving.",
-        "ingredients": [
-            "Vegetable oil cooking spray",
-            "1 cup all-purpose flour, plus more for pans",
-            "1 cup cake flour, not self rising",
-            "1 tsp baking soda",
-            "Salt",
-            "1 3/4 stick unsalted butter, 14 tablespoons total, room temperature",
-            "1 1/3 cup sugar",
-            "3 large eggs",
-            "1 1/2 tsp pure vanilla extract",
-            "1 cup low-fat buttermilk",
-            "5 ounce semisweet chocolate, melted and cooled",
-            "2 cup heavy cream",
-            "8 oz semisweet chocolate, chopped",
-            "8 oz bittersweet chocolate, chopped",
-            "1 tbsp unsalted butter",
-            "1 1/2 cup chocolate malt balls, coarsely chopped",
-            "garnish, rubber cockroaches (fakebugs.com)"
-        ],
-        "tags": [
-            "cake",
-            "halloween",
-            "dessert",
-            "chocolate",
             "untried"
         ]
     },
@@ -2874,140 +2325,26 @@
             "1 1/2 cup fresh blood orange juice, from 7-8 blood oranges, chilled",
             "6 tablespoon Solerno or other blood orange liqueur"
         ],
+        "materials": {
+            "oranges": {
+                "quantity": "8",
+                "unit": "number"
+            },
+            "orange juice": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "salt": {},
+            "solerno": {
+                "quantity": "6",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "drink",
             "alcohol",
             "halloween",
             "untried"
-        ]
-    },
-    "id150": {
-        "id": "id150",
-        "name": "Japanese style grilled salmon",
-        "source": "http://www.foodnetwork.com/recipes/cooking-live/japanese-style-grilled-salmon-recipe/index.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Season salmon with salt and set aside.\n\nCombine marinade ingredients, except lemon slices, in a small saucepan and bring to a boil. Remove from heat and allow to cool to room temperature. Add lemon and pour cooled marinade over fish and marinate refrigerated for 2 to 4 hours. Turn fish occasionally.\n\nTo serve: Grill or broil on both sides until just done, approximately 4 to 5 minutes per side. Be careful not to overcook. Salmon should still be translucent in the center. Serve with Soba Noodle Salad on the side.",
-        "ingredients": [
-            "4 (5-ounce) salmon fillets",
-            "1/2 teaspoon salt",
-            "1/4 cup soy sauce",
-            "1/4 cup sake or dry white wine, sake is preferred",
-            "1/4 cup mirin",
-            "2 tablespoon sugar",
-            "2 green onions, chopped",
-            "3 tablespoon ginger, chopped",
-            "1 small lemon, thinly sliced",
-            "4 servings [Soba Noodle Salad](http://www.xanthir.com/recipes/showrecipe.php?id=id255)"
-        ],
-        "tags": [
-            "salmon",
-            "japanese",
-            "main"
-        ]
-    },
-    "id151": {
-        "id": "id151",
-        "name": "Dang cold Asian noodle salad",
-        "source": "http://www.foodnetwork.com/recipes/guy-fieri/dang-cold-asian-noodle-salad-recipe/index.html",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 900,
-        "servings": 4,
-        "comments": "",
-        "calories": 2362,
-        "fat": 113,
-        "satfat": 16,
-        "carbs": 300,
-        "fiber": 14,
-        "sugar": 17,
-        "protein": 72,
-        "instructions": "In a medium stock pot, boil water, add salt and cook noodles. When finished, place noodles in an ice water bath to cool. Drain and set aside.\n\nIn a medium bowl combine, sesame oil, vinegar, soy sauce, hot chili oil, hoisin and extra-virgin olive oil. Mix thoroughly and then combine prepared vegetables and noodles.\n\nGarnish with sesame seeds and peanuts.",
-        "ingredients": [
-            "12 oz soba noodles",
-            "1 tsp sesame oil",
-            "1 tsp hot chili oil",
-            "1 tbsp hoisin sauce",
-            "2 tbsp rice wine vinegar",
-            "3 tbsp soy sauce",
-            "5 tbsp extra-virgin olive oil",
-            "1 carrot, thinly sliced or julienned",
-            "2 stalk celery, thinly sliced or julienned",
-            "5 green onions, bottom 4 inches, thinly sliced",
-            "1 cup thinly sliced napa cabbage",
-            "1/2 red bell pepper, thinly sliced or julienned",
-            "3 tablespoon cilantro, minced",
-            "3 tablespoon sesame seeds, toasted, for garnish",
-            "4 tablespoon unsalted peanuts, for garnish"
-        ],
-        "tags": [
-            "soba",
-            "noodle",
-            "salad",
-            "main"
-        ]
-    },
-    "id156": {
-        "id": "id156",
-        "name": "Grilled salmon gyros",
-        "source": "http://www.foodnetwork.com/recipes/guy-fieri/grilled-salmon-gyros-recipe/index.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Combine all of the marinade ingredients in a resealable plastic bag. Add the salmon, seal the bag and refrigerate for at least 30 minutes, or up to 1 hour.\n\nCombine all of the tomatoes and onions ingredients in a large bowl and set aside until ready to assemble the gyros.\n\nCombine all of the ingredients for the dill cucumber sauce in a small bowl. Cover and refrigerate until ready to serve, at least 30 minutes, or up to 12 hours.\n\nPreheat the grill if using outdoors, or preheat indoor stovetop grill pan over medium-low heat.\n\nRemove salmon from the marinade and grill until cooked through, about 3 to 4 minutes per side. Remove from the grill to a plate and keep warm.\n\nPut the pita bread on grill to heat through.\n\nServe by cutting pitas in half, filling them with salmon, and topping them with the tomato mixture and the cucumber dill sauce. Add iceberg lettuce, if desired, and serve.",
-        "ingredients": [
-            "2 teaspoon oregano, chopped",
-            "1 clove garlic, mashed into paste with pinch kosher salt",
-            "1 teaspoon freshly cracked black pepper",
-            "3 tablespoon grapeseed oil",
-            "1/2 teaspoon hot pepper flakes",
-            "1 teaspoon lemon zest",
-            "4 tablespoon lemon juice",
-            "4 (6-ounce) fresh skinless salmon fillets (wild preferred)",
-            "8 pita breads",
-            "2 cup iceberg lettuce (optional), shredded",
-            "3 cup tomatoes, seeded and diced",
-            "3/4 cup red onion, quartered and thinly sliced",
-            "1 teaspoon garlic paste",
-            "1 teaspoon balsamic vinegar",
-            "1/2 teaspoon lemon zest",
-            "2 tablespoon lemon juice",
-            "1 teaspoon oregano, chopped",
-            "1/2 teaspoon freshly cracked black pepper",
-            "1/2 teaspoon kosher salt",
-            "1 1/2 tablespoon grapeseed oil",
-            "1 cup Greek yogurt",
-            "1 1/2 cup English cucumber, peeled, seeded, finely diced",
-            "1 1/2 tablespoon dill, chopped",
-            "1 1/2 tablespoon garlic, minced",
-            "1 teaspoon lemon zest",
-            "1 tablespoon lemon juice",
-            "1/2 teaspoon freshly cracked black pepper",
-            "1/2 teaspoon kosher salt"
-        ],
-        "tags": [
-            "salmon",
-            "greek",
-            "main"
         ]
     },
     "id157": {
@@ -3035,6 +2372,24 @@
             "1/2 cup sugar",
             "1 tablespoon green onion, minced"
         ],
+        "materials": {
+            "lemon": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "soy sauce": {
+                "quantity": "6",
+                "unit": "tbsp"
+            },
+            "green onion": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "sugar": {
+                "quantity": "1/2",
+                "unit": "cup"
+            }
+        },
         "tags": [
             "sauce",
             "asian",
@@ -3066,270 +2421,33 @@
             "1 tablespoon mirin",
             "3/4 teaspoon salt"
         ],
+        "materials": {
+            "short-grain rice": {
+                "quantity": "2",
+                "unit": "cup"
+            },
+            "water": {
+                "quantity": "2",
+                "unit": "cup"
+            },
+            "rice vinegar": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "mirin": {
+                "quantity": "1",
+                "unit": "tbsp"
+            },
+            "salt": {
+                "quantity": "3/4",
+                "unit": "tsp"
+            }
+        },
         "tags": [
             "rice",
             "japanese",
             "sides",
             "components"
-        ]
-    },
-    "id159": {
-        "id": "id159",
-        "name": "Grilled salmon sushi rice bowl",
-        "source": "http://www.foodnetwork.com/recipes/emeril-live/grilled-salmon-sushi-rice-bowl-recipe/index.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "To make the sauce, combine the wasabi powder and water in a saucepan and let bloom for 5 minutes. Add 3/4 cup ponzu, the sake and grated ginger and bring to a boil over high heat. Reduce the heat to medium-low and simmer until the sauce is reduced by half, about 10 minutes.\n\nMeanwhile, place the fish and asparagus in a large baking dish. Pour the remaining ponzu sauce and the oil over the fish and asparagus and turn to coat evenly. Let stand for 10 minutes.\n\nIn a small frying pan, toast the sesame seeds over medium heat, shaking the pan frequently, until lightly colored, 3 to 4 minutes. Immediately pour onto a plate to cool. Place a grill pan over medium heat until hot. Lift the asparagus from the marinade, place in the pan and cook, turning occasionally, until tender-crisp, about 3 minutes. Transfer the asparagus to a plate and cover with aluminum foil, shiny side down, to keep warm. Lift the fish from the marinade and place in the grill pan. Cook, turning once, until it turns opaque and just begins to flake, 2 to 3 minutes on each side.\n\nTo serve, divide the rice among 4 bowls. Top with a piece of fish and some asparagus. Pour 1/4 cup of the sauce over the fish in each bowl. Garnish each serving with the sesame oil, green onions, avocado, cucumber, pickled ginger and sesame seeds.",
-        "ingredients": [
-            "1 tablespoon wasabi powder",
-            "2 tablespoon water",
-            "4 servings [Homemade Ponzu Sauce](http://www.xanthir.com/recipes/showrecipe.php?id=id157)",
-            "1/4 cup sake",
-            "2 tablespoon grated ginger",
-            "1 pound center-cut salmon fillet, cut into 4 equal pieces",
-            "12 ounce asparagus, ends trimmed",
-            "2 tablespoon vegetable oil",
-            "4 teaspoon sesame seeds",
-            "4 servings [Sushi Rice](http://www.xanthir.com/recipes/showrecipe.php?id=id158)",
-            "2 teaspoon sesame oil",
-            "3 green onions, chopped",
-            "1 avocado, pitted, peeled, and cut into 1/2-inch cubes",
-            "1 English cucumber, cut into matchstick-sized strips",
-            "1/4 cup sliced pickled ginger"
-        ],
-        "tags": [
-            "japanese",
-            "salmon",
-            "main"
-        ]
-    },
-    "id161": {
-        "id": "id161",
-        "name": "Roasted cauliflower and white beans",
-        "source": "Adapted from Roast Chicken with Cauliflower and White Beans in Everyday Food Nov 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 1500,
-        "servings": 1,
-        "comments": "can swap broccoli for cauliflower and chickpeas for the beans",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 450F. On a rimmed baking sheet, toss cauliflower with 1/2 of the oil. Season with salt and pepper. Roast for 15-20 minutes. In a small bowl, combine remaining oil, panko, cheese, and rosemary.\n\nRemove sheet from oven. Add beans, lemon zest, and red-pepper flakes to cauliflower, sprinkle with panko mixture and roast until panko is golden brown, about 5-7 minutes.",
-        "ingredients": [
-            "1 1/2 cup cauliflower florets",
-            "1 tsp extra-virgin olive oil",
-            "Salt and pepper",
-            "1/4 cup panko",
-            "1 tbsp Parmesan, finely grated",
-            "1 1/4 tsp fresh rosemary, finely chopped",
-            "1/2 cup cannellini beans, rinsed and drained",
-            "1 tsp lemon zest",
-            "1/4 tsp red-pepper flakes"
-        ],
-        "tags": [
-            "vegetarian",
-            "main",
-            "untried"
-        ]
-    },
-    "id163": {
-        "id": "id163",
-        "name": "Shrimp and cabbage stir fry",
-        "source": "Food Network Magazine Sept 2011",
-        "preptime": 600,
-        "waittime": 600,
-        "cooktime": 420,
-        "servings": 4,
-        "comments": "",
-        "calories": 1048,
-        "fat": 40,
-        "satfat": 4,
-        "carbs": 40,
-        "fiber": 8,
-        "sugar": 0,
-        "protein": 128,
-        "instructions": "1. Whisk egg white, 1 tbsp potato starch and 1 teaspoon soy sauce in a large bowl until frothy. Add the shrimp and toss to coat. Refrigerate 10 minutes. Meanwhile, whisk the hoisin sauce, vinegar, and the remaining 1 tablespoon soy sauce and 2 teaspoons potato starch in a small bowl, the whisk in the chicken broth. Set aside.\n\n2. Drain the shrimp. Heat the vegetable oil in a wok or large skillet over medium-high heat, then stir-fry the scallion whites, ginger and garlic, about 30 seconds. Add the shrimp and stir-fry until almost cooked through,a bout 3 minutes. Add the cabbage and stir-fry until wilted and the shrimp are just cooked through, about 2 more minutes.\n\n3. Stir the hoisin sauce mixture, then add to the wok and simmer, stirring occasionally, 2 minutes. Stir in the scallion greens. Serve with rice, if desired.",
-        "ingredients": [
-            "1 large egg white",
-            "1 tbsp potato starch",
-            "1 tsp soy sauce",
-            "1 1/4 lb medium shrimp, peeled and deveined",
-            "2 tsp potato starch",
-            "1 tbsp soy sauce",
-            "2 tsp hoisin sauce",
-            "1 1/2 tsp rice wine vinegar",
-            "1/2 cup chicken broth, or water",
-            "2 tbsp vegetable oil",
-            "4 green onions, cut into 1/2-inch pieces, white and green parts separated",
-            "1 tbsp ginger, finely grated",
-            "1 clove garlic, finely grated",
-            "1 lb Napa cabbage, about 1/2 head=1 lb, cut into 1-inch pieces",
-            "Cooked rice, for serving (optional)"
-        ],
-        "tags": [
-            "stir_fry",
-            "main",
-            "shrimp"
-        ]
-    },
-    "id164": {
-        "id": "id164",
-        "name": "Avocado feta dip",
-        "source": "Food Network Magazine Sept 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 360,
-        "servings": 12,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Cook onion and jalapeno in olive oil 6 minutes. Puree with remaining ingredients and season with salt to taste.\n\nServe with toasted bread and vegetable sticks.",
-        "ingredients": [
-            "1/2 red onion, diced",
-            "1 jalapeno, seeded and diced",
-            "extra-virgin olive oil",
-            "1 avocado, diced",
-            "1 cup cilantro",
-            "3/4 cup feta, crumbled",
-            "1/4 cup lemon juice",
-            "3 tbsp vegetable oil",
-            "salt"
-        ],
-        "tags": [
-            "dip",
-            "appetizer",
-            "untried"
-        ]
-    },
-    "id167": {
-        "id": "id167",
-        "name": "Herb crusted salmon with spinach salad",
-        "source": "http://www.marthastewart.com/315091/herb-crusted-salmon-with-spinach-salad?czone=food/fish-and-shellfish/fish-varieties&center=344318&gallery=275293&slide=261365",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "For 2 people, try 9 minutes.",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 450 degrees. Line a baking sheet with aluminum foil; set aside. In a food processor, combine bread, parsley, and oil; season with salt and pepper. Pulse until coarse crumbs form.\n\nPlace salmon on prepared sheet; season with salt and pepper. Spread top of fillets with Dijon; top with crumb mixture, pressing gently to adhere. Roast until salmon is opaque throughout, 11 to 13 minutes.\n\nMeanwhile, in a large bowl, combine lemon juice and remaining oil; season with salt and pepper. Add spinach and onion; toss to combine. Serve salmon with spinach salad.",
-        "ingredients": [
-            "1/2 cup breadcrumbs",
-            "1 cup fresh parsley",
-            "1 tablespoon olive oil",
-            "Coarse salt and ground pepper",
-            "4 salmon fillets, skinless (6 ounces each)",
-            "2 tablespoon Dijon mustard",
-            "1 tablespoon olive oil",
-            "3 tablespoon fresh lemon juice",
-            "5 ounce baby spinach",
-            "1/2 medium red onion, thinly sliced"
-        ],
-        "tags": [
-            "salmon",
-            "spinach",
-            "main"
-        ]
-    },
-    "id169": {
-        "id": "id169",
-        "name": "Chocolate-Hazelnut Icebox Cake",
-        "source": "Pampered Chef",
-        "preptime": 1200,
-        "waittime": 28800,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. For filling, combine chocolate hazelnut spread and liqueur in Stainless (4-qt./4-L) \nMixing Bowl; beat on medium speed of electric mixer until well blended. Gradually add \ncream; increase speed to medium-high and continue beating just until very soft peaks \nform (do not overbeat).  \n2. For cake, arrange four and a half of the crackers in a single layer in Square Baking Pan; \ntop with 1 cup (250 mL) of the hazelnut filling. Spread filling to edges with Small \nSpreader; repeat layers three more times, ending with all of the remaining filling. (There \nwill be more filling on top than in the inner layers.) Cover and refrigerate at least 8 hours \nor overnight.  \n3. When ready to serve, prepare hazelnut cream. Beat cream on medium-high speed of \nmixer in Stainless (2-qt./2-L) Mixing Bowl until soft peaks form. Add liqueur and \npowdered sugar; continue beating until stiff peaks form.  \n4. Sprinkle cake with cocoa powder using Flour/Sugar Shaker; cut into servings. Top each \nserving with hazelnut cream and garnish with hazelnuts and Chocolate Flowers, if desired.\n\nCook\u2019s Tips: For Chocolate Flowers, place 1/2 cup (125 mL) semi-sweet chocolate morsels into \nSmall Micro-Cooker; microwave, uncovered, on HIGH 1 minute or until mostly melted, stirring\nevery 20 seconds. Pour melted chocolate into resealable plastic bag; twist to secure. Cut a small \ntip off corner of bag to allow chocolate to flow through. For three-dimensional design, cut 12 \npieces of Parchment Paper into 21/2 x 3-in. (6 x 7.5-cm) squares; fold in half. Fit parchment in \nwells of Muffin Pan. Pipe chocolate flower on Parchment Paper; refrigerate 15 minutes or until \nset. ",
-        "ingredients": [
-            "1 1/2 cup chocolate hazelnut spread",
-            "1/3 cup hazelnut-flavored liqueur",
-            "2 cup heavy whipping cream",
-            "18 whole chocolate graham crackers, (about 5 x 2-in./13 x 5-cm rectangles), divided",
-            "2 tbsp unsweetened cocoa powder, for dusting",
-            "1/2 cup heavy whipping cream",
-            "2 tbsp hazelnut-flavored liqueur",
-            "2 tbsp powdered sugar",
-            "Cocoa powder, for garnish",
-            "Hazelnuts, toasted and chopped for garnish",
-            "1/2 cup semi-sweet chocolate chips, for Chocolate Flower garnishes"
-        ],
-        "tags": [
-            "cake",
-            "chocolate",
-            "dessert",
-            "untried"
-        ]
-    },
-    "id170": {
-        "id": "id170",
-        "name": "Smoky Yukon Gold Potato Chowder",
-        "source": "Pampered Chef",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Cut leeks in half lengthwise; thinly slice crosswise. Rinse in a colander to remove dirt.\n  \n2. Melt butter in large pot over medium heat. Add leeks, onion, pressed garlic and \npaprika to pot; cook, uncovered, 3-4 minutes or until vegetables are softened, stirring \noccasionally. Add potatoes; cook 2 minutes, stirring constantly. Add stock; cook, covered, 12-15 \nminutes or until potatoes are fork-tender, stirring occasionally. Add beans; cook 1-2 minutes or \nuntil heated through. Remove pot from heat; cool 5 minutes.\n\n3. Blend soup until smooth.\n\n4. Stir in milk. Cook, uncovered, over medium heat 2-3 minutes or until simmering. Stir in cheese, salt and black pepper. Cook 2-3 minutes or until cheese is melted. Garnish each serving with sour cream, chives and additional paprika, if desired. ",
-        "ingredients": [
-            "2 large leeks, white and light green parts only ",
-            "1 tbsp salted butter ",
-            "1 medium onion, finely chopped chopped ",
-            "3 garlic cloves, pressed ",
-            "1 1/2 tsp smoked paprika ",
-            "2 lb Yukon gold potatoes, peeled and diced",
-            "4 cup unsalted chicken stock",
-            "1 can no-salt-added Great Northern beans, drained and rinsed ",
-            "1 1/2 cup 2% milk ",
-            "3 oz extra sharp white cheddar cheese, shredded ",
-            "1/2 tsp salt ",
-            "1/2 tsp coarsely ground black pepper ",
-            "6 tbsp reduced-fat sour cream ",
-            "Fresh chives, chopped for garnish"
-        ],
-        "tags": [
-            "soup",
-            "main",
-            "untried"
         ]
     }
 }
