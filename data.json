@@ -223,8 +223,8 @@
                 "unit": "cup"
             },
             "onions": {
-                "quantity": "3",
-                "unit": "number"
+                "quantity": "120",
+                "unit": "grams"
             }
         },
         "tags": [
@@ -383,12 +383,12 @@
                 "unit": "number"
             },
             "tomates": {
-                "quantity": "2",
-                "unit": "number"
+                "quantity": "50",
+                "unit": "grams"
             },
             "red onion": {
-                "quantity": "1/2",
-                "unit": "number"
+                "quantity": "20",
+                "unit": "grams"
             },
             "cilantro": {
                 "quantity": "1/2",
@@ -1467,7 +1467,7 @@
             },
             "water": {},
             "salt": {},
-            "pepper": {},
+            "pepper": {}
         },
         "tags": [
             "vegetarian",
@@ -2093,7 +2093,7 @@
                 "unit": "number"
             },
             "salt": {},
-            "pepper": {},
+            "pepper": {}
         },
         "tags": [
             "salsa",
@@ -2137,7 +2137,7 @@
                 "unit": "number"
             },
             "salt": {},
-            "pepper": {},
+            "pepper": {}
         },
         "tags": [
             "sides",
