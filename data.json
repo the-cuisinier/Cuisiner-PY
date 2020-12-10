@@ -1,101 +1,4 @@
 {
-    "2": {
-        "id": "2",
-        "name": "Baked Shrimp Scampi",
-        "source": "Ina Garten: Barefoot Contessa Back to Basics",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "Modified by reducing butter and salt.  Substituted frozen shrimp instead of fresh 12-15 count (butterflied, tails on).",
-        "calories": 2565,
-        "fat": 159,
-        "satfat": 67,
-        "carbs": 76,
-        "fiber": 4,
-        "sugar": 6,
-        "protein": 200,
-        "instructions": [
-            "Preheat the oven to 425 degrees F.",
-            "Defrost shrimp by putting in cold water, drain. Place the shrimp in serving dish (9x13 or 2 quart casserole) and toss gently with the olive oil, wine, 1 teaspoons salt, and 1 teaspoon pepper. Allow to sit at room temperature while you make the butter and garlic mixture.",
-            "In a small bowl, mash the softened butter with the garlic, shallots, parsley, rosemary, red pepper flakes, lemon zest, lemon juice, egg yolk, panko, 1/2 teaspoon salt, and 1/4 teaspoon of pepper until combined.",
-            "Spread the butter mixture evenly over the shrimp. Bake for 10 to 12 minutes until hot and bubbly. If you like the top browned, place under a broiler for 1-3 minutes (keep an eye on it). Serve with lemon wedges and French bread.",
-            "Note: if using fresh shrimp, arrange for presentation. Starting from the outer edge of a 14-inch oval gratin dish, arrange the shrimp in a single layer cut side down with the tails curling up and towards the center of the dish. Pour the remaining marinade over the shrimp."
-        ],
-        "ingredients": [
-            "2/3 cup panko",
-            "1/4 teaspoon red pepper flakes",
-            "1/2 lemon, zested and juiced",
-            "1 extra-large egg yolk",
-            "1 teaspoon rosemary, minced",
-            "3 tablespoon parsley, minced",
-            "4 clove garlic, minced",
-            "1/4 cup shallots, minced",
-            "8 tablespoon unsalted butter, at room temperature",
-            "2 tablespoon dry white wine",
-            "Freshly ground black pepper",
-            "Kosher salt",
-            "3 tablespoon olive oil",
-            "2 pound frozen shrimp"
-        ],
-        "materials" : {
-            "panko": {
-                "quantity": "2/3",
-                "unit": "cup"
-            },
-            "red pepper flakes": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "lemon": {
-                "quantity": "1/2",
-                "unit": "number"
-            },
-            "egg": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "rosemary": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "parsley": {
-                "quantity": "3",
-                "unit": "tbsp"
-            },
-            "garlic": {
-                "quantity" : "4",
-                "unit": "number"
-            },
-            "shallots": {
-                "quantity" : "1/4",
-                "unit": "cup"
-            },
-            "unsalted butter": {
-                "quantity" : "8",
-                "unit": "tbsp"
-            },
-            "white wine": {
-                "quantity" : "2",
-                "unit": "tbsp"
-            },
-            "black pepper": {},
-            "Kosher salt": {},
-            "olive oil": {
-                "quantity": "3",
-                "unit": "tbsp"
-            },
-            "shrimp": {
-                "quantity": "908",
-                "unit": "grams"
-            }
-        },
-        "tags": [
-            "seafood",
-            "shrimp",
-            "main"
-        ]
-    },
     "4": {
         "id": "4",
         "name": "Strawberries Romanov (La Madeleine copycat)",
@@ -271,447 +174,6 @@
             "untried"
         ]
     },
-    "8": {
-        "id": "8",
-        "name": "Smoked Salmon Ebelskivers",
-        "source": "Ebelskivers by Kevin Crafts",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 1080,
-        "servings": 3,
-        "comments": "If dill is not available, add 1 tsp of Old Bay seasoning to the batter in place of the salt and pepper.",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 200F.\n\nIn a large bowl, whisk together the flour, sugar, baking powder, salt, and pepper. In a small bowl, lightly whisk the egg yolks, then whisk in the milk, 2 tablespoons of melted butter and lemon juice. Add the yolk mixture to the flour mixture and, using a wooden spoon, stir until well blended. The batter will be lumpy.\n\nIn a clean bowl, using an electric mixer on high speed, beat the egg whites until stiff, but not dry, peaks form. Using a silicone spatula, fold about one-third of the egg whites into the batter to lighten it, then fold in the rest just until no white streaks remain. Stir in fresh dill.\n\nBrush the wells of the ebelskiver pan with some of the remaining melted butter and place over medium heat. When the butter starts to bubble, add about 1 tablespoon batter to each well. Working quickly, carefully spoon about 1/2 teaspoon of the smoked salmon into the center of each pancake, then spoon about 1/2 teaspoon of the cream cheese on top. Top each with another 1 tablespoon batter. (Alternatively, gently mix the cream cheese and salmon together. Spoon about 1 teaspoon into the center of each pancake)\n\nCook until the bottoms of the pancakes are lightly browned and crisp, 3-5 minutes. Use 2 short wooden skewers to turn all the  pancakes and cook until lightly browned on the second side, about 3 minutes longer.\n\nTransfer the finished pancakes to a platter and keep warm  in the oven while you repeat to make 2 more batches. Serve right away.",
-        "ingredients": [
-            "1 cup all-purpose flour",
-            "1 1/2 tsp sugar",
-            "1/2 tsp baking powder",
-            "1/4 tsp salt",
-            "1/2 tsp pepper, freshly ground",
-            "2 large eggs, separated",
-            "1 cup milk",
-            "3 tbsp unsalted butter, melted and slightly cooled, divided use",
-            "1 tsp fresh lemon juice",
-            "1/4 cup fresh dill, chopped and firmly packed",
-            "3 1/2 tbsp smoked salmon, minced (about 4 oz)",
-            "3 1/2 tbsp whipped-style cream cheese, at room temperature",
-            "2 servings [cocktail sauce](http://www.xanthir.com/recipes/showrecipe.php?id=id50)"
-        ],
-        "materials": {
-            "flour": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "sugar": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "baking powder": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "salt": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "pepper": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "eggs": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "milk": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "butter": {
-                "quantity": "3",
-                "unit": "tbsp"
-            },
-            "lemon juice": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "dill": {
-                "quantity": "1/4",
-                "unit": "cup"
-            },
-            "salmon": {
-                "quantity": "3/2",
-                "unit": "tbsp"
-            },
-            "cream cheese": {
-                "quantity": "3/2",
-                "unit": "tbsp"
-            },
-            "cocktail sauce": {
-                "quantity": "2",
-                "unit": "servings"
-            }
-        },
-        "tags": [
-            "salmon",
-            "ebelskivers",
-            "main"
-        ]
-    },
-    "9": {
-        "id": "9",
-        "name": "Godiva Angel Pie",
-        "source": "everyrecipe.com",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "TO MAKE SHELL: Preheat oven to 300 degrees. In mixer bowl, beat egg whites until foamy. Beat in salt and cream of tartar and beat until soft peaks form. Add sugar, a tablespoon at a time, beating after each addition. Continue until very stiff peaks form. Fold in nuts and vanilla. Lightly butter a metal 8-inch pie plate. (Do NOT use glass.) Spoon meringue into pan lightly, building up the edges to come at least 1/2 inch above the side of the pan. Bake in preheated 300 degree oven for 35 to 40 minutes until light brown. Cool completely before adding filling. TO MAKE FILLING: Melt chocolate and water in a pan over hot, but not boiling, water, stirring occasionally, to blend. Add vanilla and chocolate mixture (cooled) to whipped cream and pile into meringue shell, swirling top with spatula. Be sure to cool the chocolate mixture before adding to the whipped cream. If it is too warm, the mixture will thin out. If this happens, chill until it is thick enough to put in shell.",
-        "ingredients": [
-            "4 (1 oz.) squares Godiva cooking chocolate or 4 oz. Baker's German sweet chocolate",
-            "1/2 tsp vanilla",
-            "1 cup pecans, finely chopped",
-            "1/2 cup sugar",
-            "1/8 tsp cream of tartar",
-            "1/8 tsp salt",
-            "2 egg whites, at room temperature",
-            "3 tbsp water",
-            "1 tsp vanilla",
-            "1 cup heavy cream, whipped"
-        ],
-        "materials": {
-            "chocolate": {
-                "quantity": "1",
-                "unit": "ounce"
-            },
-            "vanilla": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "pecan": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "sugar": {
-                "quantity": "1/2",
-                "unit": "cup"
-            },
-            "cream of tartar": {
-                "quantity": "1/8",
-                "unit": "tsp"
-            },
-            "salt": {
-                "quantity": "1/8",
-                "unit": "tsp"
-            },
-            "egg": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "water": {
-                "quantity": "3",
-                "unit": "tbsp"
-            },
-            "vanilla": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "heavy cream": {
-                "quantity": "1",
-                "unit": "cup"
-            }
-        },
-        "tags": [
-            "chocolate",
-            "dessert",
-            "pie",
-            "untried"
-        ]
-    },
-    "10": {
-        "id": "10",
-        "name": "Spaetzle",
-        "source": "foodnetwork.com",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "Dough recipe from Emeril, sauce recipe from Guy Fieri",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Bring a saucepan of salted water it a boil, reduce the heat, and maintain a simmer. In a bowl, stir all the ingredients together (eggs, flour, milk, salt, baking powder, and nutmeg). Place a colander over the pan, pour about1/4 of the batter into the colander, and press through the holes with a plastic spatula into the hot water. When the spatzle starts to float to the surface, cover the pan and keep covered until the spatzle appears to swell and is fluffy. Remove the dumplings and repeat the procedure with the remaining batter.\n\nIn a medium saute pan, add butter, and melt over medium heat until butter turns a light brown. Add garlic and cook until it becomes lightly colored. Add spaetzle to the pan to heat through. Add parsley, cheese, salt and pepper, to taste.",
-        "ingredients": [
-            "2 teaspoon fresh parsley, chopped",
-            "1 teaspoon garlic, minced",
-            "3 tablespoon butter",
-            "1 pinch nutmeg",
-            "1/4 teaspoon baking powder",
-            "1 teaspoon salt",
-            "1/2 cup milk",
-            "1 1/2 cup flour, sifted",
-            "2 eggs, slightly beaten",
-            "2 tablespoon finely grated Parmesan, plus extra for garnish",
-            "Salt and freshly ground black pepper"
-        ],
-        "materials": {
-            "parsley": {
-                "quantity": "2",
-                "unit": "tsp"
-            },
-            "garlic": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "butter": {
-                "quantity": "3",
-                "unit": "tbsp"
-            },
-            "nutmeg": {
-                "quantity": "1",
-                "unit": "pinch"
-            },
-            "baking powder": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "salt": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "milk": {
-                "quantity": "1/2",
-                "unit": "cup"
-            },
-            "flour": {
-                "quantity": "1/2",
-                "unit": "cup"
-            },
-            "eggs": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "parmesan": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "black pepper": {}
-        },
-        "tags": [
-            "german",
-            "noodles",
-            "sides"
-        ]
-    },
-    "11": {
-        "id": "11",
-        "name": "Pot Roast Carbonnade",
-        "source": "Melissa D'Arabian, FoodNetwork",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "I like to serve this over mashed potatoes.",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 325 degrees F.\n\nIn a large Dutch oven over medium-low heat, add the bacon and cook until it renders its fat and almost becomes crispy. Remove it with a slotted spoon to a plate. Add the onions, season with salt and pepper, to taste, and cook over low heat until they are deep in color and caramelized, about 30 minutes.\n\nRemove the onions to a plate, leaving as much fat in the pot as possible. Add the vegetable oil and mix it with the bacon fat. Raise the heat to high. Season the beef liberally with salt and pepper and sear, in batches, until nicely browned on both sides.\n\nOnce the meat is browned, add the first batch of meat back to the pan along with the onions, carrots and bacon. Sprinkle in the flour and stir. Cook for 1 minute before deglazing the pan with the beer. Add the remaining ingredients and bring the mixture to a simmer. Cover the pot and put it in the oven to braise until the beef is tender, about 2 hours. Remove the pot from the oven and transfer the pot roast to a serving dish.",
-        "ingredients": [
-            "1/2 pound bacon, cut into large lardons",
-            "2 medium onions, sliced",
-            "Kosher salt and freshly ground black pepper",
-            "1 tablespoon vegetable oil",
-            "1 1/2 pound beef chuck, cut into large cubes",
-            "5 carrots, peeled and cut into large chunks",
-            "1 tablespoon all-purpose flour",
-            "12 ounce beer (dark or light)",
-            "6 prunes",
-            "1 tablespoon dried thyme",
-            "1 cup beef stock"
-        ],
-        "materials": {
-            "bacon": {
-                "quantity": "227",
-                "unit": "grams"
-            },
-            "onions": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "kosher salt": {},
-            "black pepper": {},
-            "vegetable oil": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "beef chuck": {
-                "quantity": "227",
-                "unit": "grams"
-            },
-            "carrots": {
-                "quantity": "5",
-                "unit": "number"  
-            },
-            "flour": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "beer": {
-                "quantity": "355",
-                "unit": "ml"
-            },
-            "prune": {
-                "quantity": "6",
-                "unit": "number"
-            },
-            "thyme": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "beef": {
-                "quantity": "1",
-                "unit": "cup"
-            }
-        },
-        "tags": [
-            "beef",
-            "main"
-        ]
-    },
-    "12": {
-        "id": "12",
-        "name": "Old Fashion Vegetable Soup",
-        "source": "Lee Ann Foulger",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a large soup pot, brown ground beef and onion, drain off fat.  Add remaining ingredients EXCEPT for last 3 items (canned vegetables).  Simmer on low heat until vegetables are tender, about an hour.  Add canned vegetables and simmer 5 minutes.  Remove bay leaf and serve.",
-        "ingredients": [
-            "1 pound ground beef",
-            "1 cup onion, chopped",
-            "1 cup potatoes, diced",
-            "1 cup carrots, sliced",
-            "1 cup celery, diced",
-            "2 16oz can diced tomatoes in juice (or substitute 2 small cans of tomato sauce)",
-            "4 cup water",
-            "1/4 tsp dried basil, crushed",
-            "1/4 tsp dried thyme",
-            "1 bay leaf",
-            "1/2 tsp salt",
-            "1/4 tsp pepper",
-            "1/2 tsp garlic powder",
-            "2 tablespoon beef bouillon",
-            "1 16oz can corn",
-            "1 16oz can green beans",
-            "1 16oz can green peas"
-        ],
-        "materials": {
-            "beef": {
-                "quantity": "454",
-                "unit": "grams"
-            },
-            "onion": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "potato": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "carrots": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "celery": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "tomato sauce": {
-                "quantity": "2",
-                "unit": "small cans"
-            },
-            "water": {
-                "quantity": "4",
-                "unit": "cup"
-            },
-            "basil": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "thyme": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "bay leaf": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "salt": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "pepper": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "garlic powder": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "beef bouillon": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "can corn": {
-                "quantity": "474",
-                "unit": "grams"
-            },
-            "can green beans": {
-                "quantity": "474",
-                "unit": "grams"
-            },
-            "can green peas": {
-                "quantity": "474",
-                "unit": "grams"
-            }
-        },
-        "tags": [
-            "soup",
-            "beef",
-            "family_recipes",
-            "main"
-        ]
-    },
     "13": {
         "id": "13",
         "name": "Onion Pie",
@@ -832,226 +294,6 @@
             "untried"
         ]
     },
-    "15": {
-        "id": "15",
-        "name": "Greek Salad",
-        "source": "Food Network (two different recipes)",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "Dried oregano can also be substituted for the fresh in the salad mix.  Only use 1/2-1 teaspoon of the dried.",
-        "calories": 3057,
-        "fat": 297,
-        "satfat": 63,
-        "carbs": 78,
-        "fiber": 23,
-        "sugar": 34,
-        "protein": 42,
-        "instructions": "In a small bowl, whisk together the lemon juice, garlic, salt, and oil. Set aside.   In a large bowl lightly toss the lettuce with the olives, cheese, cucumber, tomatoes, onion, oregano, and black pepper. Let sit up to 2 hours.  To serve, toss salad with dressing and place sliced chicken on top.",
-        "ingredients": [
-            "6 tablespoon lemon juice",
-            "2 clove garlic, minced",
-            "2 teaspoon kosher salt, plus more to taste",
-            "1 cup extra-virgin olive oil, preferably Greek",
-            "1 head romaine lettuce, trimmed of tough stems and torn into bite-sized pieces",
-            "1 cup kalamata olives, about 6oz/cup",
-            "1/2 pound Feta cheese, crumbled",
-            "1 cucumber, trimmed, cut into 1 inch chunks",
-            "1 1/2 cup grape tomatoes, halved",
-            "1 small red onion, cut into 1/2-inch wedges, soaked in cold water for 5 minutes and drained",
-            "2 teaspoon dried oregano",
-            "Freshly ground black pepper"
-        ],
-        "materials": {
-            "lemon juice": {
-                "quantity": "6",
-                "unit": "tbsp"
-            },
-            "garlic": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "kosher salt": {
-                "quantity": "2",
-                "unit": "tsp"
-            },
-            "olive oil": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "romaine lettuce": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "kalamata olives": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "feta cheese": {
-                "quantity": "227",
-                "unit": "grams"
-            },
-            "cucumber": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "grape tomatoes": {
-                "quantity": "1/2",
-                "unit": "cup"
-            },
-            "red onion": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "oregano": {
-                "quantity": "2",
-                "unit": "tsp"
-            },
-            "black pepper": {}
-        },
-        "tags": [
-            "main",
-            "greek",
-            "salad",
-            "dressing"
-        ]
-    },
-    "16": {
-        "id": "16",
-        "name": "Flaky Buttermilk Biscuits",
-        "source": "Cooks Illustrated (All-Time Best Recipes 2010)",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "For soured milk, add 1 tbsp lemon juice or white vinegar to 1 cup milk",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Adjust oven rack to lower-middle position; heat oven to 450 degrees.  \n\nWhisk flour, baking power, baking soda, and salt in large bowl.\n\nAdd shortening to flour mixture; break up chunks with fingertips until only pea-sized pieces remain.  Working in batches, drop butter slices into flour mixture and toss to coat; pick up each slice of butter and press between floured fingertips into flat, nickel-sized pieces.  Repeat until all butter is incorporated; toss to combine.  Freeze mixture (in bowl) until chilled, about 15 minutes.\n\nSpray 24-square-inch work surface with nonstick cooking spray; spread spray evenly across surface with kitchen towel or paper towel.  Sprinkle 1/3 cup of extra flour across sprayed area; gently spread flour across work surface with palm to form thin, even coating.  Add all but 2 tablespoons of buttermilk to flour mixture; stir briskly with fork until ball forms and no dry bits of flour are visible, adding remaining buttermilk as needed (dough will be sticky and shaggy but should clear sides of bowl).  With rubber spatula, transfer dough onto center of prepared work surface, dust surface lightly with flour, and, with floured hands, bring dough together into cohesive ball.\n\nPat dough into approximate 10-inch square; roll into 18- by 14-inch rectangle about 1/4 inch thick, dusting dough and rolling pin with flour as needed.  Using bench scraper or thin metal spatula, fold dough into thirds, brushing any excess flour from surface; lift short end of dough and fold in thirds again to form approximate 6- by 4-inch rectangle.  Rotate dough 90 degrees, dusting work surface underneath with flour; roll and fold dough again, dusting with flour as needed.\n\nRoll dough into 10-inch square about 1/2 inch thick; flip dough and cut nine 3-inch rounds with floured biscuit cutter, dipping cutter back into flour after each cut.  Carefully invert and transfer rounds to ungreased baking sheet, spaced 1 inch apart.  Gather dough scraps into ball; roll and fold once or twice until scraps form smooth dough.  Roll dough into 1/2-inch-thick round; cut 3 more 3-inch rounds and transfer to baking sheet.  Discard excess dough.\n\nBrush biscuit tops with melted butter.  Bake, without opening oven door, until tops are golden brown and crisp, 15 to 17 minutes.  Let cool on baking sheet 5 to 10 minutes before serving.",
-        "ingredients": [
-            "8 tablespoon unsalted butter, cold, lightly floured and cut into 1/8-inch slices",
-            "2 tablespoon vegetable shortening, cut into 1/2-inch chunks",
-            "1 teaspoon salt",
-            "1 tablespoon baking powder",
-            "1/2 teaspoon baking soda",
-            "2 1/2 cup unbleached all-purpose flour",
-            "2 tablespoon butter, melted",
-            "1 1/4 cup buttermilk, cold"
-        ],
-        "materials": {
-            "unsalted butter": {
-                "quantity": "6",
-                "unit": "tbsp"
-            },
-            "vegetable shortening": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "salt": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "baking powder": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "baking soda": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "flour": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "butter": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "buttermilk": {
-                "quantity": "1/4",
-                "unit": "cup"
-            }
-        },
-        "tags": [
-            "biscuits",
-            "bread",
-            "sides"
-        ]
-    },
-    "17": {
-        "id": "17",
-        "name": "Grilled Portobello Mushrooms Stacked with Fresh Spinach and Shaved Manchego Cheese",
-        "source": "http://www.foodnetwork.com/recipes/bobby-flay/grilled-portobello-mushrooms-stacked-with-fresh-spinach-and-shaved-manchego-cheese-recipe/index.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "May want to only do 8 if mushroom caps are large.",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Heat grill to high. Brush mushroom caps on both sides with oil and season with salt and pepper. Grill, cap side down, until slightly charred, about 4 to 5 minutes. Turn the mushrooms over and continue grilling until just cooked through, about 3 to 4 minutes longer.\n\nStack the ingredients on each of 4 salad plates starting with a mushroom cap, a slice of cheese, some spinach, and a drizzle of Sherry Vinaigrette. Add another mushroom cap, more vinaigrette, spinach, and another slice of cheese. Place a third mushroom cap on top and finish by drizzling with additional vinaigrette and garnishing with chopped chives, if desired.\n\n[Sherry Vinaigrette](http://www.xanthir.com/recipes/showrecipe.php?id=18)",
-        "ingredients": [
-            "4 ounce manchego cheese, thinly sliced into 8 pieces",
-            "3 cup baby spinach, washed and dried",
-            "1 teaspoon freshly ground black pepper",
-            "1 teaspoon kosher salt",
-            "2 tablespoon olive oil",
-            "12 portobello mushroom caps, wiped clean",
-            "2 tablespoon fresh chives, finely chopped, for garnish, optional",
-            "1 serving Sherry Vinaigrette"
-        ],
-        "materials": {
-            "manchego cheese": {
-                "quantity": "114",
-                "unit": "grams"
-            },
-            "baby spinach": {
-                "quantity": "3",
-                "unit": "cup"
-            },
-            "black pepper": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "kosher salt": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "olive oil": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "portobello mushroom": {
-                "quantity": "12",
-                "unit": "number"
-            },
-            "chives": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "sherry vinaigrette": {
-                "quantity": "1",
-                "unit": "serving"
-            }
-        },
-        "tags": [
-            "vegetarian",
-            "main",
-            "mushrooms",
-            "cheese"
-        ]
-    },
     "18": {
         "id": "18",
         "name": "Sherry Vinaigrette",
@@ -1106,186 +348,6 @@
         "tags": [
             "dressing",
             "components"
-        ]
-    },
-    "19": {
-        "id": "19",
-        "name": "Margherita Salad",
-        "source": "Adapted from Food Network Magazine (Chicken Parmesan Salad)",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "I like to use home made bread crumbs instead of store bought.  They stay crispier on the salad.",
-        "calories": 2883,
-        "fat": 164,
-        "satfat": 54,
-        "carbs": 120,
-        "fiber": 15,
-        "sugar": 27,
-        "protein": 227,
-        "instructions": "Puree the plum tomato, sun-dried tomatoes, vinegar, garlic, oregano, a basil leaves and parmesan in a blender, drizzling in the sun-dried tomato oil until smooth. Add 2 to 3 tablespoons water, if needed to make a pour-able dressing; season with salt and pepper.\n\nHeat the olive oil in a large skillet over medium-high heat. Add the breadcrumbs, season with salt and pepper and cook, stirring occasionally, until golden, about 2 minutes. Add the remaining parmesan and the parsley and cook until toasted, about 1 more minute.\n\nToss the salad greens, mozzarella, and remaining basil in a large bowl. Toss with the dressing, then sprinkle with the breadcrumb mixture.",
-        "ingredients": [
-            "1 plum tomato, halved",
-            "4 sun-dried tomatoes packed in oil",
-            "2 tablespoon oil from the sun-dried tomato jar",
-            "2 tablespoon red wine vinegar",
-            "1 clove garlic",
-            "1/2 teaspoon dried oregano",
-            "1/4 bunch fresh basil, torn",
-            "2 tbsp parmesan, grated",
-            "Kosher salt and freshly ground pepper",
-            "2 tablespoon extra-virgin olive oil",
-            "1 cup breadcrumbs",
-            "2 tablespoon chopped fresh parsley",
-            "1/4 cup parmesan, grated",
-            "8 cup Italian-blend salad greens",
-            "3/4 bunch fresh basil, chiffonade",
-            "8 ounce bocconcini (mozzarella), quartered"
-        ],
-        "materials": {
-            "tomato": {
-                "quantity": "5",
-                "unit": "number"
-            },
-            "oil": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "red wine vinegar": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "garlic": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "dried oregano": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "basil": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "parmesan": {
-                "quantity": "256",
-                "unit": "grams"
-            },
-            "kosher salt": {},
-            "pepper": {},
-            "olive oil": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "breadcrumbs": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "parsley": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "salad greens": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "bocconcini": {
-                "quantity": "227",
-                "unit": "grams"
-            }
-        },
-        "tags": [
-            "salad",
-            "dressing",
-            "main"
-        ]
-    },
-    "21": {
-        "id": "21",
-        "name": "Mexican Ensalada",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 1335,
-        "fat": 62,
-        "satfat": 9,
-        "carbs": 172,
-        "fiber": 37,
-        "sugar": 13,
-        "protein": 35,
-        "instructions": "In small bowl, whisk together dressing ingredients.\n\nChop up additional ingredients bite size and add to a medium bowl.\n\nCombine dressing and all ingredients in a large bowl, toss, and serve.\n\nIncludes recipe for [basil-lime vinaigrette](http://www.xanthir.com/recipes/showrecipe.php?id=id6).\n\nAlternate dressing (for 2 servings):\n1/2 lemon, juiced; 1 tbsp apple cider vinegar; 2 tbsp olive oil; 2 tablespoons cilantro, chopped",
-        "ingredients": [
-            "1 lime, zested and juiced",
-            "1 tablespoon balsamic vinegar",
-            "1/4 cup basil leaves, chopped",
-            "1/2 teaspoon cumin",
-            "2 tablespoon extra-virgin olive oil",
-            "Kosher salt and freshly ground black pepper",
-            "1/2 cucumber, cubed",
-            "1 avocado, cubed",
-            "1 red bell pepper, cubed",
-            "1/2 cup black beans, rinsed and drained",
-            "1 tomato, cubed",
-            "1/2 cup brown rice, cooked"
-        ],
-        "materials": {
-            "lime": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "balsamic vinegar": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "basil leaves": {
-                "quantity": "1/4",
-                "unit": "cup"
-            },
-            "cumin": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "olive oil": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "kosher salt": {},
-            "black pepper": {},
-            "cucumber": {
-                "quantity": "1/2",
-                "unit": "number"
-            },
-            "avocado": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "red bell pepper": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "black beans": {
-                "quantity": "1/2",
-                "unit": "cup"
-            },
-            "tomato": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "brown rice": {
-                "quantity": "1/2",
-                "unit": "cup"
-            }
-        },
-        "tags": [
-            "salad",
-            "mexican",
-            "FUF",
-            "main",
-            "vegetarian"
         ]
     },
     "28": {
@@ -1409,87 +471,6 @@
             "smoothie",
             "FUF",
             "breakfast"
-        ]
-    },
-    "32": {
-        "id": "32",
-        "name": "Super Protein Salad",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 684,
-        "fat": 35,
-        "satfat": 5,
-        "carbs": 73,
-        "fiber": 20,
-        "sugar": 13,
-        "protein": 24,
-        "instructions": "Combine olive oil, vinegar, mustard, salt and pepper to taste. Toss with other ingredients in a bowl and serve.",
-        "ingredients": [
-            "2 cup salad greens",
-            "1/4 cucumber, sliced",
-            "1/2 cup grape tomatoes",
-            "1/4 cup black beans, drained and rinsed",
-            "1/4 cup chickpeas, drained and rinsed",
-            "1 tbsp pistachios",
-            "2 tbsp dried cranberries",
-            "salt and pepper, to taste",
-            "2 tbsp olive oil",
-            "1 tbsp red wine vinegar",
-            "1 tsp Dijon mustard"
-        ],
-        "materials": {
-            "salad greens": {
-                "quantity": "2",
-                "unit": "cup"
-            },
-            "cucumber": {
-                "quantity": "1/4",
-                "unit": "number"
-            },
-            "grape tomatoes": {
-                "quantity": "1/2",
-                "unit": "cup"
-            },
-            "black beans": {
-                "quantity": "1/4",
-                "unit": "cup"
-            },
-            "chickpeas": {
-                "quantity": "1/4",
-                "unit": "cup"
-            },
-            "pistachios": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "cranberries": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "olive oil": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "salt": {},
-            "pepper": {},
-            "red wine vinegar": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "dijon mustard": {
-                "quantity": "1",
-                "unit": "tbsp"
-            }
-        },
-        "tags": [
-            "salad",
-            "beans",
-            "FUF",
-            "main"
         ]
     },
     "36": {
@@ -1622,81 +603,6 @@
             "main"
         ]
     },
-    "42": {
-        "id": "42",
-        "name": "Extreme Green Salad",
-        "source": "figandcherry.com",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "(formally \"Spinach and avocado salad with sesame wasabi dressing\")",
-        "calories": 558,
-        "fat": 44,
-        "satfat": 6,
-        "carbs": 40,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 13,
-        "instructions": "1. Place all the salad ingredients, except the sesame seeds, into a large bowl or platter.\n\n2. Whisk together all the dressing ingredients in a small bowl. Drizzle over the salad and toss lightly to coat.\n\n3. Sprinkle with sesame seeds and serve.",
-        "ingredients": [
-            "4 handful baby spinach leaves",
-            "1 cup edamame",
-            "1 large avocado, diced",
-            "1/2 cucumber, finely sliced into half moons",
-            "3 tablespoon sesame seeds",
-            "1/2 lime (or orange if you prefer a sweeter dressing), juiced",
-            "1/2 teaspoon wasabi paste",
-            "1 tablespoon soy sauce",
-            "2 teaspoon sesame oil",
-            "black pepper, to taste"
-        ],
-        "materials": {
-            "baby spinach leaves": {
-                "quantity": "4",
-                "unit": "number"
-            },
-            "edamame": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "avocado": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "cucumber": {
-                "quantity": "1/2",
-                "unit": "number"
-            },
-            "sesame seeds": {
-                "quantity": "3",
-                "unit": "tbsp"
-            },
-            "lime": {
-                "quantity": "1/2",
-                "unit": "number"
-            },
-            "wasabi paste": {
-                "quantity": "1/2",
-                "unit": "tbsp"
-            },
-            "soy sauce": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "sesame oil": {
-                "quantity": "2",
-                "unit": "tsp"
-            },
-            "black pepper": {}
-        },
-        "tags": [
-            "salad",
-            "asian",
-            "vegetarian",
-            "main"
-        ]
-    },
     "48": {
         "id": "48",
         "name": "Berry Sauce",
@@ -1732,87 +638,6 @@
             "sauce",
             "components",
             "berries"
-        ]
-    },
-    "51": {
-        "id": "51",
-        "name": "Popeye's Muscle Salad",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 536,
-        "fat": 46,
-        "satfat": 7,
-        "carbs": 31,
-        "fiber": 9,
-        "sugar": 17,
-        "protein": 12,
-        "instructions": "Combine all ingredients in a bowl, toss, and serve.\n\nUse whatever vinaigrette you want.",
-        "ingredients": [
-            "1 cup baby spinach",
-            "1 cup salad greens",
-            "1 carrots, shredded",
-            "1/2 avocado, diced",
-            "1 hard boiled eggs, peeled and carefully sliced",
-            "2 tbsp pecans, chopped",
-            "2 tbsp dried cranberries",
-            "1 1/2 tbsp olive oil",
-            "2 tsp vinegar",
-            "1 tsp dijon mustard",
-            "salt and pepper"
-        ],
-        "materials": {
-            "baby spinach": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "salad greens": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "carrots": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "avocado": {
-                "quantity": "1/2",
-                "unit": "number"
-            },
-            "eggs": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "pecans": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "cranberries": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "olive oil": {
-                "quantity": "1/2",
-                "unit": "tbsp"
-            },
-            "vinegar": {
-                "quantity": "2",
-                "unit": "tsp"
-            },
-            "dijon mustard": {
-                "quantity": "1",
-                "unit": "tsp"
-            },
-            "salt": {},
-            "pepper": {}
-        },
-        "tags": [
-            "salad",
-            "FUF",
-            "spinach",
-            "main"
         ]
     },
     "54": {
@@ -2195,87 +1020,6 @@
             "vegetarian"
         ]
     },
-    "id1": {
-        "id": "id1",
-        "name": "The Original Chex Party Mix",
-        "source": "http://www.chex.com/recipes/RecipeView.aspx?RecipeId=6709&CategoryId=343",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 24,
-        "comments": "",
-        "calories": 3610,
-        "fat": 179,
-        "satfat": 68,
-        "carbs": 468,
-        "fiber": 41,
-        "sugar": 50,
-        "protein": 64,
-        "instructions": "Heat oven to 250. Place butter in large roasting pan and melt in the oven. Mix together cereals, nuts, pretzels and bagel chips in a large bowl. Remove pan from oven and mix seasonings into the melted butter. Add cereal mix and stir well to coat with seasoned butter. Place in the oven and bake for 1 hour, stirring every 15 minutes. Spread mix out to cool before storing.",
-        "ingredients": [
-            "3 cup Corn Chex cereal",
-            "3 cup Rice Chex cereal",
-            "3 cup Wheat Chex cereal",
-            "1 cup mixed nuts",
-            "1 cup bite-size pretzels",
-            "1 cup garlic-flavor bite-size bagel chips or regular-size bagel chips, broken into 1-inch pieces",
-            "6 tablespoon butter or margarine",
-            "2 tablespoon Worcestershire sauce",
-            "1 1/2 teaspoon seasoned salt",
-            "3/4 teaspoon garlic powder",
-            "1/2 teaspoon onion powder"
-        ],
-        "materials": {
-            "corn chex cereal": {
-                "quantity": "3",
-                "unit": "cup"
-            },
-            "rice chex cereal": {
-                "quantity": "3",
-                "unit": "cup"
-            },
-            "wheat chex cereal": {
-                "quantity": "3",
-                "unit": "cup"
-            },
-            "mixed nuts": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "pretzels": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "bagel chips": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "butter": {
-                "quantity": "6",
-                "unit": "tbsp"
-            },
-            "worcestershire sauce": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "seasoned salt": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "garlic powder": {
-                "quantity": "3/4",
-                "unit": "tsp"
-            },
-            "onion powder": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            }
-        },
-        "tags": [
-            "snack",
-            "party"
-        ]
-    },
     "id3": {
         "id": "id3",
         "name": "Handmade Pasta",
@@ -2396,124 +1140,6 @@
             "untried"
         ]
     },
-    "id5": {
-        "id": "id5",
-        "name": "Vegetarian Chili",
-        "source": "Emeril Lagasse",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "Nutrition information is without any toppings",
-        "calories": 1560,
-        "fat": 40,
-        "satfat": 0,
-        "carbs": 248,
-        "fiber": 80,
-        "sugar": 56,
-        "protein": 72,
-        "instructions": "In a large (6qt), heavy pot, heat the oil over medium-high heat. Add the onions, bell peppers, garlic, and serrano peppers, and cook, stirring, until soft, about 3 minutes. \n\nAdd the zucchini and mushrooms, and cook, stirring, until soft and the vegetables give off their liquid and start to brown around the edges, about 6 minutes. Add the chili powder, cumin, salt and cayenne, and cook, stirring, until fragrant, about 30 seconds. \n\nAdd the tomatoes and stir well. Add the beans, tomato sauce, and vegetable stock, stir well, and bring to a boil. Reduce the heat to medium-low and simmer, stirring occasionally, for about 20 minutes.\n\nRemove from the heat and stir in the cilantro and lime juice. Adjust the seasoning, to taste.\n\nTo serve, place 1/4 cup of brown rice in the bottom of each bowl. Ladle the chili into the bowls over the rice. Top each serving with a dollop of sour cream and spoonful of avocado or [guacamole](http://www.xanthir.com/recipes/showrecipe.php?id=28). Sprinkle with [Essence](http://www.xanthir.com/recipes/showrecipe.php?id=id4) and green onions and serve.",
-        "ingredients": [
-            "2 tablespoon canola oil",
-            "1 1/2 cup yellow onions, chopped",
-            "1 cup red bell peppers, chopped",
-            "2 tablespoon garlic, minced",
-            "2 serrano peppers, stemmed, seeded, and minced",
-            "1 medium zucchini, stem ends trimmed and cut into small dice",
-            "5 large portobello mushrooms, stemmed, wiped clean and cubed",
-            "2 tablespoon chili powder",
-            "1 tablespooon ground cumin",
-            "1 1/4 teaspoon salt",
-            "1/4 teaspoon cayenne",
-            "4 large tomatoes, peeled, seeded and chopped",
-            "2 can black beans, rinsed and drained",
-            "1 15oz can tomato sauce",
-            "1 cup vegetable stock, or water",
-            "1 lime, juiced",
-            "1/4 cup cilantro, chopped",
-            "Cooked brown rice, accompaniment",
-            "Sour cream or strained plain yogurt, garnish",
-            "Diced avocado or guacamole, garnish",
-            "Essence, garnish",
-            "Chopped green onions, garnish"
-        ],
-        "materials": {
-            "canola oil": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "yellow onions": {
-                "quantity": "1/2",
-                "unit": "cup"
-            },
-            "red bell peppers": {
-                "quantity": "1",
-                "unit": "cup"
-            },
-            "garlic": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "serrano peppers": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "zucchini": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "portobello mushrooms": {
-                "quantity": "5",
-                "unit": "number"
-            },
-            "chili powder": {
-                "quantity": "2",
-                "unit": "tbsp"
-            },
-            "ground cumin": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "salt": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "cayenne": {
-                "quantity": "1/4",
-                "unit": "tsp"
-            },
-            "black beans can": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "tomato sauce can": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "vegetable stock": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "lime": {
-                "quantity": "1",
-                "unit": "number"
-            },
-            "cilantro": {
-                "quantity": "1/4",
-                "unit": "cup"
-            },
-            "brown rice": {},
-            "sour cream": {},
-            "guacamole": {},
-            "green onions": {}
-        },
-        "tags": [
-            "chili",
-            "soup",
-            "vegetarian",
-            "main"
-        ]
-    },
     "id6": {
         "id": "id6",
         "name": "Basil-Lime Vinaigrette",
@@ -2561,7 +1187,7 @@
                 "unit": "cup"
             },
             "kosher salt": {},
-            "black pepper": {},
+            "black pepper": {}
         },
         "tags": [
             "dressing",
@@ -2627,15 +1253,7 @@
                 "quantity": "1",
                 "unit": "cup"
             },
-            "vegetable broth": {
-                "quantity": "946",
-                "unit": "grams"
-            },
             "coriander": {
-                "quantity": "1/2",
-                "unit": "tsp"
-            },
-            "cumin": {
                 "quantity": "1/2",
                 "unit": "tsp"
             },
@@ -2727,10 +1345,6 @@
             "2 teaspoon whole black peppercorns, crushed"
         ],
         "materials": {
-            "leeks": {
-                "quantity": "2",
-                "unit": "number"
-            },
             "carrots": {
                 "quantity": "2",
                 "unit": "number"
@@ -2746,30 +1360,11 @@
             "water": {
                 "quantity": "8",
                 "unit": "cup"
-            },
-            "flat-leaf parsley": {
-                "quantity": "5",
-                "unit": "sprig"
-            },
-            "thyme": {
-                "quantity": "2",
-                "unit": "sprig"
-            },
-            "black peppercorns": {
-                "quantity": "2",
-                "unit": "tsp"
             }
         },
         "tags": [
             "FUF",
             "drink"
-        ]
-    },
-        "tags": [
-            "soup",
-            "stock",
-            "vegetarian",
-            "components"
         ]
     },
     "id14": {
@@ -2813,14 +1408,8 @@
                 "quantity": "1",
                 "unit": "tbsp"
             },
-            "white-fleshed fish fillets": {
-                "quantity": "114",
-                "unit": "grams"
-            },
-            "tortillas": {
-                "quantity": "4",
-                "unit": "number"
-            },
+            "kosher salt": {},
+            "black pepper": {},
             "salsa fresca": {}
         },
         "tags": [
@@ -2828,70 +1417,6 @@
             "fish",
             "mexican",
             "grill",
-            "main"
-        ]
-    },
-    "id15": {
-        "id": "id15",
-        "name": "Spicy Rice Casserole",
-        "source": "Betty Crocker",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 1294,
-        "fat": 46,
-        "satfat": 12,
-        "carbs": 186,
-        "fiber": 14,
-        "sugar": 26,
-        "protein": 44,
-        "instructions": "Preheat oven to 425 degrees.\n\nMix rice, oats, onion, bread crumbs, milk, basil, oregano, cayenne, and egg.  Press mixture into small baking dish.  Mix panko and parmesan, put on top of mixture.  Bake for 20 minutes or until crispy or browned.  (If topping starts browning too soon, cover loosely with aluminum foil.)\n\nServe with marinara sauce.",
-        "ingredients": [
-            "2 cup cooked rice",
-            "1/2 cup quick-cooking oats",
-            "1/2 cup onion, chopped",
-            "1/4 cup dry bread crumbs",
-            "1/4 cup milk",
-            "1 tbsp basil, chopped",
-            "2 tsp oregano, chopped",
-            "1/8 tsp cayenne pepper",
-            "1 large egg, beaten",
-            "1/2 cup panko",
-            "1/4 cup parmesan cheese",
-            "4 serving [marinara sauce](http://www.xanthir.com/recipes/showrecipe.php?id=id34)"
-        ],
-        "materials": {
-            "cooked rice": {
-                "quantity": "2",
-                "unit": "cup"
-            },
-            "olive oil": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "garlic": {
-                "quantity": "2",
-                "unit": "number"
-            },
-            "lime juice": {
-                "quantity": "1",
-                "unit": "tbsp"
-            },
-            "white-fleshed fish fillets": {
-                "quantity": "114",
-                "unit": "grams"
-            },
-            "tortillas": {
-                "quantity": "4",
-                "unit": "number"
-            },
-            "salsa fresca": {}
-        },
-        "tags": [
-            "vegetarian",
-            "rice",
             "main"
         ]
     },
@@ -2923,6 +1448,27 @@
             "1/2 cup extra-virgin olive oil",
             "salt and freshly ground pepper"
         ],
+        "materials": {
+            "onions": {
+                "quantity": "200",
+                "unit": "grams"
+            },
+            "garlic": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "tomatoes": {
+                "quantity": "350",
+                "unit": "grams"
+            },
+            "lemon": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "water": {},
+            "salt": {},
+            "pepper": {},
+        },
         "tags": [
             "vegetarian",
             "rice",
@@ -2952,47 +1498,24 @@
             "4 tbsp parmesan, grated",
             "12 oz dried pasta"
         ],
+        "materials": {
+            "parmesan": {
+                "quantity": "4",
+                "unit": "tbsp"
+            },
+            "pine nuts": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "asparagus pesto": {},
+            "pasta": {
+                "quantity": "340",
+                "unit": "grams"
+            }
+        },
         "tags": [
             "vegetarian",
             "pasta",
-            "main"
-        ]
-    },
-    "id19": {
-        "id": "id19",
-        "name": "Green-packed Stir Fry with Fresh Herbs",
-        "source": "Super Natural Cooking by Heidi Swanson",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 770,
-        "fat": 32,
-        "satfat": 4,
-        "carbs": 82,
-        "fiber": 14,
-        "sugar": 12,
-        "protein": 40,
-        "instructions": "Cook the rice, if it is not already.\n\nWhen you have all your ingredients prepped, arrange them within arm's reach of the stove. Heat a small splash of sesame oil in a wok or large nonstick pan over medium-high heat. When the oil is hot, add the tofu and cook for a couple of minutes, until the tofu is golden. Remove from the pan. (You can also cook the tofu in a dry nonstick or well seasoned pan.)\n\nAdd another splash of oil to the wok and, as soon as it's hot, add the asparagus and stir for 2 minutes.  Add the white part of the green onions and chiles, and stir for another 2 minutes.  Add the green part of the green onions, and stir for another 2 minutes.  Add the garlic and ginger, and stir for 30 seconds, then add the cashews and spinach and stir for another minute, or until the spinach wilts and collapses. \n\nReturn the tofu to the pan. Stir in the stir-fry sauce. Cook for another minute, stirring constantly.\n\nRemove from heat and stir in the mint and basil. Season with enough soy sauce to make the flavors pop, starting with a splash.\n\nServe over cooked rice.\n\nNutrition information does not include stir-fry sauce.",
-        "ingredients": [
-            "1 cup cooked rice",
-            "Sesame oil",
-            "8 oz extra-firm tofu, cut into slices 1-inch long and as thick as a pencil",
-            "4 clove garlic, minced",
-            "5 green onions, chopped with white and green parts separated",
-            "1 tbsp fresh ginger, peeled and minced",
-            "1/2 jalapeno, deseeded and chopped",
-            "1/2 bunch thin asparagus (about 1/2 pound), trimmed and cut diagonally into 1-inch slices",
-            "1/2 cup cashews, coarsely chopped",
-            "2 1/2 cup spinach leaves, stemmed",
-            "2 tablespoon fresh mint, slivered",
-            "2 tablespoon fresh basil, slivered",
-            "2 servings stir-fry sauce"
-        ],
-        "tags": [
-            "vegetarian",
-            "asian",
             "main"
         ]
     },
@@ -3020,6 +1543,16 @@
             "1/4 green apple, thinly sliced",
             "2 tablespoon unsalted butter"
         ],
+        "materials": {
+            "dijon mustard": {},
+            "baguette": {},
+            "brie cheese": {},
+            "apple": {},
+            "butter": {
+                "quantity": "2",
+                "unit": "tbsp"
+            }
+        },
         "tags": [
             "sandwich",
             "main",
@@ -3052,6 +1585,28 @@
             "1/4 cup chives, chopped",
             "Salt and freshly ground pepper"
         ],
+        "materials": {
+            "green beans": {
+                "quantity": "1814",
+                "unit": "grams"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "water": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "lemon": {},
+            "lime": {},
+            "chives": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "salt": {},
+            "black pepper": {}
+        },
         "tags": [
             "vegetables",
             "vegetarian",
@@ -3083,40 +1638,29 @@
             "4 cup milk",
             "4 oz chocolate, chopped fine"
         ],
+        "materials": {
+            "sugar": {
+                "quantity": "3/4",
+                "unit": "cup"
+            },
+            "cocoa powder": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "vanilla": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "salt": {},
+            "milk": {
+                "quantity": "4",
+                "unit": "cup"
+            },
+            "chocolate": {}
+        },
         "tags": [
             "drink",
             "chocolate"
-        ]
-    },
-    "id25": {
-        "id": "id25",
-        "name": "Pesto Orzo with Peas",
-        "source": "Food Network Magazine - 50 Things to Make with Pesto",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Cook pancetta in a skilled with olive oil until crisp.  Remove with slotted spoon.\n\nMeanwhile, bring 1 quart of water to a boil. Add 1 tbsp salt and orzo. Cook about 5 minutes or until al dente.\n\nAdd frozen peas and water to the skillet; simmer until tender (about 5 minutes). Drain and return to skillet.\n\nStir in pesto, orzo, pancetta, and parmesan, and heat through.",
-        "ingredients": [
-            "4 oz pancetta, diced",
-            "12 oz frozen peas",
-            "1 cup water",
-            "4 servings [pesto](http://www.xanthir.com/recipes/showrecipe.php?id=id99)",
-            "1 cup orzo, uncooked",
-            "2 tbsp Parmesan, grated"
-        ],
-        "tags": [
-            "peas",
-            "pasta",
-            "main"
         ]
     },
     "id26": {
@@ -3144,113 +1688,31 @@
             "3 garlic cloves, smashed",
             "salt and pepper"
         ],
+        "materials": {
+            "salt": {},
+            "pepper": {},
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "grape tomatoes": {
+                "quantity": "473",
+                "unit": "ml"
+            },
+            "garlic": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "red potatoes": {
+                "quantity": "227",
+                "unit": "grams"
+            },
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "sides",
             "potatoes"
-        ]
-    },
-    "id27": {
-        "id": "id27",
-        "name": "Almond Caesar salad with croutons",
-        "source": "Food Network Magazine May 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 1562,
-        "fat": 117,
-        "satfat": 21,
-        "carbs": 88,
-        "fiber": 14,
-        "sugar": 11,
-        "protein": 53,
-        "instructions": "For croutons: Toss bread with olive oil, almonds, parmesan, lemon zest, salt and pepper. Spread on a baking sheet and bake at 425, about 8 minutes.\n\nFor dressing: Meanwhile, process almonds, parmesan, anchovies, and garlic in a food processor until finely chopped. Add dijon and lemon juice, pulse motor until just combined. With motor running, drizzle in olive oil until thoroughly combined. Season with salt and pepper.\n\nToss dressing with lettuce and croutons.",
-        "ingredients": [
-            "4 cup Italian bread, cubed",
-            "2 tbsp olive oil",
-            "2 tbsp sliced almonds",
-            "2 tbsp Parmesan, grated",
-            "1/2 lemon, zested",
-            "salt and pepper",
-            "1/4 cup sliced almonds",
-            "1/4 cup Parmesan, grated",
-            "3 anchovies",
-            "1 garlic clove",
-            "2 tsp dijon mustard",
-            "1 lemon, juiced",
-            "1/4 cup olive oil",
-            "6 cup lettuce"
-        ],
-        "tags": [
-            "salad",
-            "main"
-        ]
-    },
-    "id28": {
-        "id": "id28",
-        "name": "Spiced Apple Sauce",
-        "source": "Cook with Jamie by Jamie Oliver",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "Substitute 1 lemon for 1/2 orange",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a small saucepan gently melt the butter for a minute with the orange zest and juice, the sugar, cinnamon, grated nutmeg and cloves. Stir until the butter foams, then stir in the apples. Place a lid on top and cook for 15-20 minutes on a medium to low heat until you have a soft, sludgy sauce. Taste and add a bit more sugar if you want. Serve warm or room temperature.",
-        "ingredients": [
-            "1 tbsp unsalted butter",
-            "1/2 orange, zested and juiced",
-            "2 tbsp sugar",
-            "1/4 tsp ground cinnamon",
-            "1/4 nutmeg, grated",
-            "1/4 tsp ground cloves",
-            "2 good eating apples, peeled, cored and chopped into 1 inch dice",
-            "1 cooking apple, peeled, cored and chopped into 1 inch dice"
-        ],
-        "tags": [
-            "sides",
-            "apple"
-        ]
-    },
-    "id29": {
-        "id": "id29",
-        "name": "Schnitzel",
-        "source": "Cook with Jamie by Jamie Oliver",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 300,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "To prepare your meat, put the escalopes on to a chopping board, put a piece of wax paper on top and bat the meat with the bottom of a saucepan to flatten in a little - you want to get it to about 1/4 inch thick.\n\nTo breadcrumb your meat, get yourself four large plates and lay them out in a line in the front of you. From left to right, you want to have your slat and pepper in one, flour in the second, beaten egg in the third and your fine breadcrumbs in the fourth. It's very simple...season the pieces of meat and dip them into the flour, shaking off any excess, then put them into the egg, dripping off any excess, and into the breadcrumbs, patting them over both sides and pressing down quite firmly. Gently shake off any excess and put the meat on a board or clean plate ready to be cooked.\n\nHeat a heavy frying pan, add a couple of good glugs of olive oil and, when it's good and hot, put both pieces of pork into the pan. Cook for 2 minutes or so, then carefully start to shake and agitate the pan to cover them in the hot oil. Turn the pork over and continue to cook for a couple of minutes until both sides are crisp and golden brown. Remove to a tray line with paper towels and season with salt and pepper. Put a schnitzel on to each of your serving plates. Put a little pile of cornichon matchsticks and some watercress leaves on top and serve with a big lob of apple sauce, a squeeze of lemon juice and a drizzle of extra virgin olive oil.",
-        "ingredients": [
-            "2 5.5oz pork escalopes",
-            "Salt and pepper",
-            "Flour",
-            "1 large egg, beaten",
-            "1 1/2 cup breadcrumbs",
-            "olive oil",
-            "10 cornichons, optional for garnish, drained and cut in to matchsticks",
-            "1 bunch watercress, washed and dried",
-            "1 lemon, optional for serving"
-        ],
-        "tags": [
-            "pork",
-            "german",
-            "main"
         ]
     },
     "id30": {
@@ -3278,77 +1740,32 @@
             "1 teaspoon dried oregano",
             "1 lemon, juiced"
         ],
+        "materials": {
+            "chicken": {
+                "quantity": "170",
+                "unit": "grams"
+            },
+            "black pepper": {},
+            "salt": {
+                "quantity": "1/2",
+                "unit": "tsp"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "dried oregano": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "lemon": {
+                "quantity": "1",
+                "unit": "number"
+            }
+        },
         "tags": [
             "main",
             "chicken"
-        ]
-    },
-    "id32": {
-        "id": "id32",
-        "name": "Black bean and cheese tacos",
-        "source": "Everyday Food June 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 420,
-        "servings": 2,
-        "comments": "",
-        "calories": 1512,
-        "fat": 60,
-        "satfat": 20,
-        "carbs": 182,
-        "fiber": 38,
-        "sugar": 10,
-        "protein": 62,
-        "instructions": "In a small pot, heat oil over medium. Add onion and garlic and cook until onion is soft and garlic is fragrant, 3 minutes. Add cumin and cook until fragrant, 1 minute. Add beans, water, salt, and pepper, and simmer until beans are heated through, 3 minutes. Mash in pan with wooden spoon.\n\nSeason to taste with salt and pepper if needed. Serve with tortillas, cheese, avocado, lettuce, and jalapenos.",
-        "ingredients": [
-            "1 tsp extra-virgin olive oil",
-            "1/2 small yellow onion, diced small",
-            "2 garlic cloves, roughly chopped",
-            "1/2 tsp ground cumin",
-            "1 can black beans, rinsed and drained",
-            "1/2 cup water",
-            "coarse salt and ground pepper",
-            "4 flour tortillas, warmed or lightly toasted",
-            "1 cup Monterey Jack cheese, shredded (1 cup \u2248 3 oz)",
-            "1 avocado, pitted, peeled and thinly sliced",
-            "1 cup packed shredded romaine lettuce"
-        ],
-        "tags": [
-            "vegetarian",
-            "mexican",
-            "main"
-        ]
-    },
-    "id33": {
-        "id": "id33",
-        "name": "Joan's Broccoli Madness",
-        "source": "Souplantation/Sweet Tomatoes blog",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "",
-        "calories": 2348,
-        "fat": 144,
-        "satfat": 28,
-        "carbs": 227,
-        "fiber": 20,
-        "sugar": 125,
-        "protein": 59,
-        "instructions": "Mix the first five ingredients in a large bowl.\nIn a second bowl, beat dressing ingredients together gently until smooth.\nToss the salad with the dressing approximately 10 minutes before serving to allow flavors to meld. Serve on chilled salad dishes.",
-        "ingredients": [
-            "1 bunch broccoli, raw",
-            "\u00bd cup bacon, cooked and crumbled",
-            "\u00bd cup cashews",
-            "1/3 cup raisins",
-            "\u00bc cup red onion, chopped",
-            "1 cup mayonnaise",
-            "1/3 cup sugar",
-            "2 tablespoon apple cider vinegar"
-        ],
-        "tags": [
-            "sides",
-            "untried"
         ]
     },
     "id34": {
@@ -3376,375 +1793,34 @@
             "1 15oz can crushed Italian tomatoes",
             "Salt and freshly ground pepper"
         ],
+        "materials": {
+            "garlic": {
+                "quantity": "2",
+                "unit": "number"
+            },
+            "olive oil": {
+                "quantity": "2",
+                "unit": "tbsp"
+            },
+            "dried basil": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "dried oregano": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "tomatoes": {
+                "quantity": "425",
+                "unit": "grams"
+            },
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "sauce",
             "italian",
             "components"
-        ]
-    },
-    "id35": {
-        "id": "id35",
-        "name": "Creamy tomato soup",
-        "source": "Based on Food Network Magazine\u2019s \u201cTriple grilled cheese with tomato soup\u201d, Sept 2010",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 892,
-        "fat": 84,
-        "satfat": 12,
-        "carbs": 32,
-        "fiber": 4,
-        "sugar": 20,
-        "protein": 8,
-        "instructions": "Combine the olive oil, onion, garlic, celery, tomatoes, sugar, and salt in a saucepan. Cook over medium heat, stirring occasionally, until the vegetables are tender, about 25 minutes. Puree until smooth (or desired consistency), or transfer to a regular blender in batches and puree. Pour back into saucepan and add milk and basil. Add salt and pepper to taste. For vegans or non-creamy soup, thin with water if needed.",
-        "ingredients": [
-            "1/4 cup extra-virgin olive oil",
-            "1 medium onion, finely chopped",
-            "1 clove garlic, chopped",
-            "1 small inner stalk celery, chopped",
-            "2 pound tomatoes, chopped",
-            "1/2 teaspoon sugar",
-            "1 tsp salt",
-            "1 tablespoon fresh basil (or 1/2 teaspoon dried basil), chopped",
-            "1 cup milk, half-and-half, or cream",
-            "Kosher salt and freshly ground black pepper"
-        ],
-        "tags": [
-            "soup",
-            "main",
-            "vegetarian"
-        ]
-    },
-    "id36": {
-        "id": "id36",
-        "name": "Triple Grilled Cheese",
-        "source": "Based on Food Network Magazine\u2019s \u201cTriple grilled cheese with tomato soup\u201d, Sept 2010.",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 480,
-        "servings": 4,
-        "comments": "",
-        "calories": 1848,
-        "fat": 104,
-        "satfat": 60,
-        "carbs": 132,
-        "fiber": 8,
-        "sugar": 8,
-        "protein": 100,
-        "instructions": "Combine all three cheeses in a bowl. Divide evenly among 4 bread slices and top with the remaining bread. Heat 1 tablespoon butter in a large skillet or griddle over medium heat. Cook the sandwiches in batches, adding the remaining butter as needed, until the cheese melts and the bread is golden, 3-4 minutes per side. Serve the sandwiches with the soup.",
-        "ingredients": [
-            "1 cup shredded muenster cheese (about 4 oz)",
-            "1 cup shredded mozzarella cheese (about 4 oz)",
-            "1/2 cup grated Parmesan cheese (about 1 oz)",
-            "8 slices thick sandwich bread",
-            "2 tablespoon unsalted butter"
-        ],
-        "tags": [
-            "sandwich",
-            "cheese",
-            "main"
-        ]
-    },
-    "id37": {
-        "id": "id37",
-        "name": "Vegetarian Steamed Dumplings",
-        "source": "http://www.foodnetwork.com/recipes/alton-brown/vegetarian-steamed-dumplings-recipe/index.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 200 degrees F.\n\nCut the tofu in half horizontally and lay between layers of paper towels. Place on a plate, top with another plate, and place a weight on top (a 14-ounce can of vegetables works well). Let stand 20 minutes. After 20 minutes, cut the tofu into 1/4-inch cubes and place in a large mixing bowl. Add the carrots, cabbage, red pepper, scallions, ginger, cilantro, soy sauce, hoisin, sesame oil, egg, salt, and pepper. Lightly stir to combine.\n\nTo form the dumplings, remove 1 wonton wrapper from the package, covering the others with a damp cloth. Brush the edges of the wrapper lightly with water. Place 1/2 rounded teaspoon of the tofu mixture in the center of the wrapper. Shape as desired. Set on a sheet pan and cover with a damp cloth. Repeat procedure until all of the filling is gone.\n\nUsing a steaming apparatus of your choice, bring 1/4 to 1/2-inch of water to a simmer over medium heat. Spray the steamer's surface lightly with the non-stick vegetable spray to prevent sticking. Place as many dumplings as will fit into a steamer, without touching each other. Cover and steam for 10 to 12 minutes over medium heat. Remove the dumplings from the steamer to a heatproof platter and place in oven to keep warm. Repeat until all dumplings are cooked.\n\nTo make dipping sauce, whisk together ingredients in a small bowl.",
-        "ingredients": [
-            "1/2 pound firm tofu",
-            "1/2 cup carrots, coarsely grated",
-            "1/2 cup Napa cabbage, shredded",
-            "2 tablespoon red bell pepper, finely chopped",
-            "2 tablespoon green onions, finely chopped",
-            "2 teaspoon fresh ginger, finely minced",
-            "1 tablespoon cilantro, chopped",
-            "1 tablespoon soy sauce",
-            "1 tablespoon hoisin sauce",
-            "2 teaspoon sesame oil",
-            "1 egg, lightly beaten",
-            "1 teaspoon kosher salt",
-            "1/4 teaspoon freshly ground black pepper",
-            "Bowl of water, plus additional water for steamer",
-            "40 small wonton wrappers",
-            "Non-stick vegetable spray, for the steamer",
-            "1 1/2 tablespoon soy sauce",
-            "1 tablespoon seasoned rice vinegar",
-            "1 teaspoon sesame oil",
-            "1/2 teaspoon sriracha"
-        ],
-        "tags": [
-            "vegetarian",
-            "asian",
-            "main"
-        ]
-    },
-    "id38": {
-        "id": "id38",
-        "name": "Soba salad with asparagus and shrimp",
-        "source": "Everyday Food June 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "Also try with other veggies and proteins",
-        "calories": 1928,
-        "fat": 24,
-        "satfat": 4,
-        "carbs": 292,
-        "fiber": 12,
-        "sugar": 23,
-        "protein": 156,
-        "instructions": "1. In a large pot of boiling salted water, cook asparagus until crisp-tender, about 3 minutes. With a slotted spoon or mesh strainer, transfer asparagus to a colander and rinse under cool water to stop the cooking. Transfer asparagus to a medium bowl. Return water to a boil; add shrimp and cook until pink and opaque throughout, about 2 minutes. Transfer shrimp to bowl with asparagus. Return water to a boil; add noodles and cook according to package instructions. Drain noodles and rinse under cool water.\n\n2. Meanwhile, in a small bowl, whisk together soy sauce oil, vinegar, and sugar. Divide noodles among four bowls and drizzle with dressing. Top with asparagus and shrimp and sprinkle with scallions and basil.",
-        "ingredients": [
-            "Sea salt",
-            "1 pound asparagus, trimmed",
-            "1 pound frozen large shrimp (peeled and deveined), thawed",
-            "3/4 pound soba noodles",
-            "3 tablespoon soy sauce",
-            "1 tablespoon toasted sesame oil",
-            "1 tablespoon rice vinegar",
-            "1 tablespoon sugar",
-            "3 green onions, thinly sliced",
-            "1 cup fresh basil leaves, chiffonade"
-        ],
-        "tags": [
-            "noodles",
-            "shrimp",
-            "main"
-        ]
-    },
-    "id39": {
-        "id": "id39",
-        "name": "Tofu and Sweet Potato Jambalaya",
-        "source": "Betty Crocker's Cookbook",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 1590,
-        "fat": 28,
-        "satfat": 4,
-        "carbs": 296,
-        "fiber": 40,
-        "sugar": 30,
-        "protein": 76,
-        "instructions": "1. Drain tofu; cut into 3/4-inch cubes. Carefully press cubes between paper towels to remove as much water as possible.\n2. Heat oil in 12-inch skillet over medium heat. Cook tofu in oil 6 to 8 minutes, turning frequently, until light golden brown. Remove tofu from skillet; set aside.\n3. Add sweet potato and garlic to skillet. Cook 2 to 3 minutes, stirring occasionally, just until sweet potato begins to brown. Stir in broth, rice, Worcestershire sauce and red pepper. Heat to boiling; reduce heat. Cover and simmer 10 minutes.\n4. Stir in beans. Cover and cook 8 to 10 minutes, stirring occasionally, until rice is tender and liquid is absorbed. Stir in tofu and onions. Cook 1 to 2 minutes or until heated through.",
-        "ingredients": [
-            "14 oz firm tofu",
-            "1 tablespoon olive oil",
-            "1 large sweet potato, peeled and cut into 1/2-inch cubes",
-            "2 clove garlic, finely chopped",
-            "2 cup vegetable broth",
-            "3/4 cup uncooked regular long-grain white rice",
-            "2 tablespoon Worcestershire sauce",
-            "1/4 teaspoon ground red pepper",
-            "1 can black beans (15 oz), rinsed and drained",
-            "12 medium green onions, sliced"
-        ],
-        "tags": [
-            "vegetarian",
-            "main"
-        ]
-    },
-    "id43": {
-        "id": "id43",
-        "name": "Parker's split pea soup",
-        "source": "http://www.foodnetwork.com/recipes/ina-garten/parkers-split-pea-soup-recipe/index.html",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 5400,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a 4-quart stockpot on medium heat, saute the onions and garlic with the olive oil, oregano, salt, and pepper until the onions are translucent, 10 to 15 minutes. Add the carrots, potatoes, 1/2 pound of split peas, and chicken stock. Bring to a boil, then simmer uncovered for 40 minutes. Skim off the foam while cooking. Add the remaining split peas and continue to simmer for another 40 minutes, or until all the peas are soft. Stir frequently to keep the solids from burning on the bottom. Taste for salt and pepper. Serve hot.",
-        "ingredients": [
-            "1 cup yellow onions, chopped",
-            "2 clove garlic, minced",
-            "1/8 cup good olive oil",
-            "1/2 teaspoon dried oregano",
-            "1 1/2 teaspoon kosher salt",
-            "1 teaspoon freshly ground black pepper",
-            "4 carrots, medium-diced",
-            "3 small red boiling potatoes, unpeeled and medium-diced",
-            "1 pound dried split green peas",
-            "8 cup chicken stock"
-        ],
-        "tags": [
-            "main",
-            "peas",
-            "soup"
-        ]
-    },
-    "id44": {
-        "id": "id44",
-        "name": "Wild Mushroom Risotto",
-        "source": "Bride and Groom First and Forever Cookbook by Barber and Whiteford",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 2700,
-        "servings": 2,
-        "comments": "",
-        "calories": 1508,
-        "fat": 70,
-        "satfat": 20,
-        "carbs": 166,
-        "fiber": 8,
-        "sugar": 20,
-        "protein": 48,
-        "instructions": "Bring the stock to a simmer in a small saucepan over medium-high heat. Reduce the heat to low, cover, and keep the stock hot.\n\nHeat the olive oil in a large heavy-bottomed saucepan over medium-high heat. Add the onion and saute, stirring frequently with a wooden spoon for 2 minutes. Add the mushrooms and cook until tender and slightly brown, about 8 minutes. Add the garlic and cook for 2 minutes more. Add the rice and stir well, about 30 seconds. Add the wine and simmer, stirring constantly until the liquid is absorbed, 2 to 3 minutes. Add 3/4 cup of the hot stock, reduce the heat to medium, and cook, stirring frequently, until the stock is absorbed. Add the remaining hot stock 3/4 cup at a time, stirring frequently and allowing each addition to be fully absorbed before adding more, until the rice is just tender and the risotto is creamy. The total cooking time is 20 to 25 minutes.\n\nStir in 1/4 cup cheese, the thyme, and butter. If the rice appears dry, add up to 1/4 cup water to loosen the risotto slightly. Season with salt and pepper to taste.\n\nDivide the risotto between 2 large bowls and drizzle with truffle oil, if desired. Sprinkle with the remaining 2 tablespoons cheese and the chives.",
-        "ingredients": [
-            "3 1/2 cup vegetable stock (or chicken stock)",
-            "2 1/2 tablespoon olive oil",
-            "1 small yellow onion, diced",
-            "8 oz shiitake or cremini mushrooms, cleaned and sliced (if using shiitakes, discard stems)",
-            "1 tbsp garlic, roughly chopped",
-            "3/4 cup arborio rice",
-            "1/2 cup dry white wine",
-            "3/8 cup Parmesan cheese, grated, divided use",
-            "1/2 tsp thyme",
-            "1 tbsp unsalted butter",
-            "Salt and freshly ground pepper",
-            "Truffle oil, for drizzling, optional",
-            "1 tbsp parsley, chopped"
-        ],
-        "tags": [
-            "main",
-            "risotto",
-            "mushrooms",
-            "vegetarian"
-        ]
-    },
-    "id45": {
-        "id": "id45",
-        "name": "Roasted Salmon with Walnut-Pepper Relish",
-        "source": "Food Network Magazine October 2011",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 900,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Make the relish: preheat the oven to 350. Spread the walnuts on a baking sheet and bake until toasted 7 to 10 minutes. Let cool, then finely chop and transfer to a bowl. Add the cayenne, lemon juice, honey, roasted red pepper, walnut oil, olive oil and parsley. Add salt and black pepper to taste and toss to combine. (The relish can be made up to 1 day ahead; cover and refrigerate.)\n\n2. Make the salmon: Raise the oven temperature to 425. Combine the remaining olive oil and parsley, the chives, lemon zest, salt and black pepper to taste in a bowl. Rub the herb mixture *all* over the salmon. Lay skin-side down in a baking dish and roast until just cooking through, 12 to 14 minutes (for 3 lbs). Let rest 5 minutes, then transfer to a platter and top with the relish.",
-        "ingredients": [
-            "1/2 cup walnuts",
-            "Pinch of cayenne pepper",
-            "1 tbsp lemon juice",
-            "1 tsp honey",
-            "2 tbsp diced roasted red pepper",
-            "1 tbsp walnut oil",
-            "1 tbsp extra-virgin olive oil",
-            "2 tbsp parsley, chopped",
-            "1/2 tsp salt",
-            "black pepper",
-            "1 tbsp extra-virgin olive oil",
-            "2 tbsp parsley, chopped",
-            "2 tbsp chives, chopped",
-            "1 tsp lemon zest",
-            "1/2 tsp salt",
-            "black pepper",
-            "2 lb salmon filet (about 1.5 inches thick)"
-        ],
-        "tags": [
-            "salmon",
-            "main"
-        ]
-    },
-    "id46": {
-        "id": "id46",
-        "name": "Brown rice, chickpea, feta, and mint salad",
-        "source": "Martha Stewart Living September 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 996,
-        "fat": 60,
-        "satfat": 18,
-        "carbs": 138,
-        "fiber": 10,
-        "sugar": 8,
-        "protein": 36,
-        "instructions": "1. Mix rice with 1 tbsp lemon juice while warm.\n\n2. Combine rice and chickpeas in a bowl. Stir in lemon zest, remaining juice, and oil. Let cool.\n\n3. Stir in cheese, tomatoes, mint, and onion. Season with salt. Refrigerate until ready to serve.\n\nCan be refrigerated for up to 2 days.",
-        "ingredients": [
-            "1 1/2 cup cooked brown rice",
-            "2 1/2 tbsp lemon juice",
-            "1 cup chickpeas, drained and rinsed",
-            "2 tsp lemon zest",
-            "3 tbsp olive oil",
-            "1/2 cup feta cheese, crumbled",
-            "1/2 cup grape or cherry tomatoes, halved",
-            "1/2 cup fresh mint",
-            "1/4 small red onion, chopped",
-            "Salt"
-        ],
-        "tags": [
-            "rice",
-            "salad",
-            "main"
-        ]
-    },
-    "id49": {
-        "id": "id49",
-        "name": "Greek yogurt with homemade honeycomb",
-        "source": "Gordon Ramsay",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. For the honeycomb: Line a shallow baking tray with parchment paper. Place the honey, liquid glucose, water and sugar in a large heavy-based saucepan and heat gently, stirring occasionally until the sugar dissolves. Increase the heat and cook until the mixture starts to turn a light golden colour. Mix in the baking soda. The mixture will erupt into a foaming mass. Pour immediately into the prepared baking tray.\n\n2. Leave to cool, then place in the fridge to set. This takes approx 6-10 mins. Break up with the end of a rolling pin and store in an airtight jar if not using immediately.\n\n3. Using a blender, blitz the raspberries and blueberries together with little caster sugar until smooth. Add a drop of lavender essence. Strain the mixture through a sieve to create a fresh coulis. Taste to check consistency and flavour, add a spoonful of water or sugar as necessary.\n\n4. Lightly mix almost all of the honeycomb through the yoghurt. Spoon into individual serving glasses and pour the coulis on top. Garnish with lavender flowers and a sprinkling of the remaining honeycomb. Serve immediately.",
-        "ingredients": [
-            "600 ml Greek yogurt",
-            "100 g blueberries",
-            "100 g raspberries",
-            "2 tsp caster sugar",
-            "Lavender essence, suitable for culinary use",
-            "Dried lavender flowers, suitable for culinary use",
-            "75 g clear honey",
-            "140 g liquid glucose",
-            "400 g sugar",
-            "5 tbsp water",
-            "2 tbsp baking powder"
-        ],
-        "tags": [
-            "dessert",
-            "candy",
-            "untried"
         ]
     },
     "id50": {
@@ -3772,41 +1848,25 @@
             "1/2 teaspoon Worcestershire sauce",
             "1/4 teaspoon hot sauce, (recommended: Tabasco)"
         ],
+        "materials": {
+            "chilli sauce": {},
+            "ketchup": {},
+            "onions": {
+                "quantity": "250",
+                "unit": "grams"
+            },
+            "tomatoes": {
+                "quantity": "300",
+                "unit": "grams"
+            },
+            "garlic": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "kosher salt": {},
+            "black pepper": {}
+        },
         "tags": [
-            "condiment",
-            "sauce",
-            "components"
-        ]
-    },
-    "id51": {
-        "id": "id51",
-        "name": "Heinz Chili Sauce",
-        "source": "All over the internet",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Whisk all the ingredients together in a small saucepan, place over medium heat.\n\nWhen mixture begins to bubble reduce heat to low and simmer for 30 minutes. Cover and cool. Refrigerate when cold",
-        "ingredients": [
-            "1 cup tomato puree",
-            "2 tablespoon agave nectar",
-            "1/4 cup white vinegar",
-            "2 teaspoon dried onion flakes",
-            "2 teaspoon granulated sugar",
-            "1 teaspoon salt",
-            "1 teaspoon lemon juice",
-            "1/8 teaspoon garlic powder"
-        ],
-        "tags": [
-            "copycat",
             "condiment",
             "sauce",
             "components"
@@ -3838,211 +1898,26 @@
             "1/4 tsp pepper, or to taste",
             "1/2 cup pine nuts, toasted"
         ],
+        "materials": {
+            "eggs": {
+                "quantity": "4",
+                "unit": "number"
+            },
+            "spinach": {
+                "quantity": "100",
+                "unit": "grams"
+            },
+            "tomatoes": {
+                "quantity": "250",
+                "unit": "grams"
+            },
+            "tomatoes": {},
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "spinach",
             "breakfast"
-        ]
-    },
-    "id53": {
-        "id": "id53",
-        "name": "Roasted Shallot Vinaigrette",
-        "source": "http://www.myrecipes.com/recipe/garden-herb-salad-with-roasted-shallot-vinaigrette-10000001197173/",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400\u00b0.\nWrap shallot in foil. Bake at 400\u00b0 for 35 minutes; cool for 10 minutes. Peel and mince. Combine shallot, vinegar, oil, sugar, mustard, salt, and pepper in a large bowl; stir well with a whisk.",
-        "ingredients": [
-            "1 medium shallot, peeled",
-            "2 tablespoon red wine vinegar",
-            "1 tablespoon extravirgin olive oil",
-            "1 teaspoon sugar",
-            "1 teaspoon Dijon mustard",
-            "1/4 teaspoon salt",
-            "1/4 teaspoon black pepper"
-        ],
-        "tags": [
-            "dressing",
-            "components"
-        ]
-    },
-    "id55": {
-        "id": "id55",
-        "name": "Peanut Noodle Salad",
-        "source": "Food Network Magazine Nov 2011",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 4,
-        "comments": "",
-        "calories": 1908,
-        "fat": 80,
-        "satfat": 12,
-        "carbs": 200,
-        "fiber": 12,
-        "sugar": 48,
-        "protein": 40,
-        "instructions": "Thinly slice the bell pepper and scallions.  Roughly chop the basil, cilantro, mint, and peanuts.\n\nCook noodles according to package instructions.  Transfer to a serving bowl.\n\nWhisk the lime juice soy sauce, peanut butter, brown sugar, and vegetable oil in a medium bowl until smooth.  Pour the dressing over the noodles.  (If possible, do this when the noodles are hot - it helps melt the peanut butter, which will still be chunky in the dressing.)  \n\nAdd the bell pepper , scallions, basil, cilantro, and mint and toss to combine.  Season with salt and sprinkle with the peanuts.",
-        "ingredients": [
-            "8 ounce rice vermicelli noodles",
-            "6 tbsp lime juice",
-            "3 tbsp soy sauce, low-sodium",
-            "3 tbsp peanut butter, creamy",
-            "3 tbsp dark brown sugar",
-            "3 tbsp vegetable oil",
-            "1 red bell pepper, small and thinly sliced",
-            "1/2 cup green onions",
-            "1/2 cup basil",
-            "1/2 cup cilantro",
-            "1/2 cup mint",
-            "kosher salt",
-            "1/3 cup roasted peanuts"
-        ],
-        "tags": [
-            "salad",
-            "asian",
-            "main"
-        ]
-    },
-    "id57": {
-        "id": "id57",
-        "name": "Artichoke, Leek, and Potato Casserole",
-        "source": "Martha Stewart's Everyday Food October 2011",
-        "preptime": 1500,
-        "waittime": 0,
-        "cooktime": 2700,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 425\u00b0.\n\nIn a large skillet, heat 1 tbsp oil over medium-high.  Add leeks and celery; cook until softened, 8 minutes.  Add artichokes, broth, and cheese and stir to combine.  Remove skillet from heat, add lemon juice, and season with salt and pepper.\n\nBrush a 1 1/2-quart baking dish with oil.  Arrange half the potato slices in a single layer, overlapping slightly; season with salt and pepper.  Top with artichoke mixture and smooth top . Layer with remaining potatoes, brush with 2 tsp oil, and season with salt and pepper.\n\nBake until sauce is bubbling and potatoes are golden and tender, 35 to 40 minutes.  Let cool 10 minutes before serving.",
-        "ingredients": [
-            "1 tbsp olive oil",
-            "2 tsp olive oil",
-            "2 leeks, white and green parts only; sliced into thin half-moons and rinsed well",
-            "3 celery stalks, thinly sliced",
-            "18 oz frozen artichoke hearts, thawed, squeezed, and coarsely chopped",
-            "1/2 cup chicken broth",
-            "8 oz Neufchatel cheese, room temperature",
-            "2 tbsp lemon juice",
-            "course salt and ground pepper",
-            "2 medium russet potatoes, very thinly sliced"
-        ],
-        "tags": [
-            "main",
-            "vegetarian"
-        ]
-    },
-    "id58": {
-        "id": "id58",
-        "name": "Broccoli with Parmesan and Walnuts",
-        "source": "Martha Stewart's Everyday Food October 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a large skillet, heat olive oil over medium-high.  Add broccoli, trimmed and cut into florets, and cook until broccoli begins to brown, 4 minutes.  Add garlic and cook, stirring occasionally, until broccoli is crisp and tender and garlic begins to brown, 3 minutes.\n\nAdd red pepper flakes, season with salt and pepper, and transfer to serving bowl.  Toss with lemon zest, lemon juice, parmesan, and walnuts.  Serve warm or at room temperature.",
-        "ingredients": [
-            "2 tbsp extra-virgin olive oil",
-            "1 head broccoli",
-            "1 clove garlic, thinly sliced",
-            "1/4 tsp red pepper flakes",
-            "salt and pepper",
-            "2 tsp grated lemon zest",
-            "1 tbsp fresh lemon juice",
-            "1/4 cup parmesan, grated",
-            "1/2 cup walnuts, toasted and chopped"
-        ],
-        "tags": [
-            "sides"
-        ]
-    },
-    "id63": {
-        "id": "id63",
-        "name": "Emeril's strawberry lemonade",
-        "source": "Everyday Food June 2011",
-        "preptime": 600,
-        "waittime": 2700,
-        "cooktime": 120,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. In a medium saucepan, bring water and sugar to a boil over medium-high. Reduce to a simmer and cook, stirring occasionally, until sugar dissolves, 2 minutes. Transfer to a pitcher and refrigerated until cool, about 45 minutes. Add lemon juice and stir to combine.\n\n2. In a blender, puree strawberries until smooth. Pour through a fine-mesh sieve into a pitcher with lemon syrup, pressing on solid. Stir well to combine.\n\n3. To serve, stir in seltzer and divide among ice-filled glasses. Trop with lemon slices and mint.",
-        "ingredients": [
-            "2 cup water",
-            "1 cup sugar",
-            "1 cup fresh lemon juice, (about 6 lemons=1 cup juice)",
-            "1 lemon, sliced for serving",
-            "1 pound strawberries, hulled and halved (about  cups)",
-            "16 oz seltzer, chilled",
-            "mint, for serving"
-        ],
-        "tags": [
-            "drink",
-            "untried"
-        ]
-    },
-    "id64": {
-        "id": "id64",
-        "name": "Pizza bianca",
-        "source": "Everyday Food June 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 1968,
-        "fat": 96,
-        "satfat": 36,
-        "carbs": 212,
-        "fiber": 8,
-        "sugar": 0,
-        "protein": 104,
-        "instructions": "Preheat oven to 500. Lightly dust a work surface, rolling pin, and a baking sheet with flour. Roll dough out to a 13-inch round and transfer to sheet.\n\nIn a small bowl, stir together ricotta, oil and garlic; season with salt and pepper. Spread ricotta mixture on dough, leaving a 1/2-inch border. Top with mozzarella, then Parmesan. Brush oil on edge of dough. Bake until crust is golden and cheese is melted and browned in spots, 12 to 14 minutes. \n\nIn a small bowl, toss arugula with oil and season to taste with salt and pepper. Top pizza with arugula and serve.",
-        "ingredients": [
-            "all-purpose flour, for dusting and rolling",
-            "1 pound pizza dough, thawed if frozen",
-            "1 teaspoon extra-virgin olive oil, for brushing",
-            "1/2 cup whole-milk ricotta cheese",
-            "1 tablespoon extra-virgin olive oil",
-            "1 garlic clove, minced",
-            "salt and freshly ground pepper",
-            "6 oz mozzarella, shredded",
-            "1 oz Parmesan, grated (or Pecorino Romano)",
-            "2 oz baby arugula",
-            "1 tsp extra-virgin olive oil"
-        ],
-        "tags": [
-            "pizza",
-            "vegetarian",
-            "main"
         ]
     },
     "id65": {
@@ -4075,42 +1950,25 @@
             "salt and pepper",
             "1/2 cup salted pepitas"
         ],
+        "materials": {
+            "olive oil": {
+                "quantity": "3",
+                "unit": "tbsp"
+            },
+            "garlic": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "ginger": {
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "soup",
             "main"
-        ]
-    },
-    "id66": {
-        "id": "id66",
-        "name": "Green goddess dressing",
-        "source": "Everyday Food June 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a medium bowl, whisk together buttermilk, sour cream, and mayonnaise. Whisk in remaining ingredients. Season to taste with salt and pepper.",
-        "ingredients": [
-            "1 cup buttermilk",
-            "1/2 cup sour cream",
-            "1/4 cup mayonnaise",
-            "1/2 avocado, mashed until smooth",
-            "1/4 cup fresh chives, finely chopped",
-            "2 tbsp fresh lemon juice",
-            "2 tbsp fresh parsley, chopped",
-            "Salt and freshly ground pepper"
-        ],
-        "tags": [
-            "dressing",
-            "components",
-            "untried"
         ]
     },
     "id67": {
@@ -4137,6 +1995,26 @@
             "1 small head roasted garlic, skins removed and cloves mashed until smooth",
             "Salt and freshly ground pepper"
         ],
+        "materials": {
+            "buttermilk": {
+                "quantity": "1",
+                "unit": "cup"
+            },
+            "sour cream": {
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            "mayonnaise": {
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            "garlic": {
+                "quantity": "1",
+                "unit": "number"
+            },
+            "salt": {},
+            "pepper": {}
+        },
         "tags": [
             "dressing",
             "components",
@@ -4175,103 +2053,6 @@
             "untried"
         ]
     },
-    "id69": {
-        "id": "id69",
-        "name": "Creamy blue cheese dressing",
-        "source": "Everyday Food June 2011",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Whisk together all ingredients in a bowl. Season to taste with salt and pepper.",
-        "ingredients": [
-            "1 cup buttermilk",
-            "1/2 cup sour cream",
-            "1/4 cup mayonnaise",
-            "3 oz blue cheese, crumbled",
-            "Salt and freshly ground pepper"
-        ],
-        "tags": [
-            "dressing",
-            "components",
-            "untried"
-        ]
-    },
-    "id70": {
-        "id": "id70",
-        "name": "Creamy peppercorn-Parmesan dressing",
-        "source": "Everyday Food June 2011",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Whisk together all ingredients.",
-        "ingredients": [
-            "1 cup buttermilk",
-            "1/2 cup sour cream",
-            "1/4 cup mayonnaise",
-            "2 oz Parmesan, finely grated",
-            "1 tsp pepper, coarsely ground",
-            "Salt, to taste"
-        ],
-        "tags": [
-            "dressing",
-            "components",
-            "untried"
-        ]
-    },
-    "id73": {
-        "id": "id73",
-        "name": "Cherry-lime cups",
-        "source": "Everyday Food June 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "",
-        "calories": 2136,
-        "fat": 102,
-        "satfat": 60,
-        "carbs": 294,
-        "fiber": 6,
-        "sugar": 0,
-        "protein": 42,
-        "instructions": "1. Make crust: preheat oven to 350. Lightly butter six standard muffin cups. In a food processor, process butter, flour, sugar, and salt until mixture resembles coarse meal. Add yolks and vanilla and process until dough comes together when pressed (dough will be crumbly).\n\n2. Divide dough into 6 pieces. Roll each into a ball and place in a muffin cup, pressing evenly into bottom and up sides. Place a paper cupcake liner into each muffin cup over dough and fill with pie weights or dried beans. Bake until edges are dry, 15 minutes. Carefully remove liners and weights; bake until crusts are dry and barely golden, 5 to 7 minutes.\n\n3. Meanwhile, make filling: in a medium bowl, whisk together eggs, flour, sugar, lime juice, and salt. Place 3 cherry halves into each crust and divide filling among each. Bake until filling is set, about 25 minutes. With the tip of a knife or small offset spatula, remove cups from pan. Let cool completely on a wire rack.\n\nTo store, refrigerate in an airtight container, up to 1 day.",
-        "ingredients": [
-            "7 tbsp unsalted butter, cold and cut into pieces, plus more for pan",
-            "1 1/3 cup all-purpose flour, spooned and leveled",
-            "1/4 cup sugar",
-            "1/2 tsp coarse salt",
-            "2 egg yolks",
-            "1/2 tsp vanilla extract",
-            "2 eggs, lightly beaten",
-            "3 tbsp all-purpose flour",
-            "2/3 cup sugar",
-            "5 tbsp fresh lime juice",
-            "1/4 tsp coarse salt",
-            "9 cherries, halved and pitted"
-        ],
-        "tags": [
-            "dessert",
-            "lime"
-        ]
-    },
     "id74": {
         "id": "id74",
         "name": "Roasted salsa",
@@ -4298,269 +2079,27 @@
             "salt and freshly ground pepper",
             "1/4 cup fresh cilantro, chopped"
         ],
+        "materials": {
+            "tomatoes": {
+                "quantity": "227",
+                "unit": "grams"
+            },
+            "garlic": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "jalapenos": {
+                "quantity": "3",
+                "unit": "number"
+            },
+            "salt": {},
+            "pepper": {},
+        },
         "tags": [
             "salsa",
             "components",
             "appetizer",
             "untried"
-        ]
-    },
-    "id75": {
-        "id": "id75",
-        "name": "Shrimp and edamame with lime",
-        "source": "Everyday Food June 2011",
-        "preptime": 1800,
-        "waittime": 0,
-        "cooktime": 480,
-        "servings": 4,
-        "comments": "",
-        "calories": 1388,
-        "fat": 28,
-        "satfat": 4,
-        "carbs": 120,
-        "fiber": 20,
-        "sugar": 0,
-        "protein": 152,
-        "instructions": "Cook rice according to package instructions. Meanwhile, in a large nonstick skillet, heat oil over medium-high. Add shrimp and garlic and cook, stirring occasionally, 4 minutes. Add edamame and scallion whites and cook until shrimp are opaque and garlic is golden, about 3 minutes. Add scallion greens ad lime juice and cook 1 minute. Season to taste with salt and pepper; serve with rice and lime wedges, if desired.",
-        "ingredients": [
-            "1 cup long-grain rice, such as jasmine or basmati",
-            "1 tbsp extra-virgin olive oil",
-            "1 1/4 lb medium shrimp, peeled and deveined",
-            "1 large clove garlic, minced",
-            "2 cup frozen shelled edamame, thawed (from a 10 oz package)",
-            "5 green onions, halved lengthwise and cut into 1-inch pieces, white and green parts separated",
-            "1 tbsp fresh lime juice, plus wedges for serving (optional)",
-            "salt and freshly ground pepper"
-        ],
-        "tags": [
-            "shrimp",
-            "seafood",
-            "main"
-        ]
-    },
-    "id79": {
-        "id": "id79",
-        "name": "Strawberries and cream bars",
-        "source": "Everyday Food June 2011",
-        "preptime": 1500,
-        "waittime": 21600,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 1680,
-        "fat": 60,
-        "satfat": 36,
-        "carbs": 288,
-        "fiber": 24,
-        "sugar": 0,
-        "protein": 36,
-        "instructions": "1. In a blender, combine strawberries, 3/4 cup sugar, and a pinch of salt and puree until smooth. Pour into a 9x13 baking dish. Transfer to freezer and scrape with a fork every 30 minutes until mixture is thick and slushy, 2 hours. Smooth top with rubber spatula.\n\n2. In a large bowl, using and electric mixer, beat egg whites on high until foamy. With mixer on medium, gradually add 3/4 cup sugar. Increase speed to high and beat until stiff, glossy peaks form, 3 minutes. In another medium bowl, beat cream and vanilla on high until stiff peaks form, 1 to 2 minutes. With rubber spatula, gently fold whipped cream into egg white mixture. Pour over strawberry mixture and smooth top with rubber spatula. Freeze until firm, about 4 hours (or, covered, up to 3 days), before cutting into 12 squares.",
-        "ingredients": [
-            "2 lb strawberries, hulled, halved if large (6 cups)",
-            "1 1/2 cup sugar",
-            "coarse salt",
-            "7 egg whites",
-            "2/3 cup cold heavy cream",
-            "1 tsp vanilla extract"
-        ],
-        "tags": [
-            "dessert",
-            "untried",
-            "strawberries"
-        ]
-    },
-    "id80": {
-        "id": "id80",
-        "name": "No-churn vanilla ice cream",
-        "source": "Everyday Food June 2011",
-        "preptime": 600,
-        "waittime": 21600,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 1512,
-        "fat": 108,
-        "satfat": 72,
-        "carbs": 120,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 24,
-        "instructions": "In a medium bowl, stir together condensed milk, vanilla, and Bourbon, if desired. In a large bowl, using and electric mixer, beat cream on high until stiff peaks form, 3 minutes. With a rubber spatula, gently fold whipped cream into condensed milk mixture. Pour into a 4.5x8.5-inch loaf pan. Freeze until firm, 6 hours (or covered, up to 1 week).\n\nEach serving is 1/2 cup.",
-        "ingredients": [
-            "1 14oz can sweetened condensed milk",
-            "2 teaspoon pure vanilla extract",
-            "2 tbsp Bourbon, optional",
-            "2 cup heavy cream, cold"
-        ],
-        "tags": [
-            "icecream",
-            "dessert",
-            "untried"
-        ]
-    },
-    "id81": {
-        "id": "id81",
-        "name": "Frozen chocolate mousse trifles",
-        "source": "Everyday Food June 2011",
-        "preptime": 1500,
-        "waittime": 10800,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 1188,
-        "fat": 52,
-        "satfat": 36,
-        "carbs": 160,
-        "fiber": 12,
-        "sugar": 0,
-        "protein": 36,
-        "instructions": "1. In a medium bowl, toss together cake and brandy, if desired. In another medium bowl, using and electric mixer, beat egg whites on high until foamy. With mixer on medium, gradually add sugar. Increase speed to high and beat until stiff, glossy peaks form, 2 minutes. With a rubber spatula, gently fold cocoa powder into egg white mixture.\n\n2. In another medium bowl, beat cream on high until stiff peaks form, 3 minutes. Gently fold whipped cream into egg white mixture.\n\n3. Fill each of four small glasses with 1/4 cup cake and top with heaping 1/4 cup mousse. Repeat to make a second layer with remaining cake and mousse. Freeze until firm, 3 hours (or up to overnight). Let sit 10 minutes at room temperature, then finely grate chocolate over tops to serve.",
-        "ingredients": [
-            "2 cup chocolate angel food cake, crumbled (5 oz)",
-            "1 tbsp brandy (optional)",
-            "4 egg whites",
-            "1/2 cup sugar",
-            "1/3 cup unsweetened cocoa powder, sifted",
-            "1/2 cup heavy cream, cold",
-            "1/2 oz bittersweet chocolate"
-        ],
-        "tags": [
-            "dessert",
-            "chocolate",
-            "untried"
-        ]
-    },
-    "id82": {
-        "id": "id82",
-        "name": "Frozen lemon souffle",
-        "source": "Everyday Food June 2011",
-        "preptime": 1500,
-        "waittime": 23400,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 1732,
-        "fat": 100,
-        "satfat": 48,
-        "carbs": 196,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 56,
-        "instructions": "1. Wrap outside of a 3.5-cup souffle mold or four 6-ounce ramekins with parchment, extending 2 to 3 inches above rim (it should fit snugly). Secure with tape, set aside.\n\n2. In a medium saucepan, whisk together granulated sugar, lemon zest and juice, egg yolks, and salt over medium-high. Cook, whisking constantly, until mixture is thick enough to coat the back of a spoon and small bubbles form around edge of pan, about 5 minutes (do not boil). Immediately remove from heat while continuing to whisk. Pour through a fine-mesh sieve into a heatproof bowl, pressing on lemon curd with a rubber spatula.\n\n3. Place plastic wrap directly against surface of curd and refrigerate until cool, about 30 minutes (or up to overnight).\n\n4. In a large bowl, using an electric mixer, beat egg whites on high until stiff peaks form, 2 minutes. Gently fold egg whites into cooled lemon curd. In the same large bowl, beat cream on high until stiff peaks form, 1 to 2 minutes. Gently fold whipped cream into lemon curd mixture. Pour into mold and freeze until firm, 6 hours (or up to overnight). To serve, remove parchment, top with raspberries and dust with confectioners' sugar.",
-        "ingredients": [
-            "1 cup granulated sugar",
-            "1 tbsp lemon zest, grated",
-            "3/4 cup lemon juice",
-            "8 large eggs, whites and yolks separated",
-            "1/4 tsp salt",
-            "2/3 cup heavy cream, cold",
-            "1 1/2 cup raspberries, about 6 oz",
-            "confectioners' sugar, for dusting"
-        ],
-        "tags": [
-            "lemon",
-            "dessert",
-            "untried"
-        ]
-    },
-    "id83": {
-        "id": "id83",
-        "name": "Coconut lime semifreddo",
-        "source": "Everyday Food June 2011",
-        "preptime": 1800,
-        "waittime": 21600,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 3684,
-        "fat": 276,
-        "satfat": 204,
-        "carbs": 288,
-        "fiber": 12,
-        "sugar": 0,
-        "protein": 48,
-        "instructions": "1. Line a 4.5x8.5-inch loaf pan with parchment, leaving a 4-inch overhang on all sides. Prepare a large bowl of ice water. In a medium saucepan, combine coconut milk and condensed milk and bring to a boil over  high. Reduce heat and cook at a rapid simmer, stirring frequently until thickened, 10 minutes. Remove from heat and stir in lime zest and salt. Place saucepan in bowl of ice water and stir until mixture is cool, 4 minutes.\n\n2. In a large bowl, using an electric mixer, beat cream on high until stiff peaks from, 2 minutes. Gently fold whipped cream into coconut milk mixture. Pour into loaf pan; evenly sprinkle coconut over top. Freeze until firm, 6 hours (or covered, up to 3 days). Let sit 20 minutes at room temperature. Invert onto a serving platter; peel away parchment. Layer mango on top and serve.",
-        "ingredients": [
-            "1 13.5oz can unsweetened coconut milk",
-            "1 14oz can sweetened condensed milk",
-            "1 tbsp lime zest, grated",
-            "1/4 tsp coarse salt",
-            "1 1/2 cup heavy cream, cold",
-            "1/2 cup sweetened shredded coconut, toasted",
-            "1/2 ripe mango, thinly sliced"
-        ],
-        "tags": [
-            "icecream",
-            "coconut",
-            "untried",
-            "dessert"
-        ]
-    },
-    "id84": {
-        "id": "id84",
-        "name": "Sweet cherry granita",
-        "source": "Everyday Food June 2011",
-        "preptime": 600,
-        "waittime": 21600,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 1320,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 276,
-        "fiber": 24,
-        "sugar": 0,
-        "protein": 12,
-        "instructions": "1. In a blender, puree cherries, sugar, and lemon juice until sugar is dissolved and mixture is smooth. Pour into an 8-inch square baking dish. Freeze 6 hours, scraping with fork every hour (mixture should be icy and fluffy).\n\n2. To serve, pour 1 tablespoon liqueur into each of 12 small bowls or glasses. Top with 1/2 cup granita and a small dollop of whipped cream, if desired. Serve immediately.",
-        "ingredients": [
-            "2 lb cherries, stemmed and pitted, or 3 bags (12 oz each) frozen cherries, thawed",
-            "1/2 cup sugar",
-            "1 tbsp lemon juice",
-            "3/4 cup almond-flavored liqueur, such as Disaronno (optional)",
-            "whipped cream or mascarpone cheese (optional), for serving"
-        ],
-        "tags": [
-            "granita",
-            "dessert",
-            "untried",
-            "cherries"
-        ]
-    },
-    "id86": {
-        "id": "id86",
-        "name": "Raspberry-lemon thumbprint cookies",
-        "source": "Emeril Lagasse",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 350 degrees F. Lightly butter 2 large baking sheets.\n\nIn a small bowl, combine the jam and Chambord. Stir to combine.\n\nIn a medium bowl, combine the flour, baking powder, and salt and whisk to blend.\n\nIn a large bowl using an electric mixer, beat the butter and sugar until light and creamy. Beat in the egg yolks, lemon zest, lemon juice and vanilla. Add the flour mixture in 2 additions and beat just until moist clumps form. Gather the dough together into a ball.\n\nPinch off the dough to form 1-inch balls. Place on the prepared baking sheets, spacing 1-inch apart. Use your floured index finger or 1/2 teaspoon measuring spoon to create depressions in the center of each ball. Fill each indentation with nearly 1/2 teaspoon of the jam mixture. Bake until golden brown, about 20 minutes.\n\nTransfer the cookies to wire racks to cool completely.\n\nYield: 2 dozen",
-        "ingredients": [
-            "1/2 cup raspberry jam or jelly",
-            "1 tablespoon Chambord or kirsch",
-            "2 1/4 cup all-purpose flour",
-            "1 teaspoon baking powder",
-            "1/4 teaspoon salt",
-            "1 cup butter, at room temperature",
-            "2/3 cup sugar",
-            "2 egg yolks",
-            "1 tablespoon lemon zest",
-            "1 tablespoon lemon juice",
-            "1 teaspoon pure vanilla extract"
-        ],
-        "tags": [
-            "cookies",
-            "raspberry",
-            "dessert"
         ]
     },
     "id88": {
@@ -4587,447 +2126,21 @@
             "1/2 tsp fresh thyme leaves",
             "Salt and freshly ground pepper"
         ],
+        "materials": {
+            "unsalted butter": {},
+            "baby carrots": {
+                "quantity": "907",
+                "unit": "grams"
+            },
+            "oranges": {
+                "quantity": "5",
+                "unit": "number"
+            },
+            "salt": {},
+            "pepper": {},
+        },
         "tags": [
             "sides",
-            "untried"
-        ]
-    },
-    "id89": {
-        "id": "id89",
-        "name": "Baby Brussels sprouts with wild rice and pecans",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Bring a large saucepan of water to a boil. Stir in wild rice, reduce to a simmer, and cook (uncovered) until tender, about 40 minutes. Drain rice.\n\n2. Meanwhile, melt 2 tbsp (or 2/3) of the butter in a large saute pan over medium heat. Toast pecans, stirring frequently, until fragrant, about 5 minutes. With a slotted spoon, transfer pecans to a plate, and season with salt.\n\n3. Add remaining butter, the pearl onions, and the water to pan; simmer until water is evaporated and onions are tender and pale golden, about 10 minutes.\n\n4. Trim Brussels sprouts, then score an X into the bottom of each one. Place in a  steaming basket or colander set in a saucepan filled with 1 inch of water. Bring water to a boil, then reduce to a simmer; cover and steam until just tender enough to pierce with the tip of a sharp knife, 6 to 8 minutes.\n\n5. In a bowl, whisk together sherry vinegar, maple syrup, and mustard. Add rice, Brussels sprouts, and onions; toss to coat, and season with salt and pepper. Coarsely chop pecans and add just before serving, warm or at room temperature.",
-        "ingredients": [
-            "2 cup wild rice",
-            "3 tbsp unsalted butter, divided use",
-            "3/4 cup pecans",
-            "Salt",
-            "5 oz red pearl onions, peeled and halved through root end (about 1 cup=5 oz)",
-            "1/2 cup water",
-            "1 lb baby Brussels sprouts",
-            "2 tbsp sherry vinegar",
-            "3 tbsp pure maple syrup",
-            "2 tsp Dijon mustard"
-        ],
-        "tags": [
-            "vegetarian",
-            "main"
-        ]
-    },
-    "id90": {
-        "id": "id90",
-        "name": "Pumpkin mousse",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 10,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. In a small saucepan, sprinkle gelatin over the cold water, and let soften 5 minutes. Cook softened gelatin over medium heat, swirling pan, just until gelatin is dissolved; do not let boil. Let cool completely.\n\n2. Place pumpkin puree in a large bowl. Stir in softened gelatin, then add egg yolks, maple syrup, nutmeg, vanilla, ginger, allspice, salt, white pepper, and rum. Whisk until fully blended.\n\n3. With an electric mixer on medium speed, whisk egg whites and the sugar to soft peaks. Gently fold egg-white mixture into pumpkin mixture to combine. Whip heavy cream on medium high to stiff peaks, then gently but thoroughly fold into pumpkin mixture.\n\n4. Divide mousse among 8 to 10 glasses; refrigerate until set, at least 2 hours, or up to 1 day, covered with plastic wrap. If desired, top each with a dollop of sweetened whipped cream and a pastry leaf before serving.\n\nFood safety note: the eggs in this recipe are not cooked",
-        "ingredients": [
-            "1 envelope unflavored powdered gelatin",
-            "1/4 cup cold water",
-            "5/8 cup canned unsweetened pumpkin puree, 1/2 cup plus 2 tbsp",
-            "4 large eggs, separated",
-            "3/8 cup maple syrup, 1/4 cup plus 2 tbsp",
-            "1/2 tsp pure vanilla extract",
-            "1/2 tsp ground ginger",
-            "1/2 tsp ground allspice",
-            "1/4 tsp salt",
-            "Pinch of freshly ground white pepper",
-            "2 tbsp dark rum",
-            "1/4 cup sugar",
-            "1 cup heavy cream",
-            "Sweetened whipped cream, for serving (optional)",
-            "Pastry leaves for garnish (optional; see [Pate Brisee recipe](http://www.xanthir.com/recipes/showrecipe.php?id=id101))"
-        ],
-        "tags": [
-            "dessert",
-            "pumpkin",
-            "untried"
-        ]
-    },
-    "id93": {
-        "id": "id93",
-        "name": "Salted caramel six layer chocolate cake",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 2700,
-        "waittime": 3600,
-        "cooktime": 2100,
-        "servings": 12,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 350F. Make the cake: butter three 9-inch round cake pans, and dust with flour, tapping out excess. Sift flour, granulated sugar, cocoa, baking soda, baking powder, and 1 1/2 teaspoons salt into the bowl of a mixer. Beat on low speed until just combined. Raise speed to medium and add eggs, buttermilk, warm water, oil, and vanilla. Beat until smooth, about 3 minutes.\n\n2. Divide batter among pans. Bake until cakes are set and a toothpick inserted into the center of each comes out clean, about 35 minutes. Let cool in pans set on a wire rack for 15 minutes. Turn out cakes onto racks and let cool completely.\n\n3. Make the caramel: Combine granulated sugar, corn syrup, and water in a medium saucepan over high heat. Cook, without stirring, until mixture is dark amber, about 14 minutes. Remove from heat, and carefully pour in cream (mixture will bubble violently); stir until smooth. Return to heat, and cook until a candy thermometer reaches 238F, about 2 minutes. Pour caramel into a medium bowl, stir in 1 teaspoon coarse salt, and let cool slightly, about 15 minutes. Stir in butter, 1 tablespoon at a time. Let cool completely.\n\n4. Meanwhile, make the frosting: whisk together cocoa and warm water in a bowl until cocoa dissolves. Beat butter, confections' sugar, and a generous pinch of coarse salt in a clean bowl with a mixer on medium speed until pale and fluffy. Gradually beat in melted chocolate and then cocoa mixture until combined. Let stand for 30 minutes before using.\n\n5. Trim tops of cakes using a serrated knife to creat a level surface. Cut each in half horizontally to form 2 layers. Transfer 1 layer to a serving platter and spread 3/4 cup caramel over top. Top with another cake layer, and repeat with remaining caramel and cake layers, leaving top uncovered. Refrigerate until set, about 1 hour.\n\n6. Frost top and sides of cake in a swirling motion. Sprinkle with sea salt.\n\nMake ahead: Caramel can be refrigerated for up to 3 days. Bring to room temperature before using. Cake layers can be refrigerated for up to 3 days (they actually taste better when refrigerated and have a better texture for stacking).\n\nStorage: Frosted cake can be refrigerated for up to 3 days.",
-        "ingredients": [
-            "Unsalted butter, room temperature, for pans",
-            "3 cup all-purpose flour, plus more for pans",
-            "3 cup granulated sugar",
-            "1 1/2 cup unsweetened Dutch-process cocoa powder",
-            "1 tbsp baking soda",
-            "1 1/2 tsp baking powder",
-            "Salt",
-            "4 large eggs 1 1/2 cups buttermilk",
-            "1 1/2 cup warm water",
-            "5/8 cup safflower oil, 1/2 cup plus 2 tbsp",
-            "2 tsp pure vanilla extract",
-            "4 cup granulated sugar",
-            "1/4 cup light corn syrup",
-            "1/4 cup water",
-            "2 cup heavy cream",
-            "Salt",
-            "2 stick unsalted butter, cold, cut into tablespoons",
-            "3/8 cup Dutch-process cocoa powder, 1/4 cup plus 2 tbsp",
-            "3/8 cup warm water",
-            "2 stick unsalted butter, room temperature",
-            "1/2 cup confectioners' sugar",
-            "Salt",
-            "1 lb semisweet chocolate, chopped, melted, and cooled",
-            "Flaked sea salt, such as Maldon, for garnish"
-        ],
-        "tags": [
-            "dessert",
-            "cake",
-            "untried"
-        ]
-    },
-    "id95": {
-        "id": "id95",
-        "name": "Cranberry almond muffins",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 1200,
-        "waittime": 600,
-        "cooktime": 1200,
-        "servings": 16,
-        "comments": "",
-        "calories": 2096,
-        "fat": 48,
-        "satfat": 16,
-        "carbs": 384,
-        "fiber": 32,
-        "sugar": 208,
-        "protein": 64,
-        "instructions": "1. Preheat oven to 350F. Line 16 cups of two 12-cup muffin tins with baking cups and lightly coat each with cooking spray.\n2. Whisk together sugar, flours, baking soda, and salt in a large bowl. Whisk together milk, yogurt, eggs, and orange zest and juice in a medium bowl. Fold milk mixture into flour mixture, then gently fold in cranberries until combined.\n3. Spoon batter into baking cups until each is three-quarters full. Sprinkle with almonds. Bake until a toothpick inserted into the center of each comes out clean, about 20 minutes. Transfer pans to wire racks, and let cool for 10 minutes. Turn out muffins onto racks and let cool completely.",
-        "ingredients": [
-            "Vegetable oil cooking spray",
-            "1 1/4 cup sugar",
-            "1 cup whole-wheat flour",
-            "3/4 cup all-purpose flour",
-            "3/4 cup almond flour",
-            "1 tsp baking soda",
-            "1/4 tsp salt",
-            "2/3 cup nonfat milk",
-            "2/3 cup plain low-fat yogurt",
-            "2 large eggs",
-            "1 orange, zested and juiced",
-            "1 cup cranberries, fresh or frozen",
-            "1/2 cup sliced almonds"
-        ],
-        "tags": [
-            "muffins",
-            "breakfast",
-            "untried"
-        ]
-    },
-    "id96": {
-        "id": "id96",
-        "name": "Hazelnut pear muffins",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 1200,
-        "waittime": 600,
-        "cooktime": 1200,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 350F. Line 16 cups of two 12-cup muffin tins with baking cups and lightly coat each with cooking spray.\n2. Whisk together sugar, flours, baking soda, and salt in a large bowl. Whisk together milk, yogurt, eggs, and orange zest and juice in a medium bowl. Fold milk mixture into flour mixture, then gently fold in pears until combined.\n3. Spoon batter into baking cups until each is three-quarters full. Sprinkle with hazelnuts. Bake until a toothpick inserted into the center of each comes out clean, about 20 minutes. Transfer pans to wire racks, and let cool for 10 minutes. Turn out muffins onto racks and let cool completely.",
-        "ingredients": [
-            "Vegetable oil cooking spray",
-            "1 1/4 cup sugar",
-            "1 cup whole-wheat flour",
-            "3/4 cup all-purpose flour",
-            "3/4 cup hazelnut flour",
-            "1 tsp baking soda",
-            "1/4 tsp salt",
-            "2/3 cup nonfat milk",
-            "2/3 cup plain low-fat yogurt",
-            "2 large eggs",
-            "1 orange, zested and juiced",
-            "1 1/2 Bosc pears, peeled, cored and chopped to make 2 cups",
-            "1/2 cup hazelnuts, coarsely chopped"
-        ],
-        "tags": [
-            "muffins",
-            "breakfast",
-            "untried"
-        ]
-    },
-    "id97": {
-        "id": "id97",
-        "name": "Hazelnut pastry dough",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 1200,
-        "waittime": 4200,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Pulse flour, hazelnuts, and 1/4 teaspoon salt in a food processor until combined. Add butter, and pulse until mixture resembles coarse meal, about 10 seconds. Drizzle 1/4 cup ice water evenly over mixture and pulse until it just begins to hold together (dough should not be wet or sticky). If dough is too dry, add more water, 1 tablespoon at a time, and pulse.\n\n2. Divide dough in half, and shape each half into a rectangle. Wrap in plastic wrap. Refrigerate until firm, about 1 hour. Let stand for 10 minutes before rolling.\n\nMake ahead: Dough can be refrigerated overnight or frozen for up to 3 months. Let chilled dough stand at room temperature for 10 minutes and fozen dough thaw before using.",
-        "ingredients": [
-            "1 3/4 cup all-purpose flour",
-            "1/2 cup toasted skinned hazelnuts, ground",
-            "Salt",
-            "2 stick unsalted butter, cut into pieces",
-            "1/4 cup ice water"
-        ],
-        "tags": [
-            "pastry",
-            "dessert",
-            "components",
-            "untried"
-        ]
-    },
-    "id99": {
-        "id": "id99",
-        "name": "Pesto",
-        "source": "Based on 'Pesto' from Betty Crocker's Cookbook, 9th ed.",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 10,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Place pine nuts in a skillet over medium-low heat. Stir or toss frequently until toasted. Cool before using.\n\nPlace basil, pine nuts, and garlic in food processor or blender. Pulse until finely chopped. With motor running, slowly drizzle in olive oil. Blend a few minutes, stopping occasionally to scrape sides, until smooth.\n\nStir in grated Parmesan. Taste for seasoning and add salt and pepper to taste, if desired. Yields about 1 1/4 cup pesto.",
-        "ingredients": [
-            "1/4 cup pine nuts",
-            "2 cup firmly packed basil leaves",
-            "3 clove garlic",
-            "1/2 cup best quality extra-virgin olive oil",
-            "3/4 cup freshly grated Parmesan cheese",
-            "Salt and freshly ground pepper, to taste"
-        ],
-        "tags": [
-            "pesto",
-            "vegetarian",
-            "components"
-        ]
-    },
-    "id101": {
-        "id": "id101",
-        "name": "Pate brisee",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 900,
-        "waittime": 3600,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Pulse flour, sugar, and salt in a food processor until combined. dd butter, and pulse until mixture resembles coarse meal, about 10 seconds. Drizzle 1/4 cup ice water evenly over mixture. Pulse until mixture holds together when pressed between 2 fingers (dough should not be wet or sticky). If dough is too dry, add more water, 1 tablespoon at a time, and pulse.\n\n2. Shape dough into 1 large disk or 2 small disks, and wrap in plastic wrap. Refrigerate until firm, at least 1 hour. Dough can be refrigerated overnight or frozen for up to 3 months.\n\nTo make pastry leaves for garnishing: roll out dough to a 1/4-inch thickness on a lightly floured surface and cut out leaves using floured leaf-shaped cookie cutters. Bake on a parchment-lined baking sheet at 350F, rotating sheet halfway throuh, until pale gold, about 12 minutes.",
-        "ingredients": [
-            "2 1/2 cup all-purpose flour",
-            "1 tbsp sugar",
-            "1 tsp salt",
-            "2 1/4 stick unsalted butter, cold and cut into small pieces",
-            "1/4 to 1/2 cup ice water"
-        ],
-        "tags": [
-            "pastry",
-            "components",
-            "untried"
-        ]
-    },
-    "id104": {
-        "id": "id104",
-        "name": "Tex-mex rice and black eyed peas",
-        "source": "Food Network Magazine Nov 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 2168,
-        "fat": 88,
-        "satfat": 32,
-        "carbs": 264,
-        "fiber": 44,
-        "sugar": 32,
-        "protein": 84,
-        "instructions": "1. Cook the rice as the label directs. Meanwhile, heat the olive oil in a medium saucepan over medium-high heat. Add the salsa and cumin and cook, stirring, until the salsa is soft, about 5 minutes. Add the black-eyed peas, plus the liquid from one of the cans and 1/4 cup water. Cook, stirring occasionally, until the beans are creamy and tender, about 12 minutes.\n\n2. Fluff the rice with a fork and divide among bowls. Add the spinach and cilantro to the black-eyed pea mixture and stir until wilted, about 1 minute; spoon evenly over the rice. Top each serving with a few avocado slices, some cheese and more salsa. Serve with sour cream or Greek yogurt, if desired.",
-        "ingredients": [
-            "1 cup uncooked brown rice",
-            "1 tbsp extra-virgin olive oil",
-            "1 cup fresh salsa, plus more for topping",
-            "1/2 tsp ground cumin",
-            "2 14oz cans black-eyed peas, 1 undrained; 1 drained and rinsed",
-            "3 cup baby spinach",
-            "1/4 cup fresh cilantro, chopped",
-            "1 avocado, halved, pitted and sliced",
-            "1 cup shredded cheddar cheese",
-            "Sour cream or Greek yogurt, for serving (optional)"
-        ],
-        "tags": [
-            "vegetarian",
-            "main"
-        ]
-    },
-    "id105": {
-        "id": "id105",
-        "name": "Baked eggs and beans on toast",
-        "source": "Food Network Magazine Nov 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 2236,
-        "fat": 80,
-        "satfat": 20,
-        "carbs": 268,
-        "fiber": 48,
-        "sugar": 0,
-        "protein": 116,
-        "instructions": "1. Preheat the oven to 375F. Heat olive oil in a large ovenproof skillet over medium-high heat. Add the onion and cook, stirring, until golden, about 5 minutes. Add the tomato paste and cook, stirring, 1 more minute. Stir in the vinegar, honey mustard, Worcestershire sauce, water, and salt and pepper to taste. Bring to a simmer, then add the beans, plus the liquid from one of the cans. Cook until the beans are soft, about 5 more minutes.\n\n2. Make eight indentations in the bean mixture and crack an egg into each. Sprinkle with salt and pepper and transfer to the oven. Bake until the egg whites are set, 10 to 14 minutes. (For 2 servings, 8-9 minutes. Whites should still be slightly \"jiggly\" when you remove from oven.)\n\n3. Meanwhile, heat a large skillet over medium-high heat. Brush the bread with olive oil on both sides and toast in the skillet, 1 minute per side. Toss the tomatoes, parsley and remaining olive oil, and salt and pepper to taste in a bowl. Divide the toast among plates; top each with 2 eggs, some beans and the tomato salad.",
-        "ingredients": [
-            "1 1/2 tbsp extra-virgin olive oil, plus more for brushing",
-            "1/2 small onion, chopped",
-            "1 tbsp tomato paste",
-            "2 tbsp apple cider vinegar",
-            "1 tbsp honey mustard",
-            "2 tsp Worcestershire sauce",
-            "1/2 cup water",
-            "Kosher salt and freshly ground pepper",
-            "2 can navy beans, 1 undrained; 1 drained and rinsed",
-            "8 large eggs",
-            "8 thick slices crusty bread",
-            "2 cup grape tomatoes, halved",
-            "1/4 cup fresh parsley, chopped",
-            "1/2 tbsp olive oil"
-        ],
-        "tags": [
-            "vegetarian",
-            "main"
-        ]
-    },
-    "id107": {
-        "id": "id107",
-        "name": "Warm shrimp and potato salad",
-        "source": "Food Network Magazine Nov 2011",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 1800,
-        "servings": 4,
-        "comments": "",
-        "calories": 1720,
-        "fat": 96,
-        "satfat": 24,
-        "carbs": 94,
-        "fiber": 12,
-        "sugar": 0,
-        "protein": 116,
-        "instructions": "1. Preheat the oven to 400F. Toss the potatoes and bell pepper with olive oil, salt and pepper to taste in a shallow baking dish. Roast 15 minutes. Meanwhile, toss the shrimp with the garlic, oregano, paprika, olive oil, salt, and pepper to taste in a medium bowl.\n\n2. Add the shrimp to the baking dish. Roast, stirring once, until the shrimp are just cooked through and the potatoes are golden brown, 12 to 15 more minutes.\n\n3. Toss the romaine in a serving bowl with the lemon juice, olive oil, and salt and pepper to taste. Add the warm shrimp and vegetables and toss to combine. Top with the feta.",
-        "ingredients": [
-            "1 lb small red-skinned potatoes, halved",
-            "1 red bell pepper, thinly sliced",
-            "1 tbsp extra-virgin olive oil",
-            "1/2 tsp salt",
-            "Freshly ground pepper",
-            "1 lb medium shrimp, peeled, deveined and halved crosswise",
-            "2 clove garlic, chopped",
-            "1 tsp dried oregano",
-            "1/2 tsp paprika",
-            "1 tbsp extra-virgin olive oil",
-            "1/4 tsp salt",
-            "4 cup romaine lettuce, torn into bite-sized pieces",
-            "1 1/2 tbsp fresh lemon juice",
-            "3 tbsp extra-virgin olive oil",
-            "1/2 cup crumbled feta cheese"
-        ],
-        "tags": [
-            "shrimp",
-            "seafood",
-            "salad",
-            "main"
-        ]
-    },
-    "id108": {
-        "id": "id108",
-        "name": "Cherry couscous pudding",
-        "source": "Food Network Magazine Nov 2011",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 120,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Bring milks, sugar, almond extract, and a pinch of salt to a boil in a saucepan over medium heat. Add couscous, dried cherries and cinnamon stick; cover and cook 2 minutes. Remove from the heat and let sit, covered, 8 minutes. Fluff with a fork, remove the cinnamon stick and divide among bowls. Top with toasted almond slices and honey, if desired.",
-        "ingredients": [
-            "1 cup skim milk",
-            "1 cup almond milk",
-            "1/4 cup sugar",
-            "1/4 tsp almond extract",
-            "salt",
-            "3/4 cup whole-wheat couscous",
-            "1/2 cup dried cherries",
-            "1 stick cinnamon",
-            "1/4 cup sliced almonds, toasted",
-            "honey"
-        ],
-        "tags": [
-            "dessert",
-            "cherries",
             "untried"
         ]
     },
