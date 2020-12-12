@@ -1,7 +1,7 @@
 {
     "4": {
         "id": "4",
-        "name": "Strawberries Romanov (La Madeleine copycat)",
+        "name": "Strawberries Romanov",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/the-cuisinier.appspot.com/o/recipes%2Fla-madeleine.jpeg?alt=media&token=11933d99-5d9d-4941-a7d5-24e267066952",
         "waittime": 0,
         "cooktime": 0,
@@ -42,13 +42,12 @@
             "fruit",
             "dessert",
             "strawberries",
-            "copycat",
             "untried"
         ]
     },
     "5": {
         "id": "5",
-        "name": "Tomato Basil Soup (La Madeleine copycat)",
+        "name": "Tomato Basil Soup",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/the-cuisinier.appspot.com/o/recipes%2Fla-madeline-tomato-basil-soup-recipe.jpg?alt=media",
         "waittime": 0,
         "cooktime": 0,
@@ -90,7 +89,6 @@
         "tags": [
             "soup",
             "tomatoes",
-            "copycat",
             "main"
         ]
     },
@@ -190,7 +188,7 @@
                 "quantity": "1/2",
                 "unit": "cup"
             },
-            "onions": {
+            "onion": {
                 "quantity": "120",
                 "unit": "grams"
             }
@@ -313,7 +311,7 @@
         "instructions": "1. Place all ingredients in a bowl with a flat bottom and mash it with a potato masher.  Alternatively, you can mix everything briefly in a food processor.\n2. Stir well and keep refrigerated. This dish will brown on the areas exposed to air within a few hours, so serve it shortly after making it or just stir again before serving.",
         "ingredients": [
             "4 ripe avocados",
-            "2 roma tomates, diced fine",
+            "2 roma tomatoes, diced fine",
             "1/2 red onion, minced",
             "1/2 handful cilantro, minced",
             "2 clove garlic, minced",
@@ -326,7 +324,7 @@
                 "quantity": "4",
                 "unit": "number"
             },
-            "tomates": {
+            "tomatoes": {
                 "quantity": "50",
                 "unit": "grams"
             },
@@ -1241,7 +1239,7 @@
             "salt and freshly ground pepper"
         ],
         "materials": {
-            "onions": {
+            "onion": {
                 "quantity": "200",
                 "unit": "grams"
             },
@@ -1579,7 +1577,7 @@
         "materials": {
             "chilli sauce": {},
             "ketchup": {},
-            "onions": {
+            "onion": {
                 "quantity": "250",
                 "unit": "grams"
             },
@@ -1747,7 +1745,7 @@
                 "quantity": "250",
                 "unit": "grams"
             },
-            "onions": {
+            "onion": {
                 "quantity": "300",
                 "unit": "grams"
             },
@@ -1882,7 +1880,7 @@
                 "quantity": "22",
                 "unit": "grams"
             },
-            "onions": {
+            "onion": {
                 "quantity": "908",
                 "unit": "grams"
             },
